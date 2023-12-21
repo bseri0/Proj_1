@@ -1,0 +1,1293 @@
+State,City/Town,Places
+ Alabama,Auburn,3076
+ Alabama,Birmingham,7000
+ Alabama,Dothan,21184
+ Alabama,Hoover,35896
+ Alabama,Huntsville,37000
+ Alabama,Mobile,50000
+ Alabama,Montgomery,51000
+ Alabama,Tuscaloosa,77256
+ Alaska,Anchorage municipality,3000
+ Arizona,Avondale,4720
+ Arizona,Buckeye,7940
+ Arizona,Casas Adobes CDP,10670
+ Arizona,Chandler,12000
+ Arizona,Flagstaff,23620
+ Arizona,Gilbert,27400
+ Arizona,Glendale,27820
+ Arizona,Goodyear,28380
+ Arizona,Maricopa,44410
+ Arizona,Mesa,46000
+ Arizona,Peoria,54050
+ Arizona,Phoenix,55000
+ Arizona,Queen Creek,58150
+ Arizona,San Tan Valley CDP,64210
+ Arizona,Scottsdale,65000
+ Arizona,Surprise,71510
+ Arizona,Tempe,73000
+ Arizona,Tucson,77000
+ Arizona,Yuma,85540
+ Arkansas,Conway,15190
+ Arkansas,Fayetteville,23290
+ Arkansas,Fort Smith,24550
+ Arkansas,Jonesboro,35710
+ Arkansas,Little Rock,41000
+ Arkansas,Rogers,60410
+ Arkansas,Springdale,66080
+ California,Alameda,562
+ California,Alhambra,884
+ California,Anaheim,2000
+ California,Antioch,2252
+ California,Apple Valley,2364
+ California,Arden-Arcade CDP,2553
+ California,Bakersfield,3526
+ California,Baldwin Park,3666
+ California,Bellflower,4982
+ California,Berkeley,6000
+ California,Brentwood,8142
+ California,Buena Park,8786
+ California,Burbank,8954
+ California,Camarillo,10046
+ California,Carlsbad,11194
+ California,Carmichael CDP,11390
+ California,Carson,11530
+ California,Castro Valley CDP,11964
+ California,Chico,13014
+ California,Chino,13210
+ California,Chino Hills,13214
+ California,Chula Vista,13392
+ California,Citrus Heights,13588
+ California,Clovis,14218
+ California,Compton,15044
+ California,Concord,16000
+ California,Corona,16350
+ California,Costa Mesa,16532
+ California,Daly,17918
+ California,Davis,18100
+ California,Downey,19766
+ California,Dublin,20018
+ California,East Los Angeles CDP,20802
+ California,Eastvale,21230
+ California,El Cajon,21712
+ California,Elk Grove,22020
+ California,El Monte,22230
+ California,Escondido,22804
+ California,Fairfield,23182
+ California,Folsom,24638
+ California,Fontana,24680
+ California,Fremont,26000
+ California,Fresno,27000
+ California,Fullerton,28000
+ California,Garden Grove,29000
+ California,Glendale,30000
+ California,Hawthorne,32548
+ California,Hayward,33000
+ California,Hemet,33182
+ California,Hesperia,33434
+ California,Huntington Beach,36000
+ California,Indio,36448
+ California,Inglewood,36546
+ California,Irvine,36770
+ California,Jurupa Valley,37692
+ California,Lake Elsinore,39486
+ California,Lake Forest,39496
+ California,Lakewood,39892
+ California,Lancaster,40130
+ California,Livermore,41992
+ California,Lodi,42202
+ California,Long Beach,43000
+ California,Los Angeles,44000
+ California,Lynwood,44574
+ California,Madera,45022
+ California,Manteca,45484
+ California,Menifee,46842
+ California,Merced,46898
+ California,Milpitas,47766
+ California,Mission Viejo,48256
+ California,Modesto,48354
+ California,Moreno Valley,49270
+ California,Mountain View,49670
+ California,Murrieta,50076
+ California,Napa,50258
+ California,Newport Beach,51182
+ California,Norwalk,52526
+ California,Oakland,53000
+ California,Oceanside,53322
+ California,Ontario,53896
+ California,Orange,53980
+ California,Oxnard,54652
+ California,Palmdale,55156
+ California,Palo Alto,55282
+ California,Pasadena,56000
+ California,Perris,56700
+ California,Pittsburg,57456
+ California,Pleasanton,57792
+ California,Pomona,58072
+ California,Rancho Cordova,59444
+ California,Rancho Cucamonga,59451
+ California,Redding,59920
+ California,Redlands,59962
+ California,Redondo Beach,60018
+ California,Redwood,60102
+ California,Rialto,60466
+ California,Richmond,60620
+ California,Riverside,62000
+ California,Rocklin,62364
+ California,Roseville,62938
+ California,Sacramento,64000
+ California,Salinas,64224
+ California,San Bernardino,65000
+ California,San Buenaventura (Ventura),65042
+ California,San Diego,66000
+ California,San Francisco,67000
+ California,San Jose,68000
+ California,San Leandro,68084
+ California,San Marcos,68196
+ California,San Mateo,68252
+ California,San Ramon,68378
+ California,Santa Ana,69000
+ California,Santa Barbara,69070
+ California,Santa Clara,69084
+ California,Santa Clarita,69088
+ California,Santa Maria,69196
+ California,Santa Monica,70000
+ California,Santa Rosa,70098
+ California,Simi Valley,72016
+ California,South Gate,73080
+ California,Stockton,75000
+ California,Sunnyvale,77000
+ California,Temecula,78120
+ California,Thousand Oaks,78582
+ California,Torrance,80000
+ California,Tracy,80238
+ California,Tulare,80644
+ California,Turlock,80812
+ California,Tustin,80854
+ California,Union,81204
+ California,Upland,81344
+ California,Vacaville,81554
+ California,Vallejo,81666
+ California,Victorville,82590
+ California,Visalia,82954
+ California,Vista,82996
+ California,Walnut Creek,83346
+ California,West Covina,84200
+ California,Westminster,84550
+ California,Whittier,85292
+ California,Yorba Linda,86832
+ California,Yuba,86972
+ Colorado,Arvada,3455
+ Colorado,Aurora,4000
+ Colorado,Boulder,7850
+ Colorado,Broomfield,9280
+ Colorado,Castle Rock,12415
+ Colorado,Centennial,12815
+ Colorado,Colorado Springs,16000
+ Colorado,Commerce,16495
+ Colorado,Denver,20000
+ Colorado,Fort Collins,27425
+ Colorado,Grand Junction,31660
+ Colorado,Greeley,32155
+ Colorado,Highlands Ranch CDP,36410
+ Colorado,Lakewood,43000
+ Colorado,Longmont,45970
+ Colorado,Loveland,46465
+ Colorado,Pueblo,62000
+ Colorado,Thornton,77290
+ Colorado,Westminster,83835
+ Connecticut,Bridgeport,8000
+ Connecticut,Danbury,18430
+ Connecticut,Hartford,37000
+ Connecticut,New Britain,50370
+ Connecticut,New Haven,52000
+ Connecticut,Norwalk,55990
+ Connecticut,Stamford,73000
+ Connecticut,Waterbury,80000
+ Delaware,Wilmington,77580
+ District of Columbia,Washington,50000
+ Florida,Alafaya CDP,410
+ Florida,Boca Raton,7300
+ Florida,Boynton Beach,7875
+ Florida,Brandon CDP,8150
+ Florida,Cape Coral,10275
+ Florida,Clearwater,12875
+ Florida,Coral Springs,14400
+ Florida,Davie,16475
+ Florida,Daytona Beach,16525
+ Florida,Deerfield Beach,16725
+ Florida,Delray Beach,17100
+ Florida,Deltona,17200
+ Florida,Doral,17935
+ Florida,Fort Lauderdale,24000
+ Florida,Fort Myers,24125
+ Florida,Four Corners CDP,24581
+ Florida,Gainesville,25175
+ Florida,Hialeah,30000
+ Florida,Hollywood,32000
+ Florida,Homestead,32275
+ Florida,Jacksonville,35000
+ Florida,Kendall CDP,36100
+ Florida,Kissimmee,36950
+ Florida,Lakeland,38250
+ Florida,Largo,39425
+ Florida,Lauderhill,39550
+ Florida,Lehigh Acres CDP,39925
+ Florida,Melbourne,43975
+ Florida,Miami,45000
+ Florida,Miami Beach,45025
+ Florida,Miami Gardens,45060
+ Florida,Miramar,45975
+ Florida,North Port,49675
+ Florida,Ocala,50750
+ Florida,Orlando,53000
+ Florida,Palm Bay,54000
+ Florida,Palm Coast,54200
+ Florida,Palm Harbor CDP,54350
+ Florida,Pembroke Pines,55775
+ Florida,Pine Hills CDP,56825
+ Florida,Plantation,57425
+ Florida,Poinciana CDP,57900
+ Florida,Pompano Beach,58050
+ Florida,Port Charlotte CDP,58350
+ Florida,Port St. Lucie,58715
+ Florida,Riverview CDP,60950
+ Florida,St. Petersburg,63000
+ Florida,Spring Hill CDP,68350
+ Florida,Sunrise,69700
+ Florida,Tallahassee,70600
+ Florida,Tamarac,70675
+ Florida,Tampa,71000
+ Florida,The Villages CDP,71625
+ Florida,Town 'n' Country CDP,72145
+ Florida,Wesley Chapel CDP,75875
+ Florida,Weston,76582
+ Florida,West Palm Beach,76600
+ Georgia,Albany,1052
+ Georgia,Alpharetta,1696
+ Georgia,Athens-Clarke County unified government (balance),3440
+ Georgia,Atlanta,4000
+ Georgia,Augusta-Richmond County consolidated government (balance),4204
+ Georgia,Columbus,19000
+ Georgia,Johns Creek,42425
+ Georgia,Macon-Bibb County,49008
+ Georgia,Roswell,67284
+ Georgia,Sandy Springs,68516
+ Georgia,Savannah,69000
+ Georgia,South Fulton,72122
+ Georgia,Warner Robins,80508
+ Hawaii,Urban Honolulu CDP,71550
+ Idaho,Boise,8830
+ Idaho,Caldwell,12250
+ Idaho,Idaho Falls,39700
+ Idaho,Meridian,52120
+ Idaho,Nampa,56260
+ Illinois,Arlington Heights village,2154
+ Illinois,Aurora,3012
+ Illinois,Bloomington,6613
+ Illinois,Bolingbrook village,7133
+ Illinois,Champaign,12385
+ Illinois,Chicago,14000
+ Illinois,Cicero,14351
+ Illinois,Decatur,18823
+ Illinois,Elgin,23074
+ Illinois,Evanston,24582
+ Illinois,Joliet,38570
+ Illinois,Naperville,51622
+ Illinois,Palatine village,57225
+ Illinois,Peoria,59000
+ Illinois,Rockford,65000
+ Illinois,Schaumburg village,68003
+ Illinois,Skokie village,70122
+ Illinois,Springfield,72000
+ Illinois,Waukegan,79293
+ Indiana,Bloomington,5860
+ Indiana,Carmel,10342
+ Indiana,Evansville,22000
+ Indiana,Fishers,23278
+ Indiana,Fort Wayne,25000
+ Indiana,Gary,27000
+ Indiana,Hammond,31000
+ Indiana,Indianapolis (balance),36003
+ Indiana,Lafayette,40788
+ Indiana,Muncie,51876
+ Indiana,Noblesville,54180
+ Indiana,South Bend,71000
+ Iowa,Ames,1855
+ Iowa,Ankeny,2305
+ Iowa,Cedar Rapids,12000
+ Iowa,Davenport,19000
+ Iowa,Des Moines,21000
+ Iowa,Iowa,38595
+ Iowa,Sioux,73335
+ Iowa,Waterloo,82425
+ Iowa,West Des Moines,83910
+ Kansas,Kansas,36000
+ Kansas,Lawrence,38900
+ Kansas,Olathe,52575
+ Kansas,Overland Park,53775
+ Kansas,Shawnee,64500
+ Kansas,Topeka,71000
+ Kansas,Wichita,79000
+ Kentucky,Bowling Green,8902
+ Kentucky,Lexington-Fayette urban county,46027
+ Kentucky,Louisville/Jefferson County metro government (balance),48006
+ Louisiana,Baton Rouge,5000
+ Louisiana,Kenner,39475
+ Louisiana,Lafayette,40735
+ Louisiana,Lake Charles,41155
+ Louisiana,Metairie CDP,50115
+ Louisiana,New Orleans,55000
+ Louisiana,Shreveport,70000
+ Maine,Portland,60545
+ Maryland,Baltimore,4000
+ Maryland,Bethesda CDP,7125
+ Maryland,Columbia CDP,19125
+ Maryland,Dundalk CDP,23975
+ Maryland,Ellicott CDP,26000
+ Maryland,Frederick,30325
+ Maryland,Gaithersburg,31175
+ Maryland,Germantown CDP,32025
+ Maryland,Glen Burnie CDP,32650
+ Maryland,Rockville,67675
+ Maryland,Silver Spring CDP,72450
+ Maryland,Waldorf CDP,81175
+ Massachusetts,Boston,7000
+ Massachusetts,Brockton,9000
+ Massachusetts,Cambridge,11000
+ Massachusetts,Fall River,23000
+ Massachusetts,Framingham,24960
+ Massachusetts,Haverhill,29405
+ Massachusetts,Lawrence,34550
+ Massachusetts,Lowell,37000
+ Massachusetts,Lynn,37490
+ Massachusetts,Malden,37875
+ Massachusetts,Medford,39835
+ Massachusetts,New Bedford,45000
+ Massachusetts,Newton,45560
+ Massachusetts,Quincy,55745
+ Massachusetts,Somerville,62535
+ Massachusetts,Springfield,67000
+ Massachusetts,Worcester,82000
+ Michigan,Ann Arbor,3000
+ Michigan,Dearborn,21000
+ Michigan,Detroit,22000
+ Michigan,Farmington Hills,27440
+ Michigan,Flint,29000
+ Michigan,Grand Rapids,34000
+ Michigan,Kalamazoo,42160
+ Michigan,Lansing,46000
+ Michigan,Livonia,49000
+ Michigan,Novi,59440
+ Michigan,Rochester Hills,69035
+ Michigan,Southfield,74900
+ Michigan,Sterling Heights,76460
+ Michigan,Troy,80700
+ Michigan,Warren,84000
+ Michigan,Westland,86000
+ Michigan,Wyoming,88940
+ Minnesota,Blaine,6382
+ Minnesota,Bloomington,6616
+ Minnesota,Brooklyn Park,7966
+ Minnesota,Duluth,17000
+ Minnesota,Eagan,17288
+ Minnesota,Lakeville,35180
+ Minnesota,Maple Grove,40166
+ Minnesota,Minneapolis,43000
+ Minnesota,Plymouth,51730
+ Minnesota,Rochester,54880
+ Minnesota,St. Cloud,56896
+ Minnesota,St. Paul,58000
+ Minnesota,Woodbury,71428
+ Mississippi,Gulfport,29700
+ Mississippi,Jackson,36000
+ Missouri,Columbia,15670
+ Missouri,Independence,35000
+ Missouri,Kansas,38000
+ Missouri,Lee's Summit,41348
+ Missouri,O'Fallon,54074
+ Missouri,St. Charles,64082
+ Missouri,St. Joseph,64550
+ Missouri,St. Louis,65000
+ Missouri,Springfield,70000
+ Montana,Billings,6550
+ Montana,Missoula,50200
+ Nebraska,Lincoln,28000
+ Nebraska,Omaha,37000
+ Nevada,Enterprise CDP,23770
+ Nevada,Henderson,31900
+ Nevada,Las Vegas,40000
+ Nevada,North Las Vegas,51800
+ Nevada,Paradise CDP,54600
+ Nevada,Reno,60600
+ Nevada,Sparks,68400
+ Nevada,Spring Valley CDP,68585
+ Nevada,Sunrise Manor CDP,71400
+ New Hampshire,Manchester,45140
+ New Hampshire,Nashua,50260
+ New Jersey,Bayonne,3580
+ New Jersey,Camden,10000
+ New Jersey,Clifton,13690
+ New Jersey,East Orange,19390
+ New Jersey,Elizabeth,21000
+ New Jersey,Jersey,36000
+ New Jersey,Lakewood CDP,38580
+ New Jersey,Newark,51000
+ New Jersey,Passaic,56550
+ New Jersey,Paterson,57000
+ New Jersey,Toms River CDP,73110
+ New Jersey,Trenton,74000
+ New Jersey,Union,74630
+ New Mexico,Albuquerque,2000
+ New Mexico,Las Cruces,39380
+ New Mexico,Rio Rancho,63460
+ New Mexico,Santa Fe,70500
+ New York,Albany,1000
+ New York,Buffalo,11000
+ New York,Cheektowaga CDP,15000
+ New York,Mount Vernon,49121
+ New York,New Rochelle,50617
+ New York,New York,51000
+ New York,Rochester,63000
+ New York,Schenectady,65508
+ New York,Syracuse,73000
+ New York,Yonkers,84000
+ North Carolina,Apex,1520
+ North Carolina,Asheville,2140
+ North Carolina,Cary,10740
+ North Carolina,Charlotte,12000
+ North Carolina,Concord,14100
+ North Carolina,Durham,19000
+ North Carolina,Fayetteville,22920
+ North Carolina,Gastonia,25580
+ North Carolina,Greensboro,28000
+ North Carolina,Greenville,28080
+ North Carolina,High Point,31400
+ North Carolina,Jacksonville,34200
+ North Carolina,Raleigh,55000
+ North Carolina,Wilmington,74440
+ North Carolina,Winston-Salem,75000
+ North Dakota,Bismarck,7200
+ North Dakota,Fargo,25700
+ Ohio,Akron,1000
+ Ohio,Canton,12000
+ Ohio,Cincinnati,15000
+ Ohio,Cleveland,16000
+ Ohio,Columbus,18000
+ Ohio,Dayton,21000
+ Ohio,Lorain,44856
+ Ohio,Parma,61000
+ Ohio,Toledo,77000
+ Oklahoma,Broken Arrow,9050
+ Oklahoma,Edmond,23200
+ Oklahoma,Lawton,41850
+ Oklahoma,Norman,52500
+ Oklahoma,Oklahoma,55000
+ Oklahoma,Tulsa,75000
+ Oregon,Beaverton,5350
+ Oregon,Bend,5800
+ Oregon,Eugene,23850
+ Oregon,Gresham,31250
+ Oregon,Hillsboro,34100
+ Oregon,Medford,47000
+ Oregon,Portland,59000
+ Oregon,Salem,64900
+ Pennsylvania,Allentown,2000
+ Pennsylvania,Bethlehem,6088
+ Pennsylvania,Erie,24000
+ Pennsylvania,Philadelphia,60000
+ Pennsylvania,Pittsburgh,61000
+ Pennsylvania,Reading,63624
+ Pennsylvania,Scranton,69000
+ Rhode Island,Cranston,19180
+ Rhode Island,Pawtucket,54640
+ Rhode Island,Providence,59000
+ Rhode Island,Warwick,74300
+ South Carolina,Charleston,13330
+ South Carolina,Columbia,16000
+ South Carolina,Greenville,30850
+ South Carolina,Mount Pleasant,48535
+ South Carolina,North Charleston,50875
+ South Carolina,Rock Hill,61405
+ South Dakota,Rapid,52980
+ South Dakota,Sioux Falls,59020
+ Tennessee,Chattanooga,14000
+ Tennessee,Clarksville,15160
+ Tennessee,Franklin,27740
+ Tennessee,Jackson,37640
+ Tennessee,Johnson,38320
+ Tennessee,Knoxville,40000
+ Tennessee,Memphis,48000
+ Tennessee,Murfreesboro,51560
+ Tennessee,Nashville-Davidson metropolitan government (balance),52006
+ Texas,Abilene,1000
+ Texas,Allen,1924
+ Texas,Amarillo,3000
+ Texas,Arlington,4000
+ Texas,Atascocita CDP,4462
+ Texas,Austin,5000
+ Texas,Baytown,6128
+ Texas,Beaumont,7000
+ Texas,Brownsville,10768
+ Texas,Bryan,10912
+ Texas,Carrollton,13024
+ Texas,Cedar Park,13552
+ Texas,College Station,15976
+ Texas,Conroe,16432
+ Texas,Corpus Christi,17000
+ Texas,Dallas,19000
+ Texas,Denton,19972
+ Texas,Edinburg,22660
+ Texas,El Paso,24000
+ Texas,Flower Mound,26232
+ Texas,Fort Worth,27000
+ Texas,Frisco,27684
+ Texas,Garland,29000
+ Texas,Georgetown,29336
+ Texas,Grand Prairie,30464
+ Texas,Harlingen,32372
+ Texas,Houston,35000
+ Texas,Irving,37000
+ Texas,Killeen,39148
+ Texas,Laredo,41464
+ Texas,League,41980
+ Texas,Leander,42016
+ Texas,Lewisville,42508
+ Texas,Longview,43888
+ Texas,Lubbock,45000
+ Texas,McAllen,45384
+ Texas,McKinney,45744
+ Texas,Mansfield,46452
+ Texas,Mesquite,47892
+ Texas,Midland,48072
+ Texas,Mission,48768
+ Texas,Missouri,48804
+ Texas,New Braunfels,50820
+ Texas,North Richland Hills,52356
+ Texas,Odessa,53388
+ Texas,Pasadena,56000
+ Texas,Pearland,56348
+ Texas,Pflugerville,57176
+ Texas,Pharr,57200
+ Texas,Plano,58016
+ Texas,Richardson,61796
+ Texas,Round Rock,63500
+ Texas,Rowlett,63572
+ Texas,San Angelo,64472
+ Texas,San Antonio,65000
+ Texas,San Marcos,65600
+ Texas,Spring CDP,69596
+ Texas,Sugar Land,70808
+ Texas,Temple,72176
+ Texas,The Woodlands CDP,72656
+ Texas,Tyler,74144
+ Texas,Victoria,75428
+ Texas,Waco,76000
+ Texas,Wichita Falls,79000
+ Utah,Layton,43660
+ Utah,Lehi,44320
+ Utah,Ogden,55980
+ Utah,Orem,57300
+ Utah,Provo,62470
+ Utah,St. George,65330
+ Utah,Salt Lake,67000
+ Utah,Sandy,67440
+ Utah,South Jordan,70850
+ Utah,West Jordan,82950
+ Utah,West Valley,83470
+ Virginia,Alexandria,1000
+ Virginia,Arlington CDP,3000
+ Virginia,Centreville CDP,14440
+ Virginia,Chesapeake,16000
+ Virginia,Dale CDP,21088
+ Virginia,Hampton,35000
+ Virginia,Lynchburg,47672
+ Virginia,Newport News,56000
+ Virginia,Norfolk,57000
+ Virginia,Portsmouth,64000
+ Virginia,Richmond,67000
+ Virginia,Roanoke,68000
+ Virginia,Suffolk,76432
+ Virginia,Virginia Beach,82000
+ Washington,Auburn,3180
+ Washington,Bellevue,5210
+ Washington,Bellingham,5280
+ Washington,Everett,22640
+ Washington,Federal Way,23515
+ Washington,Kennewick,35275
+ Washington,Kent,35415
+ Washington,Kirkland,35940
+ Washington,Marysville,43955
+ Washington,Pasco,53545
+ Washington,Redmond,57535
+ Washington,Renton,57745
+ Washington,Sammamish,61115
+ Washington,Seattle,63000
+ Washington,South Hill CDP,65922
+ Washington,Spokane,67000
+ Washington,Spokane Valley,67167
+ Washington,Tacoma,70000
+ Washington,Vancouver,74060
+ Washington,Yakima,80010
+ Wisconsin,Appleton,2375
+ Wisconsin,Eau Claire,22300
+ Wisconsin,Green Bay,31000
+ Wisconsin,Janesville,37825
+ Wisconsin,Kenosha,39225
+ Wisconsin,Madison,48000
+ Wisconsin,Milwaukee,53000
+ Wisconsin,Oshkosh,60500
+ Wisconsin,Racine,66000
+ Wisconsin,Waukesha,84250
+ Wyoming,Cheyenne,13900
+ Puerto Rico,Bayamón zona urbana,6593
+ Puerto Rico,Caguas zona urbana,10334
+ Puerto Rico,Carolina zona urbana,14290
+ Puerto Rico,Guaynabo zona urbana,32522
+ Puerto Rico,Ponce zona urbana,63820
+ Puerto Rico,San Juan zona urbana,76770
+ Alabama,Auburn,3076
+ Alabama,Birmingham,7000
+ Alabama,Dothan,21184
+ Alabama,Hoover,35896
+ Alabama,Huntsville,37000
+ Alabama,Mobile,50000
+ Alabama,Montgomery,51000
+ Alabama,Tuscaloosa,77256
+ Alaska,Anchorage municipality,3000
+ Arizona,Avondale,4720
+ Arizona,Buckeye,7940
+ Arizona,Casas Adobes CDP,10670
+ Arizona,Chandler,12000
+ Arizona,Flagstaff,23620
+ Arizona,Gilbert,27400
+ Arizona,Glendale,27820
+ Arizona,Goodyear,28380
+ Arizona,Maricopa,44410
+ Arizona,Mesa,46000
+ Arizona,Peoria,54050
+ Arizona,Phoenix,55000
+ Arizona,Queen Creek,58150
+ Arizona,San Tan Valley CDP,64210
+ Arizona,Scottsdale,65000
+ Arizona,Surprise,71510
+ Arizona,Tempe,73000
+ Arizona,Tucson,77000
+ Arizona,Yuma,85540
+ Arkansas,Conway,15190
+ Arkansas,Fayetteville,23290
+ Arkansas,Fort Smith,24550
+ Arkansas,Jonesboro,35710
+ Arkansas,Little Rock,41000
+ Arkansas,Rogers,60410
+ Arkansas,Springdale,66080
+ California,Alameda,562
+ California,Alhambra,884
+ California,Anaheim,2000
+ California,Antioch,2252
+ California,Apple Valley,2364
+ California,Arden-Arcade CDP,2553
+ California,Bakersfield,3526
+ California,Baldwin Park,3666
+ California,Bellflower,4982
+ California,Berkeley,6000
+ California,Brentwood,8142
+ California,Buena Park,8786
+ California,Burbank,8954
+ California,Camarillo,10046
+ California,Carlsbad,11194
+ California,Carmichael CDP,11390
+ California,Carson,11530
+ California,Castro Valley CDP,11964
+ California,Chico,13014
+ California,Chino,13210
+ California,Chino Hills,13214
+ California,Chula Vista,13392
+ California,Citrus Heights,13588
+ California,Clovis,14218
+ California,Compton,15044
+ California,Concord,16000
+ California,Corona,16350
+ California,Costa Mesa,16532
+ California,Daly,17918
+ California,Davis,18100
+ California,Downey,19766
+ California,Dublin,20018
+ California,East Los Angeles CDP,20802
+ California,Eastvale,21230
+ California,El Cajon,21712
+ California,Elk Grove,22020
+ California,El Monte,22230
+ California,Escondido,22804
+ California,Fairfield,23182
+ California,Folsom,24638
+ California,Fontana,24680
+ California,Fremont,26000
+ California,Fresno,27000
+ California,Fullerton,28000
+ California,Garden Grove,29000
+ California,Glendale,30000
+ California,Hawthorne,32548
+ California,Hayward,33000
+ California,Hemet,33182
+ California,Hesperia,33434
+ California,Huntington Beach,36000
+ California,Indio,36448
+ California,Inglewood,36546
+ California,Irvine,36770
+ California,Jurupa Valley,37692
+ California,Lake Elsinore,39486
+ California,Lake Forest,39496
+ California,Lakewood,39892
+ California,Lancaster,40130
+ California,Livermore,41992
+ California,Lodi,42202
+ California,Long Beach,43000
+ California,Los Angeles,44000
+ California,Lynwood,44574
+ California,Madera,45022
+ California,Manteca,45484
+ California,Menifee,46842
+ California,Merced,46898
+ California,Milpitas,47766
+ California,Mission Viejo,48256
+ California,Modesto,48354
+ California,Moreno Valley,49270
+ California,Mountain View,49670
+ California,Murrieta,50076
+ California,Napa,50258
+ California,Newport Beach,51182
+ California,Norwalk,52526
+ California,Oakland,53000
+ California,Oceanside,53322
+ California,Ontario,53896
+ California,Orange,53980
+ California,Oxnard,54652
+ California,Palmdale,55156
+ California,Palo Alto,55282
+ California,Pasadena,56000
+ California,Perris,56700
+ California,Pittsburg,57456
+ California,Pleasanton,57792
+ California,Pomona,58072
+ California,Rancho Cordova,59444
+ California,Rancho Cucamonga,59451
+ California,Redding,59920
+ California,Redlands,59962
+ California,Redondo Beach,60018
+ California,Redwood,60102
+ California,Rialto,60466
+ California,Richmond,60620
+ California,Riverside,62000
+ California,Rocklin,62364
+ California,Roseville,62938
+ California,Sacramento,64000
+ California,Salinas,64224
+ California,San Bernardino,65000
+ California,San Buenaventura (Ventura),65042
+ California,San Diego,66000
+ California,San Francisco,67000
+ California,San Jose,68000
+ California,San Leandro,68084
+ California,San Marcos,68196
+ California,San Mateo,68252
+ California,San Ramon,68378
+ California,Santa Ana,69000
+ California,Santa Barbara,69070
+ California,Santa Clara,69084
+ California,Santa Clarita,69088
+ California,Santa Maria,69196
+ California,Santa Monica,70000
+ California,Santa Rosa,70098
+ California,Simi Valley,72016
+ California,South Gate,73080
+ California,Stockton,75000
+ California,Sunnyvale,77000
+ California,Temecula,78120
+ California,Thousand Oaks,78582
+ California,Torrance,80000
+ California,Tracy,80238
+ California,Tulare,80644
+ California,Turlock,80812
+ California,Tustin,80854
+ California,Union,81204
+ California,Upland,81344
+ California,Vacaville,81554
+ California,Vallejo,81666
+ California,Victorville,82590
+ California,Visalia,82954
+ California,Vista,82996
+ California,Walnut Creek,83346
+ California,West Covina,84200
+ California,Westminster,84550
+ California,Whittier,85292
+ California,Yorba Linda,86832
+ California,Yuba,86972
+ Colorado,Arvada,3455
+ Colorado,Aurora,4000
+ Colorado,Boulder,7850
+ Colorado,Broomfield,9280
+ Colorado,Castle Rock,12415
+ Colorado,Centennial,12815
+ Colorado,Colorado Springs,16000
+ Colorado,Commerce,16495
+ Colorado,Denver,20000
+ Colorado,Fort Collins,27425
+ Colorado,Grand Junction,31660
+ Colorado,Greeley,32155
+ Colorado,Highlands Ranch CDP,36410
+ Colorado,Lakewood,43000
+ Colorado,Longmont,45970
+ Colorado,Loveland,46465
+ Colorado,Pueblo,62000
+ Colorado,Thornton,77290
+ Colorado,Westminster,83835
+ Connecticut,Bridgeport,8000
+ Connecticut,Danbury,18430
+ Connecticut,Hartford,37000
+ Connecticut,New Britain,50370
+ Connecticut,New Haven,52000
+ Connecticut,Norwalk,55990
+ Connecticut,Stamford,73000
+ Connecticut,Waterbury,80000
+ Delaware,Wilmington,77580
+ District of Columbia,Washington,50000
+ Florida,Alafaya CDP,410
+ Florida,Boca Raton,7300
+ Florida,Boynton Beach,7875
+ Florida,Brandon CDP,8150
+ Florida,Cape Coral,10275
+ Florida,Clearwater,12875
+ Florida,Coral Springs,14400
+ Florida,Davie,16475
+ Florida,Daytona Beach,16525
+ Florida,Deerfield Beach,16725
+ Florida,Delray Beach,17100
+ Florida,Deltona,17200
+ Florida,Doral,17935
+ Florida,Fort Lauderdale,24000
+ Florida,Fort Myers,24125
+ Florida,Four Corners CDP,24581
+ Florida,Gainesville,25175
+ Florida,Hialeah,30000
+ Florida,Hollywood,32000
+ Florida,Homestead,32275
+ Florida,Jacksonville,35000
+ Florida,Kendall CDP,36100
+ Florida,Kissimmee,36950
+ Florida,Lakeland,38250
+ Florida,Largo,39425
+ Florida,Lauderhill,39550
+ Florida,Lehigh Acres CDP,39925
+ Florida,Melbourne,43975
+ Florida,Miami,45000
+ Florida,Miami Beach,45025
+ Florida,Miami Gardens,45060
+ Florida,Miramar,45975
+ Florida,North Port,49675
+ Florida,Ocala,50750
+ Florida,Orlando,53000
+ Florida,Palm Bay,54000
+ Florida,Palm Coast,54200
+ Florida,Palm Harbor CDP,54350
+ Florida,Pembroke Pines,55775
+ Florida,Pine Hills CDP,56825
+ Florida,Plantation,57425
+ Florida,Poinciana CDP,57900
+ Florida,Pompano Beach,58050
+ Florida,Port Charlotte CDP,58350
+ Florida,Port St. Lucie,58715
+ Florida,Riverview CDP,60950
+ Florida,St. Petersburg,63000
+ Florida,Spring Hill CDP,68350
+ Florida,Sunrise,69700
+ Florida,Tallahassee,70600
+ Florida,Tamarac,70675
+ Florida,Tampa,71000
+ Florida,The Villages CDP,71625
+ Florida,Town 'n' Country CDP,72145
+ Florida,Wesley Chapel CDP,75875
+ Florida,Weston,76582
+ Florida,West Palm Beach,76600
+ Georgia,Albany,1052
+ Georgia,Alpharetta,1696
+ Georgia,Athens-Clarke County unified government (balance),3440
+ Georgia,Atlanta,4000
+ Georgia,Augusta-Richmond County consolidated government (balance),4204
+ Georgia,Columbus,19000
+ Georgia,Johns Creek,42425
+ Georgia,Macon-Bibb County,49008
+ Georgia,Roswell,67284
+ Georgia,Sandy Springs,68516
+ Georgia,Savannah,69000
+ Georgia,South Fulton,72122
+ Georgia,Warner Robins,80508
+ Hawaii,Urban Honolulu CDP,71550
+ Idaho,Boise,8830
+ Idaho,Caldwell,12250
+ Idaho,Idaho Falls,39700
+ Idaho,Meridian,52120
+ Idaho,Nampa,56260
+ Illinois,Arlington Heights village,2154
+ Illinois,Aurora,3012
+ Illinois,Bloomington,6613
+ Illinois,Bolingbrook village,7133
+ Illinois,Champaign,12385
+ Illinois,Chicago,14000
+ Illinois,Cicero,14351
+ Illinois,Decatur,18823
+ Illinois,Elgin,23074
+ Illinois,Evanston,24582
+ Illinois,Joliet,38570
+ Illinois,Naperville,51622
+ Illinois,Palatine village,57225
+ Illinois,Peoria,59000
+ Illinois,Rockford,65000
+ Illinois,Schaumburg village,68003
+ Illinois,Skokie village,70122
+ Illinois,Springfield,72000
+ Illinois,Waukegan,79293
+ Indiana,Bloomington,5860
+ Indiana,Carmel,10342
+ Indiana,Evansville,22000
+ Indiana,Fishers,23278
+ Indiana,Fort Wayne,25000
+ Indiana,Gary,27000
+ Indiana,Hammond,31000
+ Indiana,Indianapolis (balance),36003
+ Indiana,Lafayette,40788
+ Indiana,Muncie,51876
+ Indiana,Noblesville,54180
+ Indiana,South Bend,71000
+ Iowa,Ames,1855
+ Iowa,Ankeny,2305
+ Iowa,Cedar Rapids,12000
+ Iowa,Davenport,19000
+ Iowa,Des Moines,21000
+ Iowa,Iowa,38595
+ Iowa,Sioux,73335
+ Iowa,Waterloo,82425
+ Iowa,West Des Moines,83910
+ Kansas,Kansas,36000
+ Kansas,Lawrence,38900
+ Kansas,Olathe,52575
+ Kansas,Overland Park,53775
+ Kansas,Shawnee,64500
+ Kansas,Topeka,71000
+ Kansas,Wichita,79000
+ Kentucky,Bowling Green,8902
+ Kentucky,Lexington-Fayette urban county,46027
+ Kentucky,Louisville/Jefferson County metro government (balance),48006
+ Louisiana,Baton Rouge,5000
+ Louisiana,Kenner,39475
+ Louisiana,Lafayette,40735
+ Louisiana,Lake Charles,41155
+ Louisiana,Metairie CDP,50115
+ Louisiana,New Orleans,55000
+ Louisiana,Shreveport,70000
+ Maine,Portland,60545
+ Maryland,Baltimore,4000
+ Maryland,Bethesda CDP,7125
+ Maryland,Columbia CDP,19125
+ Maryland,Dundalk CDP,23975
+ Maryland,Ellicott CDP,26000
+ Maryland,Frederick,30325
+ Maryland,Gaithersburg,31175
+ Maryland,Germantown CDP,32025
+ Maryland,Glen Burnie CDP,32650
+ Maryland,Rockville,67675
+ Maryland,Silver Spring CDP,72450
+ Maryland,Waldorf CDP,81175
+ Massachusetts,Boston,7000
+ Massachusetts,Brockton,9000
+ Massachusetts,Cambridge,11000
+ Massachusetts,Fall River,23000
+ Massachusetts,Framingham,24960
+ Massachusetts,Haverhill,29405
+ Massachusetts,Lawrence,34550
+ Massachusetts,Lowell,37000
+ Massachusetts,Lynn,37490
+ Massachusetts,Malden,37875
+ Massachusetts,Medford,39835
+ Massachusetts,New Bedford,45000
+ Massachusetts,Newton,45560
+ Massachusetts,Quincy,55745
+ Massachusetts,Somerville,62535
+ Massachusetts,Springfield,67000
+ Massachusetts,Worcester,82000
+ Michigan,Ann Arbor,3000
+ Michigan,Dearborn,21000
+ Michigan,Detroit,22000
+ Michigan,Farmington Hills,27440
+ Michigan,Flint,29000
+ Michigan,Grand Rapids,34000
+ Michigan,Kalamazoo,42160
+ Michigan,Lansing,46000
+ Michigan,Livonia,49000
+ Michigan,Novi,59440
+ Michigan,Rochester Hills,69035
+ Michigan,Southfield,74900
+ Michigan,Sterling Heights,76460
+ Michigan,Troy,80700
+ Michigan,Warren,84000
+ Michigan,Westland,86000
+ Michigan,Wyoming,88940
+ Minnesota,Blaine,6382
+ Minnesota,Bloomington,6616
+ Minnesota,Brooklyn Park,7966
+ Minnesota,Duluth,17000
+ Minnesota,Eagan,17288
+ Minnesota,Lakeville,35180
+ Minnesota,Maple Grove,40166
+ Minnesota,Minneapolis,43000
+ Minnesota,Plymouth,51730
+ Minnesota,Rochester,54880
+ Minnesota,St. Cloud,56896
+ Minnesota,St. Paul,58000
+ Minnesota,Woodbury,71428
+ Mississippi,Gulfport,29700
+ Mississippi,Jackson,36000
+ Missouri,Columbia,15670
+ Missouri,Independence,35000
+ Missouri,Kansas,38000
+ Missouri,Lee's Summit,41348
+ Missouri,O'Fallon,54074
+ Missouri,St. Charles,64082
+ Missouri,St. Joseph,64550
+ Missouri,St. Louis,65000
+ Missouri,Springfield,70000
+ Montana,Billings,6550
+ Montana,Missoula,50200
+ Nebraska,Lincoln,28000
+ Nebraska,Omaha,37000
+ Nevada,Enterprise CDP,23770
+ Nevada,Henderson,31900
+ Nevada,Las Vegas,40000
+ Nevada,North Las Vegas,51800
+ Nevada,Paradise CDP,54600
+ Nevada,Reno,60600
+ Nevada,Sparks,68400
+ Nevada,Spring Valley CDP,68585
+ Nevada,Sunrise Manor CDP,71400
+ New Hampshire,Manchester,45140
+ New Hampshire,Nashua,50260
+ New Jersey,Bayonne,3580
+ New Jersey,Camden,10000
+ New Jersey,Clifton,13690
+ New Jersey,East Orange,19390
+ New Jersey,Elizabeth,21000
+ New Jersey,Jersey,36000
+ New Jersey,Lakewood CDP,38580
+ New Jersey,Newark,51000
+ New Jersey,Passaic,56550
+ New Jersey,Paterson,57000
+ New Jersey,Toms River CDP,73110
+ New Jersey,Trenton,74000
+ New Jersey,Union,74630
+ New Mexico,Albuquerque,2000
+ New Mexico,Las Cruces,39380
+ New Mexico,Rio Rancho,63460
+ New Mexico,Santa Fe,70500
+ New York,Albany,1000
+ New York,Buffalo,11000
+ New York,Cheektowaga CDP,15000
+ New York,Mount Vernon,49121
+ New York,New Rochelle,50617
+ New York,New York,51000
+ New York,Rochester,63000
+ New York,Schenectady,65508
+ New York,Syracuse,73000
+ New York,Yonkers,84000
+ North Carolina,Apex,1520
+ North Carolina,Asheville,2140
+ North Carolina,Cary,10740
+ North Carolina,Charlotte,12000
+ North Carolina,Concord,14100
+ North Carolina,Durham,19000
+ North Carolina,Fayetteville,22920
+ North Carolina,Gastonia,25580
+ North Carolina,Greensboro,28000
+ North Carolina,Greenville,28080
+ North Carolina,High Point,31400
+ North Carolina,Jacksonville,34200
+ North Carolina,Raleigh,55000
+ North Carolina,Wilmington,74440
+ North Carolina,Winston-Salem,75000
+ North Dakota,Bismarck,7200
+ North Dakota,Fargo,25700
+ Ohio,Akron,1000
+ Ohio,Canton,12000
+ Ohio,Cincinnati,15000
+ Ohio,Cleveland,16000
+ Ohio,Columbus,18000
+ Ohio,Dayton,21000
+ Ohio,Lorain,44856
+ Ohio,Parma,61000
+ Ohio,Toledo,77000
+ Oklahoma,Broken Arrow,9050
+ Oklahoma,Edmond,23200
+ Oklahoma,Lawton,41850
+ Oklahoma,Norman,52500
+ Oklahoma,Oklahoma,55000
+ Oklahoma,Tulsa,75000
+ Oregon,Beaverton,5350
+ Oregon,Bend,5800
+ Oregon,Eugene,23850
+ Oregon,Gresham,31250
+ Oregon,Hillsboro,34100
+ Oregon,Medford,47000
+ Oregon,Portland,59000
+ Oregon,Salem,64900
+ Pennsylvania,Allentown,2000
+ Pennsylvania,Bethlehem,6088
+ Pennsylvania,Erie,24000
+ Pennsylvania,Philadelphia,60000
+ Pennsylvania,Pittsburgh,61000
+ Pennsylvania,Reading,63624
+ Pennsylvania,Scranton,69000
+ Rhode Island,Cranston,19180
+ Rhode Island,Pawtucket,54640
+ Rhode Island,Providence,59000
+ Rhode Island,Warwick,74300
+ South Carolina,Charleston,13330
+ South Carolina,Columbia,16000
+ South Carolina,Greenville,30850
+ South Carolina,Mount Pleasant,48535
+ South Carolina,North Charleston,50875
+ South Carolina,Rock Hill,61405
+ South Dakota,Rapid,52980
+ South Dakota,Sioux Falls,59020
+ Tennessee,Chattanooga,14000
+ Tennessee,Clarksville,15160
+ Tennessee,Franklin,27740
+ Tennessee,Jackson,37640
+ Tennessee,Johnson,38320
+ Tennessee,Knoxville,40000
+ Tennessee,Memphis,48000
+ Tennessee,Murfreesboro,51560
+ Tennessee,Nashville-Davidson metropolitan government (balance),52006
+ Texas,Abilene,1000
+ Texas,Allen,1924
+ Texas,Amarillo,3000
+ Texas,Arlington,4000
+ Texas,Atascocita CDP,4462
+ Texas,Austin,5000
+ Texas,Baytown,6128
+ Texas,Beaumont,7000
+ Texas,Brownsville,10768
+ Texas,Bryan,10912
+ Texas,Carrollton,13024
+ Texas,Cedar Park,13552
+ Texas,College Station,15976
+ Texas,Conroe,16432
+ Texas,Corpus Christi,17000
+ Texas,Dallas,19000
+ Texas,Denton,19972
+ Texas,Edinburg,22660
+ Texas,El Paso,24000
+ Texas,Flower Mound,26232
+ Texas,Fort Worth,27000
+ Texas,Frisco,27684
+ Texas,Garland,29000
+ Texas,Georgetown,29336
+ Texas,Grand Prairie,30464
+ Texas,Harlingen,32372
+ Texas,Houston,35000
+ Texas,Irving,37000
+ Texas,Killeen,39148
+ Texas,Laredo,41464
+ Texas,League,41980
+ Texas,Leander,42016
+ Texas,Lewisville,42508
+ Texas,Longview,43888
+ Texas,Lubbock,45000
+ Texas,McAllen,45384
+ Texas,McKinney,45744
+ Texas,Mansfield,46452
+ Texas,Mesquite,47892
+ Texas,Midland,48072
+ Texas,Mission,48768
+ Texas,Missouri,48804
+ Texas,New Braunfels,50820
+ Texas,North Richland Hills,52356
+ Texas,Odessa,53388
+ Texas,Pasadena,56000
+ Texas,Pearland,56348
+ Texas,Pflugerville,57176
+ Texas,Pharr,57200
+ Texas,Plano,58016
+ Texas,Richardson,61796
+ Texas,Round Rock,63500
+ Texas,Rowlett,63572
+ Texas,San Angelo,64472
+ Texas,San Antonio,65000
+ Texas,San Marcos,65600
+ Texas,Spring CDP,69596
+ Texas,Sugar Land,70808
+ Texas,Temple,72176
+ Texas,The Woodlands CDP,72656
+ Texas,Tyler,74144
+ Texas,Victoria,75428
+ Texas,Waco,76000
+ Texas,Wichita Falls,79000
+ Utah,Layton,43660
+ Utah,Lehi,44320
+ Utah,Ogden,55980
+ Utah,Orem,57300
+ Utah,Provo,62470
+ Utah,St. George,65330
+ Utah,Salt Lake,67000
+ Utah,Sandy,67440
+ Utah,South Jordan,70850
+ Utah,West Jordan,82950
+ Utah,West Valley,83470
+ Virginia,Alexandria,1000
+ Virginia,Arlington CDP,3000
+ Virginia,Centreville CDP,14440
+ Virginia,Chesapeake,16000
+ Virginia,Dale CDP,21088
+ Virginia,Hampton,35000
+ Virginia,Lynchburg,47672
+ Virginia,Newport News,56000
+ Virginia,Norfolk,57000
+ Virginia,Portsmouth,64000
+ Virginia,Richmond,67000
+ Virginia,Roanoke,68000
+ Virginia,Suffolk,76432
+ Virginia,Virginia Beach,82000
+ Washington,Auburn,3180
+ Washington,Bellevue,5210
+ Washington,Bellingham,5280
+ Washington,Everett,22640
+ Washington,Federal Way,23515
+ Washington,Kennewick,35275
+ Washington,Kent,35415
+ Washington,Kirkland,35940
+ Washington,Marysville,43955
+ Washington,Pasco,53545
+ Washington,Redmond,57535
+ Washington,Renton,57745
+ Washington,Sammamish,61115
+ Washington,Seattle,63000
+ Washington,South Hill CDP,65922
+ Washington,Spokane,67000
+ Washington,Spokane Valley,67167
+ Washington,Tacoma,70000
+ Washington,Vancouver,74060
+ Washington,Yakima,80010
+ Wisconsin,Appleton,2375
+ Wisconsin,Eau Claire,22300
+ Wisconsin,Green Bay,31000
+ Wisconsin,Janesville,37825
+ Wisconsin,Kenosha,39225
+ Wisconsin,Madison,48000
+ Wisconsin,Milwaukee,53000
+ Wisconsin,Oshkosh,60500
+ Wisconsin,Racine,66000
+ Wisconsin,Waukesha,84250
+ Wyoming,Cheyenne,13900
+ Puerto Rico,Bayamón zona urbana,6593
+ Puerto Rico,Caguas zona urbana,10334
+ Puerto Rico,Carolina zona urbana,14290
+ Puerto Rico,Guaynabo zona urbana,32522
+ Puerto Rico,Ponce zona urbana,63820
+ Puerto Rico,San Juan zona urbana,76770
