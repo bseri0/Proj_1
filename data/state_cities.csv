@@ -10,7 +10,7 @@ State,City/Town,Places
  Alaska,Anchorage municipality,3000
  Arizona,Avondale,4720
  Arizona,Buckeye,7940
- Arizona,Casas Adobes CDP,10670
+ Arizona,Casas Adobes,10670
  Arizona,Chandler,12000
  Arizona,Flagstaff,23620
  Arizona,Gilbert,27400
@@ -21,7 +21,7 @@ State,City/Town,Places
  Arizona,Peoria,54050
  Arizona,Phoenix,55000
  Arizona,Queen Creek,58150
- Arizona,San Tan Valley CDP,64210
+ Arizona,San Tan Valley,64210
  Arizona,Scottsdale,65000
  Arizona,Surprise,71510
  Arizona,Tempe,73000
@@ -39,7 +39,7 @@ State,City/Town,Places
  California,Anaheim,2000
  California,Antioch,2252
  California,Apple Valley,2364
- California,Arden-Arcade CDP,2553
+ California,Arden-Arcade,2553
  California,Bakersfield,3526
  California,Baldwin Park,3666
  California,Bellflower,4982
@@ -49,9 +49,9 @@ State,City/Town,Places
  California,Burbank,8954
  California,Camarillo,10046
  California,Carlsbad,11194
- California,Carmichael CDP,11390
+ California,Carmichael,11390
  California,Carson,11530
- California,Castro Valley CDP,11964
+ California,Castro Valley,11964
  California,Chico,13014
  California,Chino,13210
  California,Chino Hills,13214
@@ -66,7 +66,7 @@ State,City/Town,Places
  California,Davis,18100
  California,Downey,19766
  California,Dublin,20018
- California,East Los Angeles CDP,20802
+ California,East Los Angeles,20802
  California,Eastvale,21230
  California,El Cajon,21712
  California,Elk Grove,22020
@@ -188,7 +188,7 @@ State,City/Town,Places
  Colorado,Fort Collins,27425
  Colorado,Grand Junction,31660
  Colorado,Greeley,32155
- Colorado,Highlands Ranch CDP,36410
+ Colorado,Highlands Ranch,36410
  Colorado,Lakewood,43000
  Colorado,Longmont,45970
  Colorado,Loveland,46465
@@ -205,10 +205,10 @@ State,City/Town,Places
  Connecticut,Waterbury,80000
  Delaware,Wilmington,77580
  District of Columbia,Washington,50000
- Florida,Alafaya CDP,410
+ Florida,Alafaya,410
  Florida,Boca Raton,7300
  Florida,Boynton Beach,7875
- Florida,Brandon CDP,8150
+ Florida,Brandon,8150
  Florida,Cape Coral,10275
  Florida,Clearwater,12875
  Florida,Coral Springs,14400
@@ -220,18 +220,18 @@ State,City/Town,Places
  Florida,Doral,17935
  Florida,Fort Lauderdale,24000
  Florida,Fort Myers,24125
- Florida,Four Corners CDP,24581
+ Florida,Four Corners,24581
  Florida,Gainesville,25175
  Florida,Hialeah,30000
  Florida,Hollywood,32000
  Florida,Homestead,32275
  Florida,Jacksonville,35000
- Florida,Kendall CDP,36100
+ Florida,Kendall,36100
  Florida,Kissimmee,36950
  Florida,Lakeland,38250
  Florida,Largo,39425
  Florida,Lauderhill,39550
- Florida,Lehigh Acres CDP,39925
+ Florida,Lehigh Acres,39925
  Florida,Melbourne,43975
  Florida,Miami,45000
  Florida,Miami Beach,45025
@@ -242,24 +242,24 @@ State,City/Town,Places
  Florida,Orlando,53000
  Florida,Palm Bay,54000
  Florida,Palm Coast,54200
- Florida,Palm Harbor CDP,54350
+ Florida,Palm Harbor,54350
  Florida,Pembroke Pines,55775
- Florida,Pine Hills CDP,56825
+ Florida,Pine Hills,56825
  Florida,Plantation,57425
- Florida,Poinciana CDP,57900
+ Florida,Poinciana,57900
  Florida,Pompano Beach,58050
- Florida,Port Charlotte CDP,58350
+ Florida,Port Charlotte,58350
  Florida,Port St. Lucie,58715
- Florida,Riverview CDP,60950
+ Florida,Riverview,60950
  Florida,St. Petersburg,63000
- Florida,Spring Hill CDP,68350
+ Florida,Spring Hill,68350
  Florida,Sunrise,69700
  Florida,Tallahassee,70600
  Florida,Tamarac,70675
  Florida,Tampa,71000
- Florida,The Villages CDP,71625
- Florida,Town 'n' Country CDP,72145
- Florida,Wesley Chapel CDP,75875
+ Florida,The Villages,71625
+ Florida,Town 'n' Country,72145
+ Florida,Wesley Chapel,75875
  Florida,Weston,76582
  Florida,West Palm Beach,76600
  Georgia,Albany,1052
@@ -275,7 +275,7 @@ State,City/Town,Places
  Georgia,Savannah,69000
  Georgia,South Fulton,72122
  Georgia,Warner Robins,80508
- Hawaii,Urban Honolulu CDP,71550
+ Hawaii,Urban Honolulu,71550
  Idaho,Boise,8830
  Idaho,Caldwell,12250
  Idaho,Idaho Falls,39700
@@ -335,22 +335,22 @@ State,City/Town,Places
  Louisiana,Kenner,39475
  Louisiana,Lafayette,40735
  Louisiana,Lake Charles,41155
- Louisiana,Metairie CDP,50115
+ Louisiana,Metairie,50115
  Louisiana,New Orleans,55000
  Louisiana,Shreveport,70000
  Maine,Portland,60545
  Maryland,Baltimore,4000
- Maryland,Bethesda CDP,7125
- Maryland,Columbia CDP,19125
- Maryland,Dundalk CDP,23975
- Maryland,Ellicott CDP,26000
+ Maryland,Bethesda,7125
+ Maryland,Columbia,19125
+ Maryland,Dundalk,23975
+ Maryland,Ellicott,26000
  Maryland,Frederick,30325
  Maryland,Gaithersburg,31175
- Maryland,Germantown CDP,32025
- Maryland,Glen Burnie CDP,32650
+ Maryland,Germantown,32025
+ Maryland,Glen Burnie,32650
  Maryland,Rockville,67675
- Maryland,Silver Spring CDP,72450
- Maryland,Waldorf CDP,81175
+ Maryland,Silver Spring,72450
+ Maryland,Waldorf,81175
  Massachusetts,Boston,7000
  Massachusetts,Brockton,9000
  Massachusetts,Cambridge,11000
@@ -413,15 +413,15 @@ State,City/Town,Places
  Montana,Missoula,50200
  Nebraska,Lincoln,28000
  Nebraska,Omaha,37000
- Nevada,Enterprise CDP,23770
+ Nevada,Enterprise,23770
  Nevada,Henderson,31900
  Nevada,Las Vegas,40000
  Nevada,North Las Vegas,51800
- Nevada,Paradise CDP,54600
+ Nevada,Paradise,54600
  Nevada,Reno,60600
  Nevada,Sparks,68400
- Nevada,Spring Valley CDP,68585
- Nevada,Sunrise Manor CDP,71400
+ Nevada,Spring Valley,68585
+ Nevada,Sunrise Manor,71400
  New Hampshire,Manchester,45140
  New Hampshire,Nashua,50260
  New Jersey,Bayonne,3580
@@ -430,11 +430,11 @@ State,City/Town,Places
  New Jersey,East Orange,19390
  New Jersey,Elizabeth,21000
  New Jersey,Jersey,36000
- New Jersey,Lakewood CDP,38580
+ New Jersey,Lakewood,38580
  New Jersey,Newark,51000
  New Jersey,Passaic,56550
  New Jersey,Paterson,57000
- New Jersey,Toms River CDP,73110
+ New Jersey,Toms River,73110
  New Jersey,Trenton,74000
  New Jersey,Union,74630
  New Mexico,Albuquerque,2000
@@ -443,7 +443,7 @@ State,City/Town,Places
  New Mexico,Santa Fe,70500
  New York,Albany,1000
  New York,Buffalo,11000
- New York,Cheektowaga CDP,15000
+ New York,Cheektowaga,15000
  New York,Mount Vernon,49121
  New York,New Rochelle,50617
  New York,New York,51000
@@ -523,7 +523,7 @@ State,City/Town,Places
  Texas,Allen,1924
  Texas,Amarillo,3000
  Texas,Arlington,4000
- Texas,Atascocita CDP,4462
+ Texas,Atascocita,4462
  Texas,Austin,5000
  Texas,Baytown,6128
  Texas,Beaumont,7000
@@ -575,10 +575,10 @@ State,City/Town,Places
  Texas,San Angelo,64472
  Texas,San Antonio,65000
  Texas,San Marcos,65600
- Texas,Spring CDP,69596
+ Texas,Spring,69596
  Texas,Sugar Land,70808
  Texas,Temple,72176
- Texas,The Woodlands CDP,72656
+ Texas,The Woodlands,72656
  Texas,Tyler,74144
  Texas,Victoria,75428
  Texas,Waco,76000
@@ -595,10 +595,10 @@ State,City/Town,Places
  Utah,West Jordan,82950
  Utah,West Valley,83470
  Virginia,Alexandria,1000
- Virginia,Arlington CDP,3000
- Virginia,Centreville CDP,14440
+ Virginia,Arlington,3000
+ Virginia,Centreville,14440
  Virginia,Chesapeake,16000
- Virginia,Dale CDP,21088
+ Virginia,Dale,21088
  Virginia,Hampton,35000
  Virginia,Lynchburg,47672
  Virginia,Newport News,56000
@@ -622,7 +622,7 @@ State,City/Town,Places
  Washington,Renton,57745
  Washington,Sammamish,61115
  Washington,Seattle,63000
- Washington,South Hill CDP,65922
+ Washington,South Hill,65922
  Washington,Spokane,67000
  Washington,Spokane Valley,67167
  Washington,Tacoma,70000
@@ -656,7 +656,7 @@ State,City/Town,Places
  Alaska,Anchorage municipality,3000
  Arizona,Avondale,4720
  Arizona,Buckeye,7940
- Arizona,Casas Adobes CDP,10670
+ Arizona,Casas Adobes,10670
  Arizona,Chandler,12000
  Arizona,Flagstaff,23620
  Arizona,Gilbert,27400
@@ -667,7 +667,7 @@ State,City/Town,Places
  Arizona,Peoria,54050
  Arizona,Phoenix,55000
  Arizona,Queen Creek,58150
- Arizona,San Tan Valley CDP,64210
+ Arizona,San Tan Valley,64210
  Arizona,Scottsdale,65000
  Arizona,Surprise,71510
  Arizona,Tempe,73000
@@ -685,7 +685,7 @@ State,City/Town,Places
  California,Anaheim,2000
  California,Antioch,2252
  California,Apple Valley,2364
- California,Arden-Arcade CDP,2553
+ California,Arden-Arcade,2553
  California,Bakersfield,3526
  California,Baldwin Park,3666
  California,Bellflower,4982
@@ -695,9 +695,9 @@ State,City/Town,Places
  California,Burbank,8954
  California,Camarillo,10046
  California,Carlsbad,11194
- California,Carmichael CDP,11390
+ California,Carmichael,11390
  California,Carson,11530
- California,Castro Valley CDP,11964
+ California,Castro Valley,11964
  California,Chico,13014
  California,Chino,13210
  California,Chino Hills,13214
@@ -712,7 +712,7 @@ State,City/Town,Places
  California,Davis,18100
  California,Downey,19766
  California,Dublin,20018
- California,East Los Angeles CDP,20802
+ California,East Los Angeles,20802
  California,Eastvale,21230
  California,El Cajon,21712
  California,Elk Grove,22020
@@ -834,7 +834,7 @@ State,City/Town,Places
  Colorado,Fort Collins,27425
  Colorado,Grand Junction,31660
  Colorado,Greeley,32155
- Colorado,Highlands Ranch CDP,36410
+ Colorado,Highlands Ranch,36410
  Colorado,Lakewood,43000
  Colorado,Longmont,45970
  Colorado,Loveland,46465
@@ -851,10 +851,10 @@ State,City/Town,Places
  Connecticut,Waterbury,80000
  Delaware,Wilmington,77580
  District of Columbia,Washington,50000
- Florida,Alafaya CDP,410
+ Florida,Alafaya,410
  Florida,Boca Raton,7300
  Florida,Boynton Beach,7875
- Florida,Brandon CDP,8150
+ Florida,Brandon,8150
  Florida,Cape Coral,10275
  Florida,Clearwater,12875
  Florida,Coral Springs,14400
@@ -866,18 +866,18 @@ State,City/Town,Places
  Florida,Doral,17935
  Florida,Fort Lauderdale,24000
  Florida,Fort Myers,24125
- Florida,Four Corners CDP,24581
+ Florida,Four Corners,24581
  Florida,Gainesville,25175
  Florida,Hialeah,30000
  Florida,Hollywood,32000
  Florida,Homestead,32275
  Florida,Jacksonville,35000
- Florida,Kendall CDP,36100
+ Florida,Kendall,36100
  Florida,Kissimmee,36950
  Florida,Lakeland,38250
  Florida,Largo,39425
  Florida,Lauderhill,39550
- Florida,Lehigh Acres CDP,39925
+ Florida,Lehigh Acres,39925
  Florida,Melbourne,43975
  Florida,Miami,45000
  Florida,Miami Beach,45025
@@ -888,24 +888,24 @@ State,City/Town,Places
  Florida,Orlando,53000
  Florida,Palm Bay,54000
  Florida,Palm Coast,54200
- Florida,Palm Harbor CDP,54350
+ Florida,Palm Harbor,54350
  Florida,Pembroke Pines,55775
- Florida,Pine Hills CDP,56825
+ Florida,Pine Hills,56825
  Florida,Plantation,57425
- Florida,Poinciana CDP,57900
+ Florida,Poinciana,57900
  Florida,Pompano Beach,58050
- Florida,Port Charlotte CDP,58350
+ Florida,Port Charlotte,58350
  Florida,Port St. Lucie,58715
- Florida,Riverview CDP,60950
+ Florida,Riverview,60950
  Florida,St. Petersburg,63000
- Florida,Spring Hill CDP,68350
+ Florida,Spring Hill,68350
  Florida,Sunrise,69700
  Florida,Tallahassee,70600
  Florida,Tamarac,70675
  Florida,Tampa,71000
- Florida,The Villages CDP,71625
- Florida,Town 'n' Country CDP,72145
- Florida,Wesley Chapel CDP,75875
+ Florida,The Villages,71625
+ Florida,Town 'n' Country,72145
+ Florida,Wesley Chapel,75875
  Florida,Weston,76582
  Florida,West Palm Beach,76600
  Georgia,Albany,1052
@@ -921,7 +921,7 @@ State,City/Town,Places
  Georgia,Savannah,69000
  Georgia,South Fulton,72122
  Georgia,Warner Robins,80508
- Hawaii,Urban Honolulu CDP,71550
+ Hawaii,Urban Honolulu,71550
  Idaho,Boise,8830
  Idaho,Caldwell,12250
  Idaho,Idaho Falls,39700
@@ -981,22 +981,22 @@ State,City/Town,Places
  Louisiana,Kenner,39475
  Louisiana,Lafayette,40735
  Louisiana,Lake Charles,41155
- Louisiana,Metairie CDP,50115
+ Louisiana,Metairie,50115
  Louisiana,New Orleans,55000
  Louisiana,Shreveport,70000
  Maine,Portland,60545
  Maryland,Baltimore,4000
- Maryland,Bethesda CDP,7125
- Maryland,Columbia CDP,19125
- Maryland,Dundalk CDP,23975
- Maryland,Ellicott CDP,26000
+ Maryland,Bethesda,7125
+ Maryland,Columbia,19125
+ Maryland,Dundalk,23975
+ Maryland,Ellicott,26000
  Maryland,Frederick,30325
  Maryland,Gaithersburg,31175
- Maryland,Germantown CDP,32025
- Maryland,Glen Burnie CDP,32650
+ Maryland,Germantown,32025
+ Maryland,Glen Burnie,32650
  Maryland,Rockville,67675
- Maryland,Silver Spring CDP,72450
- Maryland,Waldorf CDP,81175
+ Maryland,Silver Spring,72450
+ Maryland,Waldorf,81175
  Massachusetts,Boston,7000
  Massachusetts,Brockton,9000
  Massachusetts,Cambridge,11000
@@ -1059,15 +1059,15 @@ State,City/Town,Places
  Montana,Missoula,50200
  Nebraska,Lincoln,28000
  Nebraska,Omaha,37000
- Nevada,Enterprise CDP,23770
+ Nevada,Enterprise,23770
  Nevada,Henderson,31900
  Nevada,Las Vegas,40000
  Nevada,North Las Vegas,51800
- Nevada,Paradise CDP,54600
+ Nevada,Paradise,54600
  Nevada,Reno,60600
  Nevada,Sparks,68400
- Nevada,Spring Valley CDP,68585
- Nevada,Sunrise Manor CDP,71400
+ Nevada,Spring Valley,68585
+ Nevada,Sunrise Manor,71400
  New Hampshire,Manchester,45140
  New Hampshire,Nashua,50260
  New Jersey,Bayonne,3580
@@ -1076,11 +1076,11 @@ State,City/Town,Places
  New Jersey,East Orange,19390
  New Jersey,Elizabeth,21000
  New Jersey,Jersey,36000
- New Jersey,Lakewood CDP,38580
+ New Jersey,Lakewood,38580
  New Jersey,Newark,51000
  New Jersey,Passaic,56550
  New Jersey,Paterson,57000
- New Jersey,Toms River CDP,73110
+ New Jersey,Toms River,73110
  New Jersey,Trenton,74000
  New Jersey,Union,74630
  New Mexico,Albuquerque,2000
@@ -1089,7 +1089,7 @@ State,City/Town,Places
  New Mexico,Santa Fe,70500
  New York,Albany,1000
  New York,Buffalo,11000
- New York,Cheektowaga CDP,15000
+ New York,Cheektowaga,15000
  New York,Mount Vernon,49121
  New York,New Rochelle,50617
  New York,New York,51000
@@ -1169,7 +1169,7 @@ State,City/Town,Places
  Texas,Allen,1924
  Texas,Amarillo,3000
  Texas,Arlington,4000
- Texas,Atascocita CDP,4462
+ Texas,Atascocita,4462
  Texas,Austin,5000
  Texas,Baytown,6128
  Texas,Beaumont,7000
@@ -1221,10 +1221,10 @@ State,City/Town,Places
  Texas,San Angelo,64472
  Texas,San Antonio,65000
  Texas,San Marcos,65600
- Texas,Spring CDP,69596
+ Texas,Spring,69596
  Texas,Sugar Land,70808
  Texas,Temple,72176
- Texas,The Woodlands CDP,72656
+ Texas,The Woodlands,72656
  Texas,Tyler,74144
  Texas,Victoria,75428
  Texas,Waco,76000
@@ -1241,10 +1241,10 @@ State,City/Town,Places
  Utah,West Jordan,82950
  Utah,West Valley,83470
  Virginia,Alexandria,1000
- Virginia,Arlington CDP,3000
- Virginia,Centreville CDP,14440
+ Virginia,Arlington,3000
+ Virginia,Centreville,14440
  Virginia,Chesapeake,16000
- Virginia,Dale CDP,21088
+ Virginia,Dale,21088
  Virginia,Hampton,35000
  Virginia,Lynchburg,47672
  Virginia,Newport News,56000
@@ -1268,7 +1268,7 @@ State,City/Town,Places
  Washington,Renton,57745
  Washington,Sammamish,61115
  Washington,Seattle,63000
- Washington,South Hill CDP,65922
+ Washington,South Hill,65922
  Washington,Spokane,67000
  Washington,Spokane Valley,67167
  Washington,Tacoma,70000
