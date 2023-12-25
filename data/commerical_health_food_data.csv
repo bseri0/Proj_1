@@ -1,0 +1,233 @@
+City,State,Lat,Lon,Category_Label
+Phoenix,Arizona,33.4484367,-112.074141,High
+Scottsdale,Arizona,33.4942189,-111.926018,High
+Tempe,Arizona,33.4255117,-111.9400164,High
+Alameda,California,37.7664611,-122.24349585403432,High
+Anaheim,California,33.803204,-117.88568940769623,High
+Berkeley,California,37.866185900000005,-122.28527282333675,High
+Brentwood,California,34.0521403,-118.4740699,High
+Burbank,California,34.1867044,-118.2828995,High
+Camarillo,California,34.2228071,-119.0516609,High
+Carlsbad,California,33.1647597,-117.3403158,High
+Carmichael,California,38.635793,-121.323379,High
+Chino,California,34.029319349999994,-117.6863349912724,High
+Daly,California,37.6904826,-122.47267,High
+Dublin,California,37.7041487,-121.9175203,High
+Fullerton,California,33.87078295,-117.929420004034,High
+Glendale,California,34.1538013,-118.2550389,High
+Irvine,California,33.6705849,-117.7324939,High
+Lakewood,California,33.846539,-118.112278,High
+Lancaster,California,34.69893735,-118.14539514250148,High
+Manteca,California,37.80156785,-121.23564403206112,High
+Milpitas,California,37.4235297,-121.9253759,High
+Moreno Valley,California,32.697978,-115.484798,High
+Mountain View,California,37.6981086,-122.4558458,High
+Norwalk,California,33.9155697,-118.0720107,High
+Oakland,California,37.8034958,-122.271692,High
+Oceanside,California,33.1953141,-117.3853169,High
+Ontario,California,34.06550645,-117.64817965,High
+Pasadena,California,34.163831,-118.15674553889411,High
+Pomona,California,34.0546164,-117.7511326,High
+Rocklin,California,38.8093779,-121.21381736752176,High
+Roseville,California,38.74833965,-121.28393826953815,High
+Sacramento,California,38.5409665,-121.4884709227681,High
+San Francisco,California,37.7987456,-122.46458892410745,High
+San Leandro,California,37.7299769,-122.469346,High
+San Mateo,California,37.7082421,-122.4590837,High
+Santa Clara,California,37.356651,-121.961118,High
+Santa Maria,California,37.299443,-121.957248,High
+Santa Monica,California,34.0277713,-118.4527348,High
+Simi Valley,California,33.857356,-117.963082,High
+Sunnyvale,California,37.428385,-122.02527581691044,High
+Tustin,California,33.7432966,-117.819484,High
+Upland,California,34.099336699999995,-117.65037138842862,High
+Vacaville,California,38.3512866,-121.99444523554617,High
+Vista,California,37.317741,-121.91936129069929,High
+Walnut Creek,California,37.30333,-121.842367,High
+West Covina,California,34.1059914,-117.8791434,High
+Westminster,California,33.7577942,-117.9858931,High
+Arvada,Colorado,39.8027778,-105.0880556,High
+Broomfield,Colorado,39.9403995,-105.05208,High
+Centennial,Colorado,39.59572805,-104.835924583367,High
+Commerce,Colorado,39.8330585,-104.91148970617284,High
+Denver,Colorado,39.7392364,-104.984862,High
+Lakewood,Colorado,39.7088571,-105.08304642696726,High
+Thornton,Colorado,39.8686792,-104.960838,High
+Brandon,Florida,27.93539,-82.299987,High
+Delray Beach,Florida,26.4638162,-80.0746795,High
+Wesley Chapel,Florida,28.20866,-82.331696,High
+Alpharetta,Georgia,34.07463485,-84.2922705072829,High
+Atlanta,Georgia,33.75517665,-84.40599247359282,High
+Roswell,Georgia,34.022464400000004,-84.3601763665493,High
+Urban Honolulu,Hawaii,21.2967598,-157.8514509667774,High
+Meridian,Idaho,43.6096104,-116.3931814729916,High
+Aurora,Illinois,41.7566515,-88.31458416834076,High
+Bolingbrook village,Illinois,41.69647415,-88.08061223444497,High
+Naperville,Illinois,41.762684,-88.190457,High
+Palatine village,Illinois,42.13594665,-88.0360413,High
+Skokie village,Illinois,42.02584935,-87.75616183797185,High
+Ankeny,Iowa,41.73259535,-93.60553609214182,High
+West Des Moines,Iowa,41.5708191,-93.70860759889392,High
+Shawnee,Kansas,39.017596,-94.826136,High
+Boston,Massachusetts,42.360401,-71.05768162905511,High
+Brockton,Massachusetts,42.082564,-71.01845752916921,High
+Malden,Massachusetts,42.4273477,-71.0727315,High
+Medford,Massachusetts,42.418171,-71.106438,High
+Newton,Massachusetts,42.34631400000001,-71.23692209511606,High
+Somerville,Massachusetts,42.3879326,-71.0835948,High
+Ann Arbor,Michigan,42.349409,-83.380356,High
+Farmington Hills,Michigan,42.358305,-83.371683,High
+Sterling Heights,Michigan,42.58997595,-83.01238253140909,High
+O'Fallon,Missouri,38.6740611,-90.2254554,High
+St. Charles,Missouri,38.6311508,-90.197195,High
+Billings,Montana,45.771416900000006,-108.61378934654248,High
+Enterprise,Nevada,36.033166,-115.20583,High
+Henderson,Nevada,36.03393215,-114.96996071375062,High
+North Las Vegas,Nevada,36.218263,-115.3156113,High
+Manchester,New Hampshire,42.9910294,-71.46337742518338,High
+Bayonne,New Jersey,40.6899596,-74.1024158,High
+Clifton,New Jersey,40.86809315,-74.1614352564055,High
+Jersey,New Jersey,40.726834,-74.05492052734505,High
+New Rochelle,New York,42.439191,-76.497211,High
+New York,New York,40.7127281,-74.0060152,High
+Apex,North Carolina,35.73388715,-78.84656522378867,High
+Cary,North Carolina,35.75142715,-78.76755491660421,High
+Durham,North Carolina,35.997354349999995,-78.90255008252386,High
+Broken Arrow,Oklahoma,36.05091135,-95.78991961396083,High
+Beaverton,Oregon,45.45204755,-122.86488717150274,High
+Hillsboro,Oregon,45.5152463,-122.98942514155895,High
+Austin,Texas,30.2648103,-97.74721450826446,High
+Carrollton,Texas,32.97631355,-96.88913539700896,High
+Flower Mound,Texas,33.036481499999994,-97.07113777937062,High
+Georgetown,Texas,30.714913,-97.716683,High
+Lewisville,Texas,33.00234635,-96.9717943999129,High
+New Braunfels,Texas,29.7073056,-98.0883048,High
+Pflugerville,Texas,30.44088975,-97.6201335,High
+Plano,Texas,33.0214002,-96.76653591263404,High
+Richardson,Texas,32.9552647,-96.70305639471384,High
+Rowlett,Texas,35.469264,-97.515679,High
+The Woodlands,Texas,30.15799,-95.48938,High
+Salt Lake,Utah,40.7596198,-111.886797,High
+Sandy,Utah,40.5916147,-111.8841013,High
+South Jordan,Utah,40.6740609,-111.9819364,High
+West Jordan,Utah,40.6081402,-111.9273165981965,High
+West Valley,Utah,40.6967254,-111.986821,High
+Centreville,Virginia,38.830024,-77.435746,High
+Bellevue,Washington,47.61493035,-122.19573727505184,High
+Kirkland,Washington,47.6762128,-122.1912163,High
+Marysville,Washington,47.60796,-122.334382,High
+Redmond,Washington,47.6576285,-122.089065,High
+Seattle,Washington,47.6177084,-122.3444624,High
+Appleton,Wisconsin,44.26226295,-88.40691270331727,High
+Birmingham,Alabama,33.59985265,-86.63221556960227,Low
+Huntsville,Alabama,34.729847,-86.5859011,Low
+Fayetteville,Arkansas,36.0616665,-94.1611389636298,Low
+Little Rock,Arkansas,34.7492587,-92.2754277,Low
+Springdale,Arkansas,36.18691125,-94.12920199533548,Low
+Arden-Arcade,California,38.602265,-121.381746,Low
+Bakersfield,California,35.34682555,-119.03545398252858,Low
+Bellflower,California,33.883545299999994,-118.12195877301458,Low
+Citrus Heights,California,38.68258675,-121.29690834393745,Low
+El Monte,California,34.0745722,-118.0308389238582,Low
+Redding,California,40.57313875,-122.38167377675435,Low
+South Gate,California,37.76972225,-122.46979495263878,Low
+Grand Junction,Colorado,39.06879965,-108.56393986262825,Low
+Hartford,Connecticut,41.76255395,-72.67346070409121,Low
+New Haven,Connecticut,41.33008695,-72.95980796170194,Low
+Boynton Beach,Florida,26.523508,-80.134772,Low
+Clearwater,Florida,27.9800687,-82.74456341480561,Low
+Daytona Beach,Florida,29.2069366,-81.0198923,Low
+Largo,Florida,27.9323954,-82.78445355644979,Low
+Miami,Florida,25.7741728,-80.19362,Low
+Miami Beach,Florida,25.76539,-80.1376572,Low
+Ocala,Florida,29.1850626,-82.13421457600373,Low
+Orlando,Florida,28.35542195,-81.26625779661217,Low
+Port Charlotte,Florida,26.989518,-82.112282,Low
+Athens-Clarke County unified government (balance),Georgia,33.95759,-83.358855,Low
+Bloomington,Illinois,40.4766298,-88.992535824882,Low
+Chicago,Illinois,41.8876395,-87.61586179175978,Low
+Springfield,Illinois,39.8001686,-89.6457434,Low
+Evansville,Indiana,40.440862,-80.001797,Low
+Indianapolis (balance),Indiana,39.794769,-86.23491,Low
+Lafayette,Indiana,40.4179044,-86.89097104586222,Low
+South Bend,Indiana,41.666181050000006,-86.26545739994202,Low
+Ames,Iowa,42.0263603,-93.61798566847555,Low
+Cedar Rapids,Iowa,41.9774599,-91.66968675700264,Low
+Iowa,Iowa,41.6683126,-91.57952674093114,Low
+Lawrence,Kansas,39.0664381,-94.6767882,Low
+Lexington-Fayette urban county,Kentucky,38.0464066,-84.4970393,Low
+Louisville/Jefferson County metro government (balance),Kentucky,37.36906505,-121.91768108904876,Low
+Baltimore,Maryland,39.3120962,-76.62377410911603,Low
+Dundalk,Maryland,39.274777,-76.500758,Low
+Lawrence,Massachusetts,42.708218,-71.15997110250137,Low
+Dearborn,Michigan,42.3277545,-83.1567449,Low
+Detroit,Michigan,42.3315509,-83.0466403,Low
+Kalamazoo,Michigan,42.274924,-85.587168,Low
+Warren,Michigan,42.3386095,-83.36414410993372,Low
+Westland,Michigan,42.3285635,-83.40034995940799,Low
+Minneapolis,Minnesota,44.9773133,-93.26506828427073,Low
+St. Paul,Minnesota,44.9454337,-93.0946042745516,Low
+Kansas,Missouri,39.0858055,-94.5840781,Low
+St. Joseph,Missouri,29.5459184,-95.5029482,Low
+St. Louis,Missouri,38.6280278,-90.1910154,Low
+Springfield,Missouri,37.2179252,-93.2906129,Low
+Lincoln,Nebraska,40.7928265,-96.67596777719668,Low
+Omaha,Nebraska,41.28272725,-95.9509501267383,Low
+Las Vegas,Nevada,36.2194186,-115.3273239,Low
+Paradise,Nevada,36.092329,-115.123309,Low
+East Orange,New Jersey,40.7532204,-74.2399736,Low
+Elizabeth,New Jersey,40.6729122,-74.2211187,Low
+Newark,New Jersey,40.7317764,-74.17360430516698,Low
+Passaic,New Jersey,40.8607784,-74.1234093,Low
+Paterson,New Jersey,40.9170394,-74.17197468312253,Low
+Trenton,New Jersey,40.23680765,-74.78991167849014,Low
+Union,New Jersey,40.77764565,-74.02305767630668,Low
+Albuquerque,New Mexico,35.10207035,-106.6518553136938,Low
+Albany,New York,42.6511674,-73.754968,Low
+Cheektowaga,New York,42.90765,-78.76396613904299,Low
+Mount Vernon,New York,40.9118753,-73.821074,Low
+Schenectady,New York,42.8142432,-73.9395687,Low
+Asheville,North Carolina,35.595451800000006,-82.54838658109644,Low
+Wilmington,North Carolina,34.2370979,-77.9459748,Low
+Bismarck,North Dakota,46.812803,-100.768383,Low
+Fargo,North Dakota,46.88733855,-96.86717058002488,Low
+Akron,Ohio,41.10737515,-81.52948547647514,Low
+Cincinnati,Ohio,39.10413605,-84.51968566953926,Low
+Cleveland,Ohio,41.4934882,-81.7081179,Low
+Dayton,Ohio,39.75955985,-84.19401335698002,Low
+Lorain,Ohio,41.4685329,-82.1792667,Low
+Toledo,Ohio,41.65820945,-83.52075350061591,Low
+Oklahoma,Oklahoma,35.4729886,-97.5170536,Low
+Tulsa,Oklahoma,36.1627012,-95.96992815442714,Low
+Eugene,Oregon,44.0989093,-123.129393,Low
+Allentown,Pennsylvania,40.6040356,-75.4795782,Low
+Bethlehem,Pennsylvania,40.6258352,-75.3741697,Low
+Pittsburgh,Pennsylvania,40.438092,-79.99724819199265,Low
+Reading,Pennsylvania,40.3371195,-75.92146829883839,Low
+Rapid,South Dakota,44.0806041,-103.228023,Low
+Knoxville,Tennessee,35.9652356,-83.9247491,Low
+Memphis,Tennessee,35.1498448,-90.0463128,Low
+Nashville-Davidson metropolitan government (balance),Tennessee,36.16246585,-86.80015743260867,Low
+Amarillo,Texas,35.2068783,-101.83105621144595,Low
+Conroe,Texas,35.469264,-97.515679,Low
+Edinburg,Texas,26.3028679,-98.1665667,Low
+El Paso,Texas,31.80971545,-106.25310970533516,Low
+Garland,Texas,32.91299415,-96.63716175,Low
+Grand Prairie,Texas,35.248343,-101.795508,Low
+Laredo,Texas,27.49441175,-99.41014368477764,Low
+Longview,Texas,32.4828634,-94.80290845981072,Low
+McAllen,Texas,26.1970595,-98.23497429084291,Low
+Mesquite,Texas,32.713490750000005,-96.5475451056721,Low
+Pharr,Texas,35.469264,-97.515679,Low
+San Angelo,Texas,31.46502805,-100.43989522903024,Low
+San Marcos,Texas,35.469264,-97.515679,Low
+Bellingham,Washington,48.7497455,-122.47860906492464,Low
+Janesville,Wisconsin,42.68213705,-89.02680143360749,Low
+Madison,Wisconsin,43.10844885,-89.3123641,Low
+Cheyenne,Wyoming,41.11818665,-104.76940269717916,Low
+Bayamón zona urbana,Puerto Rico,18.37929,-66.16352,Low
+Caguas zona urbana,Puerto Rico,18.33881,-67.25163,Low
+Carolina zona urbana,Puerto Rico,18.40767,-65.98102,Low
+Guaynabo zona urbana,Puerto Rico,18.38034,-67.18839,Low
+Ponce zona urbana,Puerto Rico,18.33881,-67.25163,Low
+San Juan zona urbana,Puerto Rico,18.33881,-67.25163,Low
