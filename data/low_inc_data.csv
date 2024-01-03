@@ -1,321 +1,321 @@
-NAME,Low_med_inc,state,place,City_x,State,City_y,Latitude,Longitude,Store Count
-"Auburn city, Alabama",54839,1,3076,Auburn city,Alabama,"Auburn city, Alabama",32.60101385,-85.51665708295118,0.0
-"Birmingham city, Alabama",39326,1,7000,Birmingham city,Alabama,"Birmingham city, Alabama",33.59985265,-86.63221556960227,1.0
-"Dothan city, Alabama",53929,1,21184,Dothan city,Alabama,"Dothan city, Alabama",31.22180825,-85.37800064140656,0.0
-"Huntsville city, Alabama",68930,1,37000,Huntsville city,Alabama,"Huntsville city, Alabama",34.729847,-86.5859011,0.0
-"Mobile city, Alabama",50051,1,50000,Mobile city,Alabama,"Mobile city, Alabama",30.6893619,-88.0518965,0.0
-"Montgomery city, Alabama",55108,1,51000,Montgomery city,Alabama,"Montgomery city, Alabama",32.372562349999995,-86.30544414029366,0.0
-"Tuscaloosa city, Alabama",49005,1,77256,Tuscaloosa city,Alabama,"Tuscaloosa city, Alabama",33.1757082,-87.5331056,0.0
-"Avondale city, Arizona",66801,4,4720,Avondale city,Arizona,"Avondale city, Arizona",33.4355977,-112.349602,0.0
-"Flagstaff city, Arizona",63612,4,23620,Flagstaff city,Arizona,"Flagstaff city, Arizona",35.238625799999994,-111.66325839519725,1.0
-"Glendale city, Arizona",72411,4,27820,Glendale city,Arizona,"Glendale city, Arizona",33.5386858,-112.185994,4.0
-"Tucson city, Arizona",51281,4,77000,Tucson city,Arizona,"Tucson city, Arizona",32.222622,-110.97477386698353,0.0
-"Yuma city, Arizona",58043,4,85540,Yuma city,Arizona,"Yuma city, Arizona",33.4351375,-112.0751188,1.0
-"Conway city, Arkansas",61898,5,15190,Conway city,Arkansas,"Conway city, Arkansas",35.0893262,-92.439956,0.0
-"Fayetteville city, Arkansas",52991,5,23290,Fayetteville city,Arkansas,"Fayetteville city, Arkansas",36.0616665,-94.1611389636298,0.0
-"Fort Smith city, Arkansas",47669,5,24550,Fort Smith city,Arkansas,"Fort Smith city, Arkansas",35.384996349999994,-94.42530488055677,1.0
-"Jonesboro city, Arkansas",61057,5,35710,Jonesboro city,Arkansas,"Jonesboro city, Arkansas",35.8386857,-90.7073347,0.0
-"Little Rock city, Arkansas",55065,5,41000,Little Rock city,Arkansas,"Little Rock city, Arkansas",34.7492587,-92.2754277,1.0
-"Springdale city, Arkansas",59027,5,66080,Springdale city,Arkansas,"Springdale city, Arkansas",36.18691125,-94.12920199533548,0.0
-"Alhambra city, California",72406,6,884,Alhambra city,California,"Alhambra city, California",34.0925094,-118.1272924,0.0
-"Apple Valley town, California",56187,6,2364,Apple Valley town,California,"Apple Valley town, California",33.904043,-116.48276,0.0
-"Arden-Arcade CDP, California",71457,6,2553,Arden-Arcade CDP,California,"Arden-Arcade CDP, California",38.602265,-121.381746,0.0
-"Bakersfield city, California",72017,6,3526,Bakersfield city,California,"Bakersfield city, California",35.34682555,-119.03545398252858,0.0
-"Baldwin Park city, California",70418,6,3666,Baldwin Park city,California,"Baldwin Park city, California",34.88697,-117.030899,0.0
-"Bellflower city, California",74131,6,4982,Bellflower city,California,"Bellflower city, California",33.883545299999994,-118.12195877301458,1.0
-"Chico city, California",65021,6,13014,Chico city,California,"Chico city, California",39.7286094,-121.8380227,0.0
-"Citrus Heights city, California",73923,6,13588,Citrus Heights city,California,"Citrus Heights city, California",38.68258675,-121.29690834393745,0.0
-"Compton city, California",68355,6,15044,Compton city,California,"Compton city, California",33.9043727,-118.2421992,0.0
-"Davis city, California",67373,6,18100,Davis city,California,"Davis city, California",40.6389397,-93.8085217,0.0
-"East Los Angeles CDP, California",64156,6,20802,East Los Angeles CDP,California,"East Los Angeles CDP, California",34.02963,-118.168648,0.0
-"El Cajon city, California",66045,6,21712,El Cajon city,California,"El Cajon city, California",34.29889,-117.45644,0.0
-"El Monte city, California",59368,6,22230,El Monte city,California,"El Monte city, California",34.0745722,-118.0308389238582,0.0
-"Fresno city, California",64196,6,27000,Fresno city,California,"Fresno city, California",36.884074350000006,-119.7364962512952,1.0
-"Hawthorne city, California",73515,6,32548,Hawthorne city,California,"Hawthorne city, California",33.91853285,-118.35429657366072,3.0
-"Hemet city, California",54156,6,33182,Hemet city,California,"Hemet city, California",33.737811,-116.995579,0.0
-"Hesperia city, California",73821,6,33434,Hesperia city,California,"Hesperia city, California",34.4272152,-117.31674885808042,0.0
-"Inglewood city, California",62601,6,36546,Inglewood city,California,"Inglewood city, California",33.9651038,-118.339544310373,5.0
-"Lynwood city, California",64481,6,44574,Lynwood city,California,"Lynwood city, California",33.9269596,-118.1970152,1.0
-"Madera city, California",67454,6,45022,Madera city,California,"Madera city, California",36.964948,-120.076345,0.0
-"Merced city, California",64160,6,46898,Merced city,California,"Merced city, California",37.30735295,-120.4821971251814,0.0
-"Modesto city, California",73275,6,48354,Modesto city,California,"Modesto city, California",37.7000705,-121.0230916,1.0
-"Redding city, California",68551,6,59920,Redding city,California,"Redding city, California",40.57313875,-122.38167377675435,3.0
-"San Bernardino city, California",62801,6,65000,San Bernardino city,California,"San Bernardino city, California",34.0054691,-117.0431797,0.0
-"South Gate city, California",70939,6,73080,South Gate city,California,"South Gate city, California",37.76972225,-122.46979495263878,0.0
-"Tulare city, California",58586,6,80644,Tulare city,California,"Tulare city, California",36.206914,-119.34271976671144,0.0
-"Victorville city, California",69569,6,82590,Victorville city,California,"Victorville city, California",34.51130155,-117.32271703329296,0.0
-"Yuba City city, California",59588,6,86972,Yuba City city,California,"Yuba City city, California",39.1404477,-121.6169108,0.0
-"Grand Junction city, Colorado",61458,8,31660,Grand Junction city,Colorado,"Grand Junction city, Colorado",39.06879965,-108.56393986262825,1.0
-"Greeley city, Colorado",69338,8,32155,Greeley city,Colorado,"Greeley city, Colorado",40.4222295,-104.6953697,1.0
-"Pueblo city, Colorado",51697,8,62000,Pueblo city,Colorado,"Pueblo city, Colorado",38.2655776,-104.61104395291898,0.0
-"Bridgeport city, Connecticut",50311,9,8000,Bridgeport city,Connecticut,"Bridgeport city, Connecticut",41.1803914,-73.19308230332848,0.0
-"Hartford city, Connecticut",41529,9,37000,Hartford city,Connecticut,"Hartford city, Connecticut",41.76255395,-72.67346070409121,1.0
-"New Britain city, Connecticut",50209,9,50370,New Britain city,Connecticut,"New Britain city, Connecticut",41.173209,-73.190759,0.0
-"New Haven city, Connecticut",53909,9,52000,New Haven city,Connecticut,"New Haven city, Connecticut",41.33008695,-72.95980796170194,2.0
-"Waterbury city, Connecticut",51572,9,80000,Waterbury city,Connecticut,"Waterbury city, Connecticut",41.5540552,-73.0436914,1.0
-"Wilmington city, Delaware",52768,10,77580,Wilmington city,Delaware,"Wilmington city, Delaware",39.7405865,-75.5591002,0.0
-"Boynton Beach city, Florida",66472,12,7875,Boynton Beach city,Florida,"Boynton Beach city, Florida",26.523508,-80.134772,1.0
-"Clearwater city, Florida",56474,12,12875,Clearwater city,Florida,"Clearwater city, Florida",27.9800687,-82.74456341480561,2.0
-"Daytona Beach city, Florida",51881,12,16525,Daytona Beach city,Florida,"Daytona Beach city, Florida",29.2069366,-81.0198923,3.0
-"Deerfield Beach city, Florida",65465,12,16725,Deerfield Beach city,Florida,"Deerfield Beach city, Florida",30.405343,-86.458559,1.0
-"Deltona city, Florida",73115,12,17200,Deltona city,Florida,"Deltona city, Florida",28.92737035,-81.22193361979444,0.0
-"Fort Myers city, Florida",62981,12,24125,Fort Myers city,Florida,"Fort Myers city, Florida",30.406801,-87.225746,2.0
-"Gainesville city, Florida",42453,12,25175,Gainesville city,Florida,"Gainesville city, Florida",29.631326,-82.339833,1.0
-"Hialeah city, Florida",52674,12,30000,Hialeah city,Florida,"Hialeah city, Florida",25.8911468,-80.31994594372972,0.0
-"Hollywood city, Florida",59917,12,32000,Hollywood city,Florida,"Hollywood city, Florida",26.0110834,-80.1594579,1.0
-"Homestead city, Florida",60530,12,32275,Homestead city,Florida,"Homestead city, Florida",25.4598658,-80.466251,0.0
-"Jacksonville city, Florida",69309,12,35000,Jacksonville city,Florida,"Jacksonville city, Florida",30.33006445,-81.65905544651602,0.0
-"Kissimmee city, Florida",44445,12,36950,Kissimmee city,Florida,"Kissimmee city, Florida",28.543089,-81.378698,0.0
-"Lakeland city, Florida",58524,12,38250,Lakeland city,Florida,"Lakeland city, Florida",28.0061,-81.9281,0.0
-"Largo city, Florida",56408,12,39425,Largo city,Florida,"Largo city, Florida",27.9323954,-82.78445355644979,3.0
-"Lauderhill city, Florida",44755,12,39550,Lauderhill city,Florida,"Lauderhill city, Florida",26.1527778,-80.2225,0.0
-"Lehigh Acres CDP, Florida",65816,12,39925,Lehigh Acres CDP,Florida,"Lehigh Acres CDP, Florida",26.62535,-81.6248,0.0
-"Melbourne city, Florida",64331,12,43975,Melbourne city,Florida,"Melbourne city, Florida",28.14014685,-80.58370123746208,0.0
-"Miami city, Florida",60989,12,45000,Miami city,Florida,"Miami city, Florida",25.7741728,-80.19362,0.0
-"Miami Beach city, Florida",69258,12,45025,Miami Beach city,Florida,"Miami Beach city, Florida",25.76539,-80.1376572,0.0
-"Miami Gardens city, Florida",61496,12,45060,Miami Gardens city,Florida,"Miami Gardens city, Florida",28.543089,-81.378698,0.0
-"Ocala city, Florida",44756,12,50750,Ocala city,Florida,"Ocala city, Florida",29.1850626,-82.13421457600373,0.0
-"Orlando city, Florida",65354,12,53000,Orlando city,Florida,"Orlando city, Florida",28.35542195,-81.26625779661217,0.0
-"Palm Bay city, Florida",71645,12,54000,Palm Bay city,Florida,"Palm Bay city, Florida",29.7566,-85.02047,0.0
-"Palm Coast city, Florida",68434,12,54200,Palm Coast city,Florida,"Palm Coast city, Florida",28.543089,-81.378698,0.0
-"Pine Hills CDP, Florida",43452,12,56825,Pine Hills CDP,Florida,"Pine Hills CDP, Florida",28.581907,-81.469155,1.0
-"Poinciana CDP, Florida",59367,12,57900,Poinciana CDP,Florida,"Poinciana CDP, Florida",28.108626,-81.476172,0.0
-"Pompano Beach city, Florida",61037,12,58050,Pompano Beach city,Florida,"Pompano Beach city, Florida",30.383495,-86.418076,0.0
-"Port Charlotte CDP, Florida",64195,12,58350,Port Charlotte CDP,Florida,"Port Charlotte CDP, Florida",26.989518,-82.112282,0.0
-"Port St. Lucie city, Florida",70613,12,58715,Port St. Lucie city,Florida,"Port St. Lucie city, Florida",28.543089,-81.378698,0.0
-"St. Petersburg city, Florida",69941,12,63000,St. Petersburg city,Florida,"St. Petersburg city, Florida",27.8101496,-82.7204414,1.0
-"Spring Hill CDP, Florida",62670,12,68350,Spring Hill CDP,Florida,"Spring Hill CDP, Florida",28.483651,-82.52145,0.0
-"Sunrise city, Florida",74047,12,69700,Sunrise city,Florida,"Sunrise city, Florida",26.1294873,-80.33551628973986,0.0
-"Tallahassee city, Florida",53867,12,70600,Tallahassee city,Florida,"Tallahassee city, Florida",30.4461113,-84.28273060544674,0.0
-"Tamarac city, Florida",54574,12,70675,Tamarac city,Florida,"Tamarac city, Florida",28.543089,-81.378698,0.0
-"Tampa city, Florida",71089,12,71000,Tampa city,Florida,"Tampa city, Florida",27.953105,-82.4507037,0.0
-"Town 'n' Country CDP, Florida",65783,12,72145,Town 'n' Country CDP,Florida,"Town 'n' Country CDP, Florida",28.00971,-82.574935,0.0
-"West Palm Beach city, Florida",71138,12,76600,West Palm Beach city,Florida,"West Palm Beach city, Florida",28.543089,-81.378698,0.0
-"Albany city, Georgia",39422,13,1052,Albany city,Georgia,"Albany city, Georgia",31.580711,-84.17833,0.0
-"Athens-Clarke County unified government (balance), Georgia",46523,13,3440,Athens-Clarke County unified government (balance),Georgia,"Athens-Clarke County unified government (balance), Georgia",33.95759,-83.358855,0.0
-"Augusta-Richmond County consolidated government (balance), Georgia",49838,13,4204,Augusta-Richmond County consolidated government (balance),Georgia,"Augusta-Richmond County consolidated government (balance), Georgia",33.4693345,-81.988562,1.0
-"Columbus city, Georgia",53750,13,19000,Columbus city,Georgia,"Columbus city, Georgia",32.4973641,-84.9915988,0.0
-"Macon-Bibb County, Georgia",47625,13,49008,Macon-Bibb County,Georgia,"Macon-Bibb County, Georgia",32.8406946,-83.6324022,1.0
-"Savannah city, Georgia",53258,13,69000,Savannah city,Georgia,"Savannah city, Georgia",32.0818302,-81.0906924,2.0
-"Warner Robins city, Georgia",57967,13,80508,Warner Robins city,Georgia,"Warner Robins city, Georgia",32.6200362,-83.6072696,1.0
-"Caldwell city, Idaho",63939,16,12250,Caldwell city,Idaho,"Caldwell city, Idaho",43.66778875,-116.6923956652292,1.0
-"Idaho Falls city, Idaho",72007,16,39700,Idaho Falls city,Idaho,"Idaho Falls city, Idaho",42.68046,-114.4242,0.0
-"Nampa city, Idaho",71060,16,56260,Nampa city,Idaho,"Nampa city, Idaho",43.58231,-116.57005827990676,1.0
-"Bloomington city, Illinois",67592,17,6613,Bloomington city,Illinois,"Bloomington city, Illinois",40.4766298,-88.992535824882,0.0
-"Champaign city, Illinois",56148,17,12385,Champaign city,Illinois,"Champaign city, Illinois",40.104535,-88.272156,1.0
-"Chicago city, Illinois",70386,17,14000,Chicago city,Illinois,"Chicago city, Illinois",41.8876395,-87.61586179175978,1.0
-"Cicero town, Illinois",67111,17,14351,Cicero town,Illinois,"Cicero town, Illinois",41.846962,-87.759289,1.0
-"Decatur city, Illinois",49714,17,18823,Decatur city,Illinois,"Decatur city, Illinois",40.265028,-89.191575,0.0
-"Peoria city, Illinois",55955,17,59000,Peoria city,Illinois,"Peoria city, Illinois",40.692568,-89.59300960737687,0.0
-"Rockford city, Illinois",53994,17,65000,Rockford city,Illinois,"Rockford city, Illinois",42.26765455,-89.08808785238159,1.0
-"Springfield city, Illinois",60082,17,72000,Springfield city,Illinois,"Springfield city, Illinois",39.8001686,-89.6457434,2.0
-"Waukegan city, Illinois",64299,17,79293,Waukegan city,Illinois,"Waukegan city, Illinois",42.3608434,-87.83447762749846,0.0
-"Bloomington city, Indiana",47360,18,5860,Bloomington city,Indiana,"Bloomington city, Indiana",39.12296945,-86.53201577420967,0.0
-"Evansville city, Indiana",48127,18,22000,Evansville city,Indiana,"Evansville city, Indiana",40.440862,-80.001797,1.0
-"Fort Wayne city, Indiana",58439,18,25000,Fort Wayne city,Indiana,"Fort Wayne city, Indiana",39.874975,-85.997186,0.0
-"Gary city, Indiana",36153,18,27000,Gary city,Indiana,"Gary city, Indiana",32.030637,-94.37784943280631,0.0
-"Hammond city, Indiana",53878,18,31000,Hammond city,Indiana,"Hammond city, Indiana",41.6051069,-87.50823735949376,0.0
-"Indianapolis city (balance), Indiana",61501,18,36003,Indianapolis city (balance),Indiana,"Indianapolis city (balance), Indiana",39.794769,-86.23491,1.0
-"Lafayette city, Indiana",51439,18,40788,Lafayette city,Indiana,"Lafayette city, Indiana",40.4179044,-86.89097104586222,0.0
-"Muncie city, Indiana",40968,18,51876,Muncie city,Indiana,"Muncie city, Indiana",40.19564235,-85.38703095861145,1.0
-"South Bend city, Indiana",51610,18,71000,South Bend city,Indiana,"South Bend city, Indiana",41.666181050000006,-86.26545739994202,2.0
-"Ames city, Iowa",52565,19,1855,Ames city,Iowa,"Ames city, Iowa",42.0263603,-93.61798566847555,1.0
-"Cedar Rapids city, Iowa",64435,19,12000,Cedar Rapids city,Iowa,"Cedar Rapids city, Iowa",41.9774599,-91.66968675700264,2.0
-"Davenport city, Iowa",54630,19,19000,Davenport city,Iowa,"Davenport city, Iowa",41.523852000000005,-90.57665405538714,0.0
-"Des Moines city, Iowa",58018,19,21000,Des Moines city,Iowa,"Des Moines city, Iowa",41.589092,-93.61656545721924,2.0
-"Iowa City city, Iowa",55598,19,38595,Iowa City city,Iowa,"Iowa City city, Iowa",41.6683126,-91.57952674093114,0.0
-"Sioux City city, Iowa",61836,19,73335,Sioux City city,Iowa,"Sioux City city, Iowa",42.4966815,-96.4058782,1.0
-"Waterloo city, Iowa",52888,19,82425,Waterloo city,Iowa,"Waterloo city, Iowa",42.4989181,-92.3321273,0.0
-"Kansas City city, Kansas",58233,20,36000,Kansas City city,Kansas,"Kansas City city, Kansas",37.148549,-98.032761,0.0
-"Lawrence city, Kansas",59963,20,38900,Lawrence city,Kansas,"Lawrence city, Kansas",39.0664381,-94.6767882,0.0
-"Topeka city, Kansas",50709,20,71000,Topeka city,Kansas,"Topeka city, Kansas",39.08320255,-95.8795183923203,0.0
-"Wichita city, Kansas",59277,20,79000,Wichita city,Kansas,"Wichita city, Kansas",37.7797346,-97.3011544,0.0
-"Bowling Green city, Kentucky",45812,21,8902,Bowling Green city,Kentucky,"Bowling Green city, Kentucky",37.409955,-86.484523,1.0
-"Lexington-Fayette urban county, Kentucky",62908,21,46027,Lexington-Fayette urban county,Kentucky,"Lexington-Fayette urban county, Kentucky",38.0464066,-84.4970393,0.0
-"Louisville/Jefferson County metro government (balance), Kentucky",63049,21,48006,Louisville/Jefferson County metro government (balance),Kentucky,"Louisville/Jefferson County metro government (balance), Kentucky",37.36906505,-121.91768108904876,3.0
-"Baton Rouge city, Louisiana",50304,22,5000,Baton Rouge city,Louisiana,"Baton Rouge city, Louisiana",30.445671,-91.1114748,3.0
-"Kenner city, Louisiana",56906,22,39475,Kenner city,Louisiana,"Kenner city, Louisiana",30.03269005,-90.2667866376518,2.0
-"Lafayette city, Louisiana",50504,22,40735,Lafayette city,Louisiana,"Lafayette city, Louisiana",30.2204787,-92.0245651,1.0
-"Lake Charles city, Louisiana",56666,22,41155,Lake Charles city,Louisiana,"Lake Charles city, Louisiana",30.22601805,-93.21729785646288,0.0
-"Metairie CDP, Louisiana",74528,22,50115,Metairie CDP,Louisiana,"Metairie CDP, Louisiana",29.996968,-90.178046,2.0
-"New Orleans city, Louisiana",52322,22,55000,New Orleans city,Louisiana,"New Orleans city, Louisiana",29.9461665,-90.0784417,0.0
-"Shreveport city, Louisiana",43643,22,70000,Shreveport city,Louisiana,"Shreveport city, Louisiana",32.4903195,-93.7019392,0.0
-"Portland city, Maine",69046,23,60545,Portland city,Maine,"Portland city, Maine",43.659240350000005,-70.25735922170654,0.0
-"Baltimore city, Maryland",55198,24,4000,Baltimore city,Maryland,"Baltimore city, Maryland",39.3120962,-76.62377410911603,0.0
-"Dundalk CDP, Maryland",50648,24,23975,Dundalk CDP,Maryland,"Dundalk CDP, Maryland",39.274777,-76.500758,3.0
-"Fall River city, Massachusetts",46789,25,23000,Fall River city,Massachusetts,"Fall River city, Massachusetts",42.567154,-71.299784,0.0
-"Lawrence city, Massachusetts",60632,25,34550,Lawrence city,Massachusetts,"Lawrence city, Massachusetts",42.708218,-71.15997110250137,2.0
-"Lowell city, Massachusetts",72349,25,37000,Lowell city,Massachusetts,"Lowell city, Massachusetts",42.6253826,-71.3199172,0.0
-"Lynn city, Massachusetts",62374,25,37490,Lynn city,Massachusetts,"Lynn city, Massachusetts",42.4648113,-70.9512465,0.0
-"New Bedford city, Massachusetts",53024,25,45000,New Bedford city,Massachusetts,"New Bedford city, Massachusetts",41.173209,-73.190759,0.0
-"Springfield city, Massachusetts",44286,25,67000,Springfield city,Massachusetts,"Springfield city, Massachusetts",42.101428,-72.5899948,1.0
-"Worcester city, Massachusetts",61935,25,82000,Worcester city,Massachusetts,"Worcester city, Massachusetts",42.2625633,-71.801867,0.0
-"Dearborn city, Michigan",58467,26,21000,Dearborn city,Michigan,"Dearborn city, Michigan",42.3277545,-83.1567449,0.0
-"Detroit city, Michigan",36453,26,22000,Detroit city,Michigan,"Detroit city, Michigan",42.3315509,-83.0466403,0.0
-"Flint city, Michigan",33036,26,29000,Flint city,Michigan,"Flint city, Michigan",43.0228767,-83.69808941025136,1.0
-"Grand Rapids city, Michigan",65660,26,34000,Grand Rapids city,Michigan,"Grand Rapids city, Michigan",42.347972,-86.298277,0.0
-"Kalamazoo city, Michigan",43509,26,42160,Kalamazoo city,Michigan,"Kalamazoo city, Michigan",42.274924,-85.587168,1.0
-"Lansing city, Michigan",48962,26,46000,Lansing city,Michigan,"Lansing city, Michigan",42.7340573,-84.553437,1.0
-"Southfield city, Michigan",65316,26,74900,Southfield city,Michigan,"Southfield city, Michigan",42.4737,-83.267776,2.0
-"Warren city, Michigan",60285,26,84000,Warren city,Michigan,"Warren city, Michigan",42.3386095,-83.36414410993372,0.0
-"Westland city, Michigan",56630,26,86000,Westland city,Michigan,"Westland city, Michigan",42.3285635,-83.40034995940799,0.0
-"Wyoming city, Michigan",64499,26,88940,Wyoming city,Michigan,"Wyoming city, Michigan",37.5098323,-81.9284529,0.0
-"Duluth city, Minnesota",59583,27,17000,Duluth city,Minnesota,"Duluth city, Minnesota",46.7385538,-92.1802244,1.0
-"Minneapolis city, Minnesota",74473,27,43000,Minneapolis city,Minnesota,"Minneapolis city, Minnesota",44.9773133,-93.26506828427073,2.0
-"St. Cloud city, Minnesota",55803,27,56896,St. Cloud city,Minnesota,"St. Cloud city, Minnesota",43.514796,-96.362993,0.0
-"St. Paul city, Minnesota",67725,27,58000,St. Paul city,Minnesota,"St. Paul city, Minnesota",44.9454337,-93.0946042745516,0.0
-"Gulfport city, Mississippi",43047,28,29700,Gulfport city,Mississippi,"Gulfport city, Mississippi",30.3704094,-89.0807088,0.0
-"Jackson city, Mississippi",40631,28,36000,Jackson city,Mississippi,"Jackson city, Mississippi",29.949524,-90.073612,0.0
-"Columbia city, Missouri",58067,29,15670,Columbia city,Missouri,"Columbia city, Missouri",41.156928,-85.4884616,0.0
-"Independence city, Missouri",53082,29,35000,Independence city,Missouri,"Independence city, Missouri",39.0924792,-94.4137923,1.0
-"Kansas City city, Missouri",62175,29,38000,Kansas City city,Missouri,"Kansas City city, Missouri",39.0858055,-94.5840781,1.0
-"St. Joseph city, Missouri",53012,29,64550,St. Joseph city,Missouri,"St. Joseph city, Missouri",29.5459184,-95.5029482,0.0
-"St. Louis city, Missouri",52847,29,65000,St. Louis city,Missouri,"St. Louis city, Missouri",38.6280278,-90.1910154,0.0
-"Springfield city, Missouri",45400,29,70000,Springfield city,Missouri,"Springfield city, Missouri",37.2179252,-93.2906129,3.0
-"Missoula city, Montana",59590,30,50200,Missoula city,Montana,"Missoula city, Montana",46.8339432,-114.0189071,3.0
-"Lincoln city, Nebraska",62391,31,28000,Lincoln city,Nebraska,"Lincoln city, Nebraska",40.7928265,-96.67596777719668,1.0
-"Omaha city, Nebraska",67450,31,37000,Omaha city,Nebraska,"Omaha city, Nebraska",41.28272725,-95.9509501267383,0.0
-"Las Vegas city, Nevada",68905,32,40000,Las Vegas city,Nevada,"Las Vegas city, Nevada",36.2194186,-115.3273239,0.0
-"Paradise CDP, Nevada",55578,32,54600,Paradise CDP,Nevada,"Paradise CDP, Nevada",36.092329,-115.123309,3.0
-"Reno city, Nevada",72103,32,60600,Reno city,Nevada,"Reno city, Nevada",39.5261629,-119.8126529,2.0
-"Spring Valley CDP, Nevada",66959,32,68585,Spring Valley CDP,Nevada,"Spring Valley CDP, Nevada",36.099661,-115.261921,1.0
-"Sunrise Manor CDP, Nevada",58130,32,71400,Sunrise Manor CDP,Nevada,"Sunrise Manor CDP, Nevada",36.169438,-115.031539,0.0
-"Camden city, New Jersey",37075,34,10000,Camden city,New Jersey,"Camden city, New Jersey",39.94483995,-75.11996184462943,0.0
-"East Orange city, New Jersey",43527,34,19390,East Orange city,New Jersey,"East Orange city, New Jersey",40.7532204,-74.2399736,0.0
-"Elizabeth city, New Jersey",64113,34,21000,Elizabeth city,New Jersey,"Elizabeth city, New Jersey",40.6729122,-74.2211187,0.0
-"Lakewood CDP, New Jersey",59460,34,38580,Lakewood CDP,New Jersey,"Lakewood CDP, New Jersey",40.093316,-74.211049,0.0
-"Newark city, New Jersey",49688,34,51000,Newark city,New Jersey,"Newark city, New Jersey",40.7317764,-74.17360430516698,0.0
-"Passaic city, New Jersey",51551,34,56550,Passaic city,New Jersey,"Passaic city, New Jersey",40.8607784,-74.1234093,2.0
-"Paterson city, New Jersey",47373,34,57000,Paterson city,New Jersey,"Paterson city, New Jersey",40.9170394,-74.17197468312253,2.0
-"Trenton city, New Jersey",52508,34,74000,Trenton city,New Jersey,"Trenton city, New Jersey",40.23680765,-74.78991167849014,0.0
-"Union City city, New Jersey",58020,34,74630,Union City city,New Jersey,"Union City city, New Jersey",40.77764565,-74.02305767630668,5.0
-"Albuquerque city, New Mexico",64757,35,2000,Albuquerque city,New Mexico,"Albuquerque city, New Mexico",35.10207035,-106.6518553136938,3.0
-"Las Cruces city, New Mexico",50372,35,39380,Las Cruces city,New Mexico,"Las Cruces city, New Mexico",32.40031845,-106.69139630112088,0.0
-"Santa Fe city, New Mexico",68793,35,70500,Santa Fe city,New Mexico,"Santa Fe city, New Mexico",36.456664,-103.185849,0.0
-"Albany city, New York",51386,36,1000,Albany city,New York,"Albany city, New York",42.6511674,-73.754968,0.0
-"Buffalo city, New York",48904,36,11000,Buffalo city,New York,"Buffalo city, New York",43.408777,-74.871618,0.0
-"Cheektowaga CDP, New York",59167,36,15000,Cheektowaga CDP,New York,"Cheektowaga CDP, New York",42.90765,-78.76396613904299,0.0
-"Mount Vernon city, New York",68075,36,49121,Mount Vernon city,New York,"Mount Vernon city, New York",40.9118753,-73.821074,0.0
-"Rochester city, New York",43631,36,63000,Rochester city,New York,"Rochester city, New York",43.157285,-77.615214,1.0
-"Schenectady city, New York",55465,36,65508,Schenectady city,New York,"Schenectady city, New York",42.8142432,-73.9395687,0.0
-"Syracuse city, New York",45179,36,73000,Syracuse city,New York,"Syracuse city, New York",43.0481221,-76.1474244,1.0
-"Yonkers city, New York",67456,36,84000,Yonkers city,New York,"Yonkers city, New York",40.9312099,-73.8987469,0.0
-"Asheville city, North Carolina",64548,37,2140,Asheville city,North Carolina,"Asheville city, North Carolina",35.595451800000006,-82.54838658109644,0.0
-"Charlotte city, North Carolina",74401,37,12000,Charlotte city,North Carolina,"Charlotte city, North Carolina",35.2272086,-80.8430827,0.0
-"Fayetteville city, North Carolina",56685,37,22920,Fayetteville city,North Carolina,"Fayetteville city, North Carolina",35.053880500000005,-78.88360508105738,0.0
-"Gastonia city, North Carolina",58745,37,25580,Gastonia city,North Carolina,"Gastonia city, North Carolina",35.262424100000004,-81.18435280170641,0.0
-"Greensboro city, North Carolina",55120,37,28000,Greensboro city,North Carolina,"Greensboro city, North Carolina",36.0712114,-79.7926487,2.0
-"Greenville city, North Carolina",50120,37,28080,Greenville city,North Carolina,"Greenville city, North Carolina",35.2455293,-80.8420414,0.0
-"High Point city, North Carolina",63930,37,31400,High Point city,North Carolina,"High Point city, North Carolina",35.226943,-80.846475,0.0
-"Jacksonville city, North Carolina",50930,37,34200,Jacksonville city,North Carolina,"Jacksonville city, North Carolina",34.7486693,-77.3659286,2.0
-"Wilmington city, North Carolina",63835,37,74440,Wilmington city,North Carolina,"Wilmington city, North Carolina",34.2370979,-77.9459748,0.0
-"Winston-Salem city, North Carolina",54195,37,75000,Winston-Salem city,North Carolina,"Winston-Salem city, North Carolina",36.0952678,-80.2430185059474,0.0
-"Bismarck city, North Dakota",74247,38,7200,Bismarck city,North Dakota,"Bismarck city, North Dakota",46.812803,-100.768383,0.0
-"Fargo city, North Dakota",59698,38,25700,Fargo city,North Dakota,"Fargo city, North Dakota",46.88733855,-96.86717058002488,1.0
-"Akron city, Ohio",45534,39,1000,Akron city,Ohio,"Akron city, Ohio",41.10737515,-81.52948547647514,0.0
-"Canton city, Ohio",40711,39,12000,Canton city,Ohio,"Canton city, Ohio",40.7715977,-81.38577599411765,0.0
-"Cincinnati city, Ohio",48130,39,15000,Cincinnati city,Ohio,"Cincinnati city, Ohio",39.10413605,-84.51968566953926,1.0
-"Cleveland city, Ohio",37351,39,16000,Cleveland city,Ohio,"Cleveland city, Ohio",41.4934882,-81.7081179,0.0
-"Columbus city, Ohio",61727,39,18000,Columbus city,Ohio,"Columbus city, Ohio",41.2586576,-91.3749379,0.0
-"Dayton city, Ohio",43780,39,21000,Dayton city,Ohio,"Dayton city, Ohio",39.75955985,-84.19401335698002,0.0
-"Lorain city, Ohio",46592,39,44856,Lorain city,Ohio,"Lorain city, Ohio",41.4685329,-82.1792667,0.0
-"Parma city, Ohio",65105,39,61000,Parma city,Ohio,"Parma city, Ohio",41.3873112,-81.6949489,2.0
-"Toledo city, Ohio",47365,39,77000,Toledo city,Ohio,"Toledo city, Ohio",41.65820945,-83.52075350061591,2.0
-"Lawton city, Oklahoma",50969,40,41850,Lawton city,Oklahoma,"Lawton city, Oklahoma",34.6059248,-98.40089730407186,0.0
-"Norman city, Oklahoma",61030,40,52500,Norman city,Oklahoma,"Norman city, Oklahoma",35.2454472,-97.4612207365441,0.0
-"Oklahoma City city, Oklahoma",63713,40,55000,Oklahoma City city,Oklahoma,"Oklahoma City city, Oklahoma",35.4729886,-97.5170536,1.0
-"Tulsa city, Oklahoma",54040,40,75000,Tulsa city,Oklahoma,"Tulsa city, Oklahoma",36.1627012,-95.96992815442714,1.0
-"Eugene city, Oregon",61288,41,23850,Eugene city,Oregon,"Eugene city, Oregon",44.0989093,-123.129393,3.0
-"Gresham city, Oregon",71006,41,31250,Gresham city,Oregon,"Gresham city, Oregon",45.5039821,-122.4315119,1.0
-"Medford city, Oregon",67303,41,47000,Medford city,Oregon,"Medford city, Oregon",42.32257715,-122.87594265,2.0
-"Salem city, Oregon",70220,41,64900,Salem city,Oregon,"Salem city, Oregon",43.854178,-120.526709,0.0
-"Allentown city, Pennsylvania",55949,42,2000,Allentown city,Pennsylvania,"Allentown city, Pennsylvania",40.6040356,-75.4795782,3.0
-"Bethlehem city, Pennsylvania",61786,42,6088,Bethlehem city,Pennsylvania,"Bethlehem city, Pennsylvania",40.6258352,-75.3741697,1.0
-"Erie city, Pennsylvania",43839,42,24000,Erie city,Pennsylvania,"Erie city, Pennsylvania",41.1615717,-80.0861231,2.0
-"Philadelphia city, Pennsylvania",56517,42,60000,Philadelphia city,Pennsylvania,"Philadelphia city, Pennsylvania",39.9525541,-75.15202163851058,1.0
-"Pittsburgh city, Pennsylvania",63380,42,61000,Pittsburgh city,Pennsylvania,"Pittsburgh city, Pennsylvania",40.438092,-79.99724819199265,1.0
-"Reading city, Pennsylvania",43496,42,63624,Reading city,Pennsylvania,"Reading city, Pennsylvania",40.3371195,-75.92146829883839,0.0
-"Scranton city, Pennsylvania",48279,42,69000,Scranton city,Pennsylvania,"Scranton city, Pennsylvania",41.40991525,-75.66094368776098,0.0
-"Pawtucket city, Rhode Island",63173,44,54640,Pawtucket city,Rhode Island,"Pawtucket city, Rhode Island",41.8789566,-71.38211678847459,0.0
-"Providence city, Rhode Island",64184,44,59000,Providence city,Rhode Island,"Providence city, Rhode Island",41.8240345,-71.41290469687814,2.0
-"Columbia city, South Carolina",56175,45,16000,Columbia city,South Carolina,"Columbia city, South Carolina",41.156928,-85.4884616,0.0
-"Greenville city, South Carolina",67340,45,30850,Greenville city,South Carolina,"Greenville city, South Carolina",31.8295972,-86.6177517,0.0
-"North Charleston city, South Carolina",62091,45,50875,North Charleston city,South Carolina,"North Charleston city, South Carolina",32.8767053,-80.0119329,1.0
-"Rock Hill city, South Carolina",62589,45,61405,Rock Hill city,South Carolina,"Rock Hill city, South Carolina",41.05228,-82.89352,0.0
-"Rapid City city, South Dakota",59397,46,52980,Rapid City city,South Dakota,"Rapid City city, South Dakota",44.0806041,-103.228023,3.0
-"Sioux Falls city, South Dakota",71246,46,59020,Sioux Falls city,South Dakota,"Sioux Falls city, South Dakota",43.549367,-96.72750115181896,0.0
-"Chattanooga city, Tennessee",64340,47,14000,Chattanooga city,Tennessee,"Chattanooga city, Tennessee",35.02017385,-85.36995957881587,1.0
-"Clarksville city, Tennessee",63723,47,15160,Clarksville city,Tennessee,"Clarksville city, Tennessee",36.52770715,-87.36083125740561,3.0
-"Jackson city, Tennessee",50466,47,37640,Jackson city,Tennessee,"Jackson city, Tennessee",36.3188155,-82.3608515,0.0
-"Johnson City city, Tennessee",55228,47,38320,Johnson City city,Tennessee,"Johnson City city, Tennessee",36.3187469,-82.34069268045303,0.0
-"Knoxville city, Tennessee",52826,47,40000,Knoxville city,Tennessee,"Knoxville city, Tennessee",35.9652356,-83.9247491,0.0
-"Memphis city, Tennessee",50622,47,48000,Memphis city,Tennessee,"Memphis city, Tennessee",35.1498448,-90.0463128,0.0
-"Murfreesboro city, Tennessee",70160,47,51560,Murfreesboro city,Tennessee,"Murfreesboro city, Tennessee",35.8770663,-86.3806216,1.0
-"Nashville-Davidson metropolitan government (balance), Tennessee",71767,47,52006,Nashville-Davidson metropolitan government (balance),Tennessee,"Nashville-Davidson metropolitan government (balance), Tennessee",36.16246585,-86.80015743260867,0.0
-"Abilene city, Texas",61694,48,1000,Abilene city,Texas,"Abilene city, Texas",32.4540342,-99.73057572168342,0.0
-"Amarillo city, Texas",62260,48,3000,Amarillo city,Texas,"Amarillo city, Texas",35.2068783,-101.83105621144595,4.0
-"Arlington city, Texas",70433,48,4000,Arlington city,Texas,"Arlington city, Texas",32.69218405,-97.1129428701784,0.0
-"Baytown city, Texas",60787,48,6128,Baytown city,Texas,"Baytown city, Texas",29.7279,-94.996,0.0
-"Beaumont city, Texas",57944,48,7000,Beaumont city,Texas,"Beaumont city, Texas",30.08184205,-94.09441313901668,0.0
-"Brownsville city, Texas",46912,48,10768,Brownsville city,Texas,"Brownsville city, Texas",25.9024203,-97.49921489856638,0.0
-"Bryan city, Texas",59771,48,10912,Bryan city,Texas,"Bryan city, Texas",30.6844614,-96.3653572405078,0.0
-"College Station city, Texas",51228,48,15976,College Station city,Texas,"College Station city, Texas",30.60378845,-96.30718509734864,0.0
-"Conroe city, Texas",65728,48,16432,Conroe city,Texas,"Conroe city, Texas",35.469264,-97.515679,1.0
-"Corpus Christi city, Texas",60958,48,17000,Corpus Christi city,Texas,"Corpus Christi city, Texas",26.3828429,-98.8180338,0.0
-"Dallas city, Texas",65400,48,19000,Dallas city,Texas,"Dallas city, Texas",32.77627145,-96.79694174895133,0.0
-"Denton city, Texas",71711,48,19972,Denton city,Texas,"Denton city, Texas",33.17668985,-97.09114256886568,0.0
-"Edinburg city, Texas",50964,48,22660,Edinburg city,Texas,"Edinburg city, Texas",26.3028679,-98.1665667,0.0
-"El Paso city, Texas",52645,48,24000,El Paso city,Texas,"El Paso city, Texas",31.80971545,-106.25310970533516,0.0
-"Fort Worth city, Texas",71527,48,27000,Fort Worth city,Texas,"Fort Worth city, Texas",32.8123503,-97.5022439,0.0
-"Garland city, Texas",71191,48,29000,Garland city,Texas,"Garland city, Texas",32.91299415,-96.63716175,2.0
-"Grand Prairie city, Texas",72271,48,30464,Grand Prairie city,Texas,"Grand Prairie city, Texas",35.248343,-101.795508,0.0
-"Harlingen city, Texas",50166,48,32372,Harlingen city,Texas,"Harlingen city, Texas",26.1653137,-97.7206597,0.0
-"Houston city, Texas",60426,48,35000,Houston city,Texas,"Houston city, Texas",29.784753,-95.361416,1.0
-"Killeen city, Texas",54529,48,39148,Killeen city,Texas,"Killeen city, Texas",31.0857733,-97.6790018,2.0
-"Laredo city, Texas",59751,48,41464,Laredo city,Texas,"Laredo city, Texas",27.49441175,-99.41014368477764,0.0
-"Longview city, Texas",65897,48,43888,Longview city,Texas,"Longview city, Texas",32.4828634,-94.80290845981072,0.0
-"Lubbock city, Texas",56910,48,45000,Lubbock city,Texas,"Lubbock city, Texas",33.56415655,-101.80892782832652,3.0
-"McAllen city, Texas",55898,48,45384,McAllen city,Texas,"McAllen city, Texas",26.1970595,-98.23497429084291,1.0
-"Mesquite city, Texas",68134,48,47892,Mesquite city,Texas,"Mesquite city, Texas",32.713490750000005,-96.5475451056721,0.0
-"Mission city, Texas",53859,48,48768,Mission city,Texas,"Mission city, Texas",26.23741475,-98.33623618980188,0.0
-"Odessa city, Texas",63385,48,53388,Odessa city,Texas,"Odessa city, Texas",31.8313073,-102.3479312,0.0
-"Pasadena city, Texas",57078,48,56000,Pasadena city,Texas,"Pasadena city, Texas",29.6916727,-95.1961981,0.0
-"Pharr city, Texas",48631,48,57200,Pharr city,Texas,"Pharr city, Texas",35.469264,-97.515679,1.0
-"San Angelo city, Texas",57625,48,64472,San Angelo city,Texas,"San Angelo city, Texas",31.46502805,-100.43989522903024,0.0
-"San Antonio city, Texas",58829,48,65000,San Antonio city,Texas,"San Antonio city, Texas",28.6670745,-99.8227428,0.0
-"San Marcos city, Texas",52040,48,65600,San Marcos city,Texas,"San Marcos city, Texas",35.469264,-97.515679,1.0
-"Temple city, Texas",63219,48,72176,Temple city,Texas,"Temple city, Texas",31.06490715,-97.44246855763228,0.0
-"Tyler city, Texas",60811,48,74144,Tyler city,Texas,"Tyler city, Texas",32.343259700000004,-95.3211525,1.0
-"Victoria city, Texas",66060,48,75428,Victoria city,Texas,"Victoria city, Texas",28.7857874,-97.01006672512338,0.0
-"Waco city, Texas",54248,48,76000,Waco city,Texas,"Waco city, Texas",31.55877615,-97.12958691055424,0.0
-"Wichita Falls city, Texas",56091,48,79000,Wichita Falls city,Texas,"Wichita Falls city, Texas",28.983277,-98.022848,0.0
-"Ogden city, Utah",67102,49,55980,Ogden city,Utah,"Ogden city, Utah",41.2332015,-111.96326261802258,0.0
-"Provo city, Utah",59290,49,62470,Provo city,Utah,"Provo city, Utah",40.2323366,-111.65955435192308,0.0
-"St. George city, Utah",70386,49,65330,St. George city,Utah,"St. George city, Utah",40.233322,-111.661962,0.0
-"Hampton city, Virginia",64924,51,35000,Hampton city,Virginia,"Hampton city, Virginia",37.03393,-76.319456,0.0
-"Lynchburg city, Virginia",49076,51,47672,Lynchburg city,Virginia,"Lynchburg city, Virginia",37.4136907,-79.14438465,3.0
-"Newport News city, Virginia",64102,51,56000,Newport News city,Virginia,"Newport News city, Virginia",36.9775016,-76.42977,2.0
-"Norfolk city, Virginia",61090,51,57000,Norfolk city,Virginia,"Norfolk city, Virginia",14.0146616,-88.5743855,0.0
-"Portsmouth city, Virginia",54611,51,64000,Portsmouth city,Virginia,"Portsmouth city, Virginia",36.8313802,-76.37006108562697,1.0
-"Richmond city, Virginia",58988,51,67000,Richmond city,Virginia,"Richmond city, Virginia",37.5423406,-77.43987569293232,0.0
-"Roanoke city, Virginia",49570,51,68000,Roanoke city,Virginia,"Roanoke city, Virginia",14.0146616,-88.5743855,0.0
-"Bellingham city, Washington",64748,53,5280,Bellingham city,Washington,"Bellingham city, Washington",48.7497455,-122.47860906492464,0.0
-"Kennewick city, Washington",73800,53,35275,Kennewick city,Washington,"Kennewick city, Washington",46.20308815,-119.12074073804882,0.0
-"Spokane city, Washington",62287,53,67000,Spokane city,Washington,"Spokane city, Washington",47.66109545,-117.41386960428308,4.0
-"Spokane Valley city, Washington",66484,53,67167,Spokane Valley city,Washington,"Spokane Valley city, Washington",47.6565518,-117.2676963,3.0
-"Yakima city, Washington",56821,53,80010,Yakima city,Washington,"Yakima city, Washington",46.6187554,-120.57863712645138,1.0
-"Eau Claire city, Wisconsin",57289,55,22300,Eau Claire city,Wisconsin,"Eau Claire city, Wisconsin",44.8689683,-91.4855007489738,0.0
-"Green Bay city, Wisconsin",55177,55,31000,Green Bay city,Wisconsin,"Green Bay city, Wisconsin",44.585849,-92.455522,0.0
-"Janesville city, Wisconsin",66497,55,37825,Janesville city,Wisconsin,"Janesville city, Wisconsin",42.68213705,-89.02680143360749,0.0
-"Kenosha city, Wisconsin",64105,55,39225,Kenosha city,Wisconsin,"Kenosha city, Wisconsin",42.6007333,-87.91290357488717,0.0
-"Madison city, Wisconsin",73647,55,48000,Madison city,Wisconsin,"Madison city, Wisconsin",43.10844885,-89.3123641,0.0
-"Milwaukee city, Wisconsin",49270,55,53000,Milwaukee city,Wisconsin,"Milwaukee city, Wisconsin",43.0349931,-87.922497,0.0
-"Oshkosh city, Wisconsin",58134,55,60500,Oshkosh city,Wisconsin,"Oshkosh city, Wisconsin",44.0202041,-88.54131575105701,0.0
-"Racine city, Wisconsin",59499,55,66000,Racine city,Wisconsin,"Racine city, Wisconsin",42.72581095,-87.78997996189348,0.0
-"Cheyenne city, Wyoming",70597,56,13900,Cheyenne city,Wyoming,"Cheyenne city, Wyoming",41.11818665,-104.76940269717916,2.0
-"Bayamón zona urbana, Puerto Rico",28425,72,6593,Bayamón zona urbana,Puerto Rico,"Bayamón zona urbana, Puerto Rico",18.37929,-66.16352,1.0
-"Caguas zona urbana, Puerto Rico",22060,72,10334,Caguas zona urbana,Puerto Rico,"Caguas zona urbana, Puerto Rico",18.33881,-67.25163,0.0
-"Carolina zona urbana, Puerto Rico",36646,72,14290,Carolina zona urbana,Puerto Rico,"Carolina zona urbana, Puerto Rico",18.40767,-65.98102,2.0
-"Guaynabo zona urbana, Puerto Rico",48081,72,32522,Guaynabo zona urbana,Puerto Rico,"Guaynabo zona urbana, Puerto Rico",18.38034,-67.18839,0.0
-"Ponce zona urbana, Puerto Rico",16795,72,63820,Ponce zona urbana,Puerto Rico,"Ponce zona urbana, Puerto Rico",18.33881,-67.25163,0.0
-"San Juan zona urbana, Puerto Rico",25928,72,76770,San Juan zona urbana,Puerto Rico,"San Juan zona urbana, Puerto Rico",18.33881,-67.25163,0.0
+,NAME,Low_med_inc,state,place,City_x,State,City_y,Latitude,Longitude,Store Count,Store Coordinates,Closest Store Distance,Furthest Store Distance,Closest Store Coordinates,Furthest Store Coordinates
+0,"Auburn city, Alabama",54839,1,3076,Auburn city,Alabama,"Auburn city, Alabama",32.60101385,-85.51665708295118,0.0,[],inf,0.0,None,None
+1,"Birmingham city, Alabama",39326,1,7000,Birmingham city,Alabama,"Birmingham city, Alabama",33.59985265,-86.63221556960227,1.0,"[[-86.58685474667458, 33.67531011917721]]",9.382680115120039,9.382680115120039,"[-86.58685474667458, 33.67531011917721]","[-86.58685474667458, 33.67531011917721]"
+2,"Dothan city, Alabama",53929,1,21184,Dothan city,Alabama,"Dothan city, Alabama",31.22180825,-85.37800064140656,0.0,[],inf,0.0,None,None
+3,"Huntsville city, Alabama",68930,1,37000,Huntsville city,Alabama,"Huntsville city, Alabama",34.729847,-86.5859011,0.0,[],inf,0.0,None,None
+4,"Mobile city, Alabama",50051,1,50000,Mobile city,Alabama,"Mobile city, Alabama",30.6893619,-88.0518965,0.0,[],inf,0.0,None,None
+5,"Montgomery city, Alabama",55108,1,51000,Montgomery city,Alabama,"Montgomery city, Alabama",32.372562349999995,-86.30544414029366,0.0,[],inf,0.0,None,None
+6,"Tuscaloosa city, Alabama",49005,1,77256,Tuscaloosa city,Alabama,"Tuscaloosa city, Alabama",33.1757082,-87.5331056,0.0,[],inf,0.0,None,None
+7,"Avondale city, Arizona",66801,4,4720,Avondale city,Arizona,"Avondale city, Arizona",33.4355977,-112.349602,0.0,[],inf,0.0,None,None
+8,"Flagstaff city, Arizona",63612,4,23620,Flagstaff city,Arizona,"Flagstaff city, Arizona",35.238625799999994,-111.66325839519725,1.0,"[[-111.66694339999998, 35.177647199664186]]",6.788771374563495,6.788771374563495,"[-111.66694339999998, 35.177647199664186]","[-111.66694339999998, 35.177647199664186]"
+9,"Glendale city, Arizona",72411,4,27820,Glendale city,Arizona,"Glendale city, Arizona",33.5386858,-112.185994,4.0,"[[-112.20366784107148, 33.53803469609104], [-112.1179040063259, 33.57673280386598], [-112.2524804, 33.596226399591686], [-112.2574001, 33.595809899591686]]",1.6396595941043401,9.171527163654492,"[-112.20366784107148, 33.53803469609104]","[-112.2574001, 33.595809899591686]"
+10,"Tucson city, Arizona",51281,4,77000,Tucson city,Arizona,"Tucson city, Arizona",32.222622,-110.97477386698353,0.0,[],inf,0.0,None,None
+11,"Yuma city, Arizona",58043,4,85540,Yuma city,Arizona,"Yuma city, Arizona",33.4351375,-112.0751188,1.0,"[[-112.05683349999998, 33.49541119959011]]",6.913429815154423,6.913429815154423,"[-112.05683349999998, 33.49541119959011]","[-112.05683349999998, 33.49541119959011]"
+12,"Conway city, Arkansas",61898,5,15190,Conway city,Arkansas,"Conway city, Arkansas",35.0893262,-92.439956,0.0,[],inf,0.0,None,None
+13,"Fayetteville city, Arkansas",52991,5,23290,Fayetteville city,Arkansas,"Fayetteville city, Arkansas",36.0616665,-94.1611389636298,0.0,[],inf,0.0,None,None
+14,"Fort Smith city, Arkansas",47669,5,24550,Fort Smith city,Arkansas,"Fort Smith city, Arkansas",35.384996349999994,-94.42530488055677,1.0,"[[-94.42170018169259, 35.38447196173662]]",0.3319462231730369,0.3319462231730369,"[-94.42170018169259, 35.38447196173662]","[-94.42170018169259, 35.38447196173662]"
+15,"Jonesboro city, Arkansas",61057,5,35710,Jonesboro city,Arkansas,"Jonesboro city, Arkansas",35.8386857,-90.7073347,0.0,[],inf,0.0,None,None
+16,"Little Rock city, Arkansas",55065,5,41000,Little Rock city,Arkansas,"Little Rock city, Arkansas",34.7492587,-92.2754277,1.0,"[[-92.35922919999999, 34.773135599637236]]",8.102643280609108,8.102643280609108,"[-92.35922919999999, 34.773135599637236]","[-92.35922919999999, 34.773135599637236]"
+17,"Springdale city, Arkansas",59027,5,66080,Springdale city,Arkansas,"Springdale city, Arkansas",36.18691125,-94.12920199533548,0.0,[],inf,0.0,None,None
+18,"Alhambra city, California",72406,6,884,Alhambra city,California,"Alhambra city, California",34.0925094,-118.1272924,0.0,[],inf,0.0,None,None
+19,"Apple Valley town, California",56187,6,2364,Apple Valley town,California,"Apple Valley town, California",33.904043,-116.48276,0.0,[],inf,0.0,None,None
+20,"Arden-Arcade CDP, California",71457,6,2553,Arden-Arcade CDP,California,"Arden-Arcade CDP, California",38.602265,-121.381746,0.0,[],inf,0.0,None,None
+21,"Bakersfield city, California",72017,6,3526,Bakersfield city,California,"Bakersfield city, California",35.34682555,-119.03545398252858,0.0,[],inf,0.0,None,None
+22,"Baldwin Park city, California",70418,6,3666,Baldwin Park city,California,"Baldwin Park city, California",34.88697,-117.030899,0.0,[],inf,0.0,None,None
+23,"Bellflower city, California",74131,6,4982,Bellflower city,California,"Bellflower city, California",33.883545299999994,-118.12195877301458,1.0,"[[-118.12435329999998, 33.87460869959797]]",1.0179946782804328,1.0179946782804328,"[-118.12435329999998, 33.87460869959797]","[-118.12435329999998, 33.87460869959797]"
+24,"Chico city, California",65021,6,13014,Chico city,California,"Chico city, California",39.7286094,-121.8380227,0.0,[],inf,0.0,None,None
+25,"Citrus Heights city, California",73923,6,13588,Citrus Heights city,California,"Citrus Heights city, California",38.68258675,-121.29690834393745,0.0,[],inf,0.0,None,None
+26,"Compton city, California",68355,6,15044,Compton city,California,"Compton city, California",33.9043727,-118.2421992,0.0,[],inf,0.0,None,None
+27,"Davis city, California",67373,6,18100,Davis city,California,"Davis city, California",40.6389397,-93.8085217,0.0,[],inf,0.0,None,None
+28,"East Los Angeles CDP, California",64156,6,20802,East Los Angeles CDP,California,"East Los Angeles CDP, California",34.02963,-118.168648,0.0,[],inf,0.0,None,None
+29,"El Cajon city, California",66045,6,21712,El Cajon city,California,"El Cajon city, California",34.29889,-117.45644,0.0,[],inf,0.0,None,None
+30,"El Monte city, California",59368,6,22230,El Monte city,California,"El Monte city, California",34.0745722,-118.0308389238582,0.0,[],inf,0.0,None,None
+31,"Fresno city, California",64196,6,27000,Fresno city,California,"Fresno city, California",36.884074350000006,-119.7364962512952,1.0,"[[-119.72255270000001, 36.80878149982483]]",8.463621518219767,8.463621518219767,"[-119.72255270000001, 36.80878149982483]","[-119.72255270000001, 36.80878149982483]"
+32,"Hawthorne city, California",73515,6,32548,Hawthorne city,California,"Hawthorne city, California",33.91853285,-118.35429657366072,3.0,"[[-118.35219309999998, 33.879130299598096], [-118.37292584081949, 33.96106141746434], [-118.39576140000001, 33.99477939960154]]",4.385662753444255,9.300871648008265,"[-118.35219309999998, 33.879130299598096]","[-118.39576140000001, 33.99477939960154]"
+33,"Hemet city, California",54156,6,33182,Hemet city,California,"Hemet city, California",33.737811,-116.995579,0.0,[],inf,0.0,None,None
+34,"Hesperia city, California",73821,6,33434,Hesperia city,California,"Hesperia city, California",34.4272152,-117.31674885808042,0.0,[],inf,0.0,None,None
+35,"Inglewood city, California",62601,6,36546,Inglewood city,California,"Inglewood city, California",33.9651038,-118.339544310373,5.0,"[[-118.37292584081949, 33.96106141746434], [-118.39576140000001, 33.99477939960154], [-118.4111039, 34.01097399960206], [-118.4039968, 34.02081099960238], [-118.35219309999998, 33.879130299598096]]",3.1112465989348617,9.63079486674852,"[-118.37292584081949, 33.96106141746434]","[-118.35219309999998, 33.879130299598096]"
+36,"Lynwood city, California",64481,6,44574,Lynwood city,California,"Lynwood city, California",33.9269596,-118.1970152,1.0,"[[-118.12435329999998, 33.87460869959797]]",8.880206559984543,8.880206559984543,"[-118.12435329999998, 33.87460869959797]","[-118.12435329999998, 33.87460869959797]"
+37,"Madera city, California",67454,6,45022,Madera city,California,"Madera city, California",36.964948,-120.076345,0.0,[],inf,0.0,None,None
+38,"Merced city, California",64160,6,46898,Merced city,California,"Merced city, California",37.30735295,-120.4821971251814,0.0,[],inf,0.0,None,None
+39,"Modesto city, California",73275,6,48354,Modesto city,California,"Modesto city, California",37.7000705,-121.0230916,1.0,"[[-120.93455840000001, 37.73580159994519]]",8.742266266371242,8.742266266371242,"[-120.93455840000001, 37.73580159994519]","[-120.93455840000001, 37.73580159994519]"
+40,"Redding city, California",68551,6,59920,Redding city,California,"Redding city, California",40.57313875,-122.38167377675435,3.0,"[[-122.3892251, 40.5868379003435], [-122.35519911425546, 40.57206976951163], [-122.355014, 40.57397930034192]]",1.6513830225729822,2.253637097974615,"[-122.3892251, 40.5868379003435]","[-122.355014, 40.57397930034192]"
+41,"San Bernardino city, California",62801,6,65000,San Bernardino city,California,"San Bernardino city, California",34.0054691,-117.0431797,0.0,[],inf,0.0,None,None
+42,"South Gate city, California",70939,6,73080,South Gate city,California,"South Gate city, California",37.76972225,-122.46979495263878,0.0,[],inf,0.0,None,None
+43,"Tulare city, California",58586,6,80644,Tulare city,California,"Tulare city, California",36.206914,-119.34271976671144,0.0,[],inf,0.0,None,None
+44,"Victorville city, California",69569,6,82590,Victorville city,California,"Victorville city, California",34.51130155,-117.32271703329296,0.0,[],inf,0.0,None,None
+45,"Yuba City city, California",59588,6,86972,Yuba City city,California,"Yuba City city, California",39.1404477,-121.6169108,0.0,[],inf,0.0,None,None
+46,"Grand Junction city, Colorado",61458,8,31660,Grand Junction city,Colorado,"Grand Junction city, Colorado",39.06879965,-108.56393986262825,1.0,"[[-108.59756619999999, 39.088000500138655]]",3.603247711158554,3.603247711158554,"[-108.59756619999999, 39.088000500138655]","[-108.59756619999999, 39.088000500138655]"
+47,"Greeley city, Colorado",69338,8,32155,Greeley city,Colorado,"Greeley city, Colorado",40.4222295,-104.6953697,1.0,"[[-104.6914393, 40.397875700319766]]",2.728388695487835,2.728388695487835,"[-104.6914393, 40.397875700319766]","[-104.6914393, 40.397875700319766]"
+48,"Pueblo city, Colorado",51697,8,62000,Pueblo city,Colorado,"Pueblo city, Colorado",38.2655776,-104.61104395291898,0.0,[],inf,0.0,None,None
+49,"Bridgeport city, Connecticut",50311,9,8000,Bridgeport city,Connecticut,"Bridgeport city, Connecticut",41.1803914,-73.19308230332848,0.0,[],inf,0.0,None,None
+50,"Hartford city, Connecticut",41529,9,37000,Hartford city,Connecticut,"Hartford city, Connecticut",41.76255395,-72.67346070409121,1.0,"[[-72.71254332586567, 41.680572544071154]]",9.67580239608456,9.67580239608456,"[-72.71254332586567, 41.680572544071154]","[-72.71254332586567, 41.680572544071154]"
+51,"New Britain city, Connecticut",50209,9,50370,New Britain city,Connecticut,"New Britain city, Connecticut",41.173209,-73.190759,0.0,[],inf,0.0,None,None
+52,"New Haven city, Connecticut",53909,9,52000,New Haven city,Connecticut,"New Haven city, Connecticut",41.33008695,-72.95980796170194,2.0,"[[-73.001008, 41.39167250043343], [-73.0161747, 41.255887100419706]]",7.662794103634182,9.499986109992776,"[-73.001008, 41.39167250043343]","[-73.0161747, 41.255887100419706]"
+53,"Waterbury city, Connecticut",51572,9,80000,Waterbury city,Connecticut,"Waterbury city, Connecticut",41.5540552,-73.0436914,1.0,"[[-72.9940308, 41.53817020044748]]",4.49442973664083,4.49442973664083,"[-72.9940308, 41.53817020044748]","[-72.9940308, 41.53817020044748]"
+54,"Wilmington city, Delaware",52768,10,77580,Wilmington city,Delaware,"Wilmington city, Delaware",39.7405865,-75.5591002,0.0,[],inf,0.0,None,None
+55,"Boynton Beach city, Florida",66472,12,7875,Boynton Beach city,Florida,"Boynton Beach city, Florida",26.523508,-80.134772,1.0,"[[-80.1185938754124, 26.457400203789824]]",7.525110722495373,7.525110722495373,"[-80.1185938754124, 26.457400203789824]","[-80.1185938754124, 26.457400203789824]"
+56,"Clearwater city, Florida",56474,12,12875,Clearwater city,Florida,"Clearwater city, Florida",27.9800687,-82.74456341480561,2.0,"[[-82.7214254, 27.960215099950677], [-82.78755091962452, 27.99032412662177]]",3.1681138609971264,4.372387171479466,"[-82.7214254, 27.960215099950677]","[-82.78755091962452, 27.99032412662177]"
+57,"Daytona Beach city, Florida",51881,12,16525,Daytona Beach city,Florida,"Daytona Beach city, Florida",29.2069366,-81.0198923,3.0,"[[-81.02865716583017, 29.20813805781637], [-81.0001638, 29.169327099819878], [-80.9922373, 29.151954199821667]]",0.8611211117399729,6.677317231270783,"[-81.02865716583017, 29.20813805781637]","[-80.9922373, 29.151954199821667]"
+58,"Deerfield Beach city, Florida",65465,12,16725,Deerfield Beach city,Florida,"Deerfield Beach city, Florida",30.405343,-86.458559,1.0,"[[-86.4215799, 30.489099699698443]]",9.965131391341764,9.965131391341764,"[-86.4215799, 30.489099699698443]","[-86.4215799, 30.489099699698443]"
+59,"Deltona city, Florida",73115,12,17200,Deltona city,Florida,"Deltona city, Florida",28.92737035,-81.22193361979444,0.0,[],inf,0.0,None,None
+60,"Fort Myers city, Florida",62981,12,24125,Fort Myers city,Florida,"Fort Myers city, Florida",30.406801,-87.225746,2.0,"[[-87.29308962224655, 30.431201506343832], [-87.25508956413591, 30.483065928703972]]",7.004322582532953,8.934639549522704,"[-87.29308962224655, 30.431201506343832]","[-87.25508956413591, 30.483065928703972]"
+61,"Gainesville city, Florida",42453,12,25175,Gainesville city,Florida,"Gainesville city, Florida",29.631326,-82.339833,1.0,"[[-82.339527777459, 29.657167324940346]]",2.8735756272323267,2.8735756272323267,"[-82.339527777459, 29.657167324940346]","[-82.339527777459, 29.657167324940346]"
+62,"Hialeah city, Florida",52674,12,30000,Hialeah city,Florida,"Hialeah city, Florida",25.8911468,-80.31994594372972,0.0,[],inf,0.0,None,None
+63,"Hollywood city, Florida",59917,12,32000,Hollywood city,Florida,"Hollywood city, Florida",26.0110834,-80.1594579,1.0,"[[-80.1938096, 25.928977600171386]]",9.754222975876566,9.754222975876566,"[-80.1938096, 25.928977600171386]","[-80.1938096, 25.928977600171386]"
+64,"Homestead city, Florida",60530,12,32275,Homestead city,Florida,"Homestead city, Florida",25.4598658,-80.466251,0.0,[],inf,0.0,None,None
+65,"Jacksonville city, Florida",69309,12,35000,Jacksonville city,Florida,"Jacksonville city, Florida",30.33006445,-81.65905544651602,0.0,[],inf,0.0,None,None
+66,"Kissimmee city, Florida",44445,12,36950,Kissimmee city,Florida,"Kissimmee city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+67,"Lakeland city, Florida",58524,12,38250,Lakeland city,Florida,"Lakeland city, Florida",28.0061,-81.9281,0.0,[],inf,0.0,None,None
+68,"Largo city, Florida",56408,12,39425,Largo city,Florida,"Largo city, Florida",27.9323954,-82.78445355644979,3.0,"[[-82.78755091962452, 27.99032412662177], [-82.7214254, 27.960215099950677], [-82.69573098502848, 27.89306353440358]]",6.448559843559409,9.75330373692699,"[-82.78755091962452, 27.99032412662177]","[-82.69573098502848, 27.89306353440358]"
+69,"Lauderhill city, Florida",44755,12,39550,Lauderhill city,Florida,"Lauderhill city, Florida",26.1527778,-80.2225,0.0,[],inf,0.0,None,None
+70,"Lehigh Acres CDP, Florida",65816,12,39925,Lehigh Acres CDP,Florida,"Lehigh Acres CDP, Florida",26.62535,-81.6248,0.0,[],inf,0.0,None,None
+71,"Melbourne city, Florida",64331,12,43975,Melbourne city,Florida,"Melbourne city, Florida",28.14014685,-80.58370123746208,0.0,[],inf,0.0,None,None
+72,"Miami city, Florida",60989,12,45000,Miami city,Florida,"Miami city, Florida",25.7741728,-80.19362,0.0,[],inf,0.0,None,None
+73,"Miami Beach city, Florida",69258,12,45025,Miami Beach city,Florida,"Miami Beach city, Florida",25.76539,-80.1376572,0.0,[],inf,0.0,None,None
+74,"Miami Gardens city, Florida",61496,12,45060,Miami Gardens city,Florida,"Miami Gardens city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+75,"Ocala city, Florida",44756,12,50750,Ocala city,Florida,"Ocala city, Florida",29.1850626,-82.13421457600373,0.0,[],inf,0.0,None,None
+76,"Orlando city, Florida",65354,12,53000,Orlando city,Florida,"Orlando city, Florida",28.35542195,-81.26625779661217,0.0,[],inf,0.0,None,None
+77,"Palm Bay city, Florida",71645,12,54000,Palm Bay city,Florida,"Palm Bay city, Florida",29.7566,-85.02047,0.0,[],inf,0.0,None,None
+78,"Palm Coast city, Florida",68434,12,54200,Palm Coast city,Florida,"Palm Coast city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+79,"Pine Hills CDP, Florida",43452,12,56825,Pine Hills CDP,Florida,"Pine Hills CDP, Florida",28.581907,-81.469155,1.0,"[[-81.47539756514202, 28.659428850645355]]",8.641545320714638,8.641545320714638,"[-81.47539756514202, 28.659428850645355]","[-81.47539756514202, 28.659428850645355]"
+80,"Poinciana CDP, Florida",59367,12,57900,Poinciana CDP,Florida,"Poinciana CDP, Florida",28.108626,-81.476172,0.0,[],inf,0.0,None,None
+81,"Pompano Beach city, Florida",61037,12,58050,Pompano Beach city,Florida,"Pompano Beach city, Florida",30.383495,-86.418076,0.0,[],inf,0.0,None,None
+82,"Port Charlotte CDP, Florida",64195,12,58350,Port Charlotte CDP,Florida,"Port Charlotte CDP, Florida",26.989518,-82.112282,0.0,[],inf,0.0,None,None
+83,"Port St. Lucie city, Florida",70613,12,58715,Port St. Lucie city,Florida,"Port St. Lucie city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+84,"St. Petersburg city, Florida",69941,12,63000,St. Petersburg city,Florida,"St. Petersburg city, Florida",27.8101496,-82.7204414,1.0,"[[-82.69573098502848, 27.89306353440358]]",9.534311269793916,9.534311269793916,"[-82.69573098502848, 27.89306353440358]","[-82.69573098502848, 27.89306353440358]"
+85,"Spring Hill CDP, Florida",62670,12,68350,Spring Hill CDP,Florida,"Spring Hill CDP, Florida",28.483651,-82.52145,0.0,[],inf,0.0,None,None
+86,"Sunrise city, Florida",74047,12,69700,Sunrise city,Florida,"Sunrise city, Florida",26.1294873,-80.33551628973986,0.0,[],inf,0.0,None,None
+87,"Tallahassee city, Florida",53867,12,70600,Tallahassee city,Florida,"Tallahassee city, Florida",30.4461113,-84.28273060544674,0.0,[],inf,0.0,None,None
+88,"Tamarac city, Florida",54574,12,70675,Tamarac city,Florida,"Tamarac city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+89,"Tampa city, Florida",71089,12,71000,Tampa city,Florida,"Tampa city, Florida",27.953105,-82.4507037,0.0,[],inf,0.0,None,None
+90,"Town 'n' Country CDP, Florida",65783,12,72145,Town 'n' Country CDP,Florida,"Town 'n' Country CDP, Florida",28.00971,-82.574935,0.0,[],inf,0.0,None,None
+91,"West Palm Beach city, Florida",71138,12,76600,West Palm Beach city,Florida,"West Palm Beach city, Florida",28.543089,-81.378698,0.0,[],inf,0.0,None,None
+92,"Albany city, Georgia",39422,13,1052,Albany city,Georgia,"Albany city, Georgia",31.580711,-84.17833,0.0,[],inf,0.0,None,None
+93,"Athens-Clarke County unified government (balance), Georgia",46523,13,3440,Athens-Clarke County unified government (balance),Georgia,"Athens-Clarke County unified government (balance), Georgia",33.95759,-83.358855,0.0,[],inf,0.0,None,None
+94,"Augusta-Richmond County consolidated government (balance), Georgia",49838,13,4204,Augusta-Richmond County consolidated government (balance),Georgia,"Augusta-Richmond County consolidated government (balance), Georgia",33.4693345,-81.988562,1.0,"[[-82.02734149999999, 33.51053719959033]]",5.824354503076542,5.824354503076542,"[-82.02734149999999, 33.51053719959033]","[-82.02734149999999, 33.51053719959033]"
+95,"Columbus city, Georgia",53750,13,19000,Columbus city,Georgia,"Columbus city, Georgia",32.4973641,-84.9915988,0.0,[],inf,0.0,None,None
+96,"Macon-Bibb County, Georgia",47625,13,49008,Macon-Bibb County,Georgia,"Macon-Bibb County, Georgia",32.8406946,-83.6324022,1.0,"[[-83.69248539999998, 32.89683099958822]]",8.393555681974966,8.393555681974966,"[-83.69248539999998, 32.89683099958822]","[-83.69248539999998, 32.89683099958822]"
+97,"Savannah city, Georgia",53258,13,69000,Savannah city,Georgia,"Savannah city, Georgia",32.0818302,-81.0906924,2.0,"[[-81.11938827966505, 32.02822548733315], [-81.1738805, 32.08664129960547]]",6.545377557124387,7.8555470532472915,"[-81.11938827966505, 32.02822548733315]","[-81.1738805, 32.08664129960547]"
+98,"Warner Robins city, Georgia",57967,13,80508,Warner Robins city,Georgia,"Warner Robins city, Georgia",32.6200362,-83.6072696,1.0,"[[-83.6967498, 32.61568709959169]]",8.394455528991744,8.394455528991744,"[-83.6967498, 32.61568709959169]","[-83.6967498, 32.61568709959169]"
+99,"Caldwell city, Idaho",63939,16,12250,Caldwell city,Idaho,"Caldwell city, Idaho",43.66778875,-116.6923956652292,1.0,"[[-116.65809009165379, 43.64198272948571]]",3.981346317543814,3.981346317543814,"[-116.65809009165379, 43.64198272948571]","[-116.65809009165379, 43.64198272948571]"
+100,"Idaho Falls city, Idaho",72007,16,39700,Idaho Falls city,Idaho,"Idaho Falls city, Idaho",42.68046,-114.4242,0.0,[],inf,0.0,None,None
+101,"Nampa city, Idaho",71060,16,56260,Nampa city,Idaho,"Nampa city, Idaho",43.58231,-116.57005827990676,1.0,"[[-116.65809009165379, 43.64198272948571]]",9.70858116955619,9.70858116955619,"[-116.65809009165379, 43.64198272948571]","[-116.65809009165379, 43.64198272948571]"
+102,"Bloomington city, Illinois",67592,17,6613,Bloomington city,Illinois,"Bloomington city, Illinois",40.4766298,-88.992535824882,0.0,[],inf,0.0,None,None
+103,"Champaign city, Illinois",56148,17,12385,Champaign city,Illinois,"Champaign city, Illinois",40.104535,-88.272156,1.0,"[[-88.2214029, 40.11678030028301]]",4.5258290103339025,4.5258290103339025,"[-88.2214029, 40.11678030028301]","[-88.2214029, 40.11678030028301]"
+104,"Chicago city, Illinois",70386,17,14000,Chicago city,Illinois,"Chicago city, Illinois",41.8876395,-87.61586179175978,1.0,"[[-87.6666557, 41.93804050048156]]",7.005294978232957,7.005294978232957,"[-87.6666557, 41.93804050048156]","[-87.6666557, 41.93804050048156]"
+105,"Cicero town, Illinois",67111,17,14351,Cicero town,Illinois,"Cicero town, Illinois",41.846962,-87.759289,1.0,"[[-87.83521259999999, 41.81368700047166]]",7.298034794582219,7.298034794582219,"[-87.83521259999999, 41.81368700047166]","[-87.83521259999999, 41.81368700047166]"
+106,"Decatur city, Illinois",49714,17,18823,Decatur city,Illinois,"Decatur city, Illinois",40.265028,-89.191575,0.0,[],inf,0.0,None,None
+107,"Peoria city, Illinois",55955,17,59000,Peoria city,Illinois,"Peoria city, Illinois",40.692568,-89.59300960737687,0.0,[],inf,0.0,None,None
+108,"Rockford city, Illinois",53994,17,65000,Rockford city,Illinois,"Rockford city, Illinois",42.26765455,-89.08808785238159,1.0,"[[-89.0233252886105, 42.328471782978156]]",8.60832960485656,8.60832960485656,"[-89.0233252886105, 42.328471782978156]","[-89.0233252886105, 42.328471782978156]"
+109,"Springfield city, Illinois",60082,17,72000,Springfield city,Illinois,"Springfield city, Illinois",39.8001686,-89.6457434,2.0,"[[-89.6678458, 39.77449200023636], [-89.6487905, 39.76712100023533]]",3.4231883267599152,3.6839382799455542,"[-89.6678458, 39.77449200023636]","[-89.6487905, 39.76712100023533]"
+110,"Waukegan city, Illinois",64299,17,79293,Waukegan city,Illinois,"Waukegan city, Illinois",42.3608434,-87.83447762749846,0.0,[],inf,0.0,None,None
+111,"Bloomington city, Indiana",47360,18,5860,Bloomington city,Indiana,"Bloomington city, Indiana",39.12296945,-86.53201577420967,0.0,[],inf,0.0,None,None
+112,"Evansville city, Indiana",48127,18,22000,Evansville city,Indiana,"Evansville city, Indiana",40.440862,-80.001797,1.0,"[[-80.0326436, 40.51945090033513]]",9.119829024454337,9.119829024454337,"[-80.0326436, 40.51945090033513]","[-80.0326436, 40.51945090033513]"
+113,"Fort Wayne city, Indiana",58439,18,25000,Fort Wayne city,Indiana,"Fort Wayne city, Indiana",39.874975,-85.997186,0.0,[],inf,0.0,None,None
+114,"Gary city, Indiana",36153,18,27000,Gary city,Indiana,"Gary city, Indiana",32.030637,-94.37784943280631,0.0,[],inf,0.0,None,None
+115,"Hammond city, Indiana",53878,18,31000,Hammond city,Indiana,"Hammond city, Indiana",41.6051069,-87.50823735949376,0.0,[],inf,0.0,None,None
+116,"Indianapolis city (balance), Indiana",61501,18,36003,Indianapolis city (balance),Indiana,"Indianapolis city (balance), Indiana",39.794769,-86.23491,1.0,"[[-86.30736107074688, 39.76160667751888]]",7.2063150077400016,7.2063150077400016,"[-86.30736107074688, 39.76160667751888]","[-86.30736107074688, 39.76160667751888]"
+117,"Lafayette city, Indiana",51439,18,40788,Lafayette city,Indiana,"Lafayette city, Indiana",40.4179044,-86.89097104586222,0.0,[],inf,0.0,None,None
+118,"Muncie city, Indiana",40968,18,51876,Muncie city,Indiana,"Muncie city, Indiana",40.19564235,-85.38703095861145,1.0,"[[-85.38190598722208, 40.16713715592875]]",3.1993956916057646,3.1993956916057646,"[-85.38190598722208, 40.16713715592875]","[-85.38190598722208, 40.16713715592875]"
+119,"South Bend city, Indiana",51610,18,71000,South Bend city,Indiana,"South Bend city, Indiana",41.666181050000006,-86.26545739994202,2.0,"[[-86.18830169999998, 41.69171325046133], [-86.18384182461459, 41.71831849488409]]",7.008524759797656,8.91819509901334,"[-86.18830169999998, 41.69171325046133]","[-86.18384182461459, 41.71831849488409]"
+120,"Ames city, Iowa",52565,19,1855,Ames city,Iowa,"Ames city, Iowa",42.0263603,-93.61798566847555,1.0,"[[-93.6134943, 42.023641600487984]]",0.4785654804887571,0.4785654804887571,"[-93.6134943, 42.023641600487984]","[-93.6134943, 42.023641600487984]"
+121,"Cedar Rapids city, Iowa",64435,19,12000,Cedar Rapids city,Iowa,"Cedar Rapids city, Iowa",41.9774599,-91.66968675700264,2.0,"[[-91.66732169999999, 42.027476700488265], [-91.69400820367429, 42.051897284961356]]",5.5650468892281015,8.517455744236447,"[-91.66732169999999, 42.027476700488265]","[-91.69400820367429, 42.051897284961356]"
+122,"Davenport city, Iowa",54630,19,19000,Davenport city,Iowa,"Davenport city, Iowa",41.523852000000005,-90.57665405538714,0.0,[],inf,0.0,None,None
+123,"Des Moines city, Iowa",58018,19,21000,Des Moines city,Iowa,"Des Moines city, Iowa",41.589092,-93.61656545721924,2.0,"[[-93.70770569999999, 41.57138690045056], [-93.7117756731486, 41.629611318516844]]",7.8322207691825225,9.108149107027836,"[-93.70770569999999, 41.57138690045056]","[-93.7117756731486, 41.629611318516844]"
+124,"Iowa City city, Iowa",55598,19,38595,Iowa City city,Iowa,"Iowa City city, Iowa",41.6683126,-91.57952674093114,0.0,[],inf,0.0,None,None
+125,"Sioux City city, Iowa",61836,19,73335,Sioux City city,Iowa,"Sioux City city, Iowa",42.4966815,-96.4058782,1.0,"[[-96.36659116171202, 42.482758823465865]]",3.5740368131787164,3.5740368131787164,"[-96.36659116171202, 42.482758823465865]","[-96.36659116171202, 42.482758823465865]"
+126,"Waterloo city, Iowa",52888,19,82425,Waterloo city,Iowa,"Waterloo city, Iowa",42.4989181,-92.3321273,0.0,[],inf,0.0,None,None
+127,"Kansas City city, Kansas",58233,20,36000,Kansas City city,Kansas,"Kansas City city, Kansas",37.148549,-98.032761,0.0,[],inf,0.0,None,None
+128,"Lawrence city, Kansas",59963,20,38900,Lawrence city,Kansas,"Lawrence city, Kansas",39.0664381,-94.6767882,0.0,[],inf,0.0,None,None
+129,"Topeka city, Kansas",50709,20,71000,Topeka city,Kansas,"Topeka city, Kansas",39.08320255,-95.8795183923203,0.0,[],inf,0.0,None,None
+130,"Wichita city, Kansas",59277,20,79000,Wichita city,Kansas,"Wichita city, Kansas",37.7797346,-97.3011544,0.0,[],inf,0.0,None,None
+131,"Bowling Green city, Kentucky",45812,21,8902,Bowling Green city,Kentucky,"Bowling Green city, Kentucky",37.409955,-86.484523,1.0,"[[-86.49704506584382, 37.41743045582214]]",1.3834867789134733,1.3834867789134733,"[-86.49704506584382, 37.41743045582214]","[-86.49704506584382, 37.41743045582214]"
+132,"Lexington-Fayette urban county, Kentucky",62908,21,46027,Lexington-Fayette urban county,Kentucky,"Lexington-Fayette urban county, Kentucky",38.0464066,-84.4970393,0.0,[],inf,0.0,None,None
+133,"Louisville/Jefferson County metro government (balance), Kentucky",63049,21,48006,Louisville/Jefferson County metro government (balance),Kentucky,"Louisville/Jefferson County metro government (balance), Kentucky",37.36906505,-121.91768108904876,3.0,"[[-121.90495099999998, 37.35601779989398], [-121.90890768717252, 37.322189230041694], [-122.01267470207507, 37.37698556582038]]",1.83591241181296,8.440344009982377,"[-121.90495099999998, 37.35601779989398]","[-122.01267470207507, 37.37698556582038]"
+134,"Baton Rouge city, Louisiana",50304,22,5000,Baton Rouge city,Louisiana,"Baton Rouge city, Louisiana",30.445671,-91.1114748,3.0,"[[-91.07913941767006, 30.47427612870947], [-91.04237628475722, 30.39380133765955], [-91.05080729999999, 30.37442129970767]]",4.441027525101789,9.829293930906088,"[-91.07913941767006, 30.47427612870947]","[-91.05080729999999, 30.37442129970767]"
+135,"Kenner city, Louisiana",56906,22,39475,Kenner city,Louisiana,"Kenner city, Louisiana",30.03269005,-90.2667866376518,2.0,"[[-90.23947579999998, 30.001861899739577], [-90.20823945151272, 29.978343417974894]]",4.320307708353829,8.264483823704447,"[-90.23947579999998, 30.001861899739577]","[-90.20823945151272, 29.978343417974894]"
+136,"Lafayette city, Louisiana",50504,22,40735,Lafayette city,Louisiana,"Lafayette city, Louisiana",30.2204787,-92.0245651,1.0,"[[-92.02968891026185, 30.298233629452266]]",8.659947649774608,8.659947649774608,"[-92.02968891026185, 30.298233629452266]","[-92.02968891026185, 30.298233629452266]"
+137,"Lake Charles city, Louisiana",56666,22,41155,Lake Charles city,Louisiana,"Lake Charles city, Louisiana",30.22601805,-93.21729785646288,0.0,[],inf,0.0,None,None
+138,"Metairie CDP, Louisiana",74528,22,50115,Metairie CDP,Louisiana,"Metairie CDP, Louisiana",29.996968,-90.178046,2.0,"[[-90.20823945151272, 29.978343417974894], [-90.23947579999998, 30.001861899739577]]",3.5699953372875197,5.940555836258751,"[-90.20823945151272, 29.978343417974894]","[-90.23947579999998, 30.001861899739577]"
+139,"New Orleans city, Louisiana",52322,22,55000,New Orleans city,Louisiana,"New Orleans city, Louisiana",29.9461665,-90.0784417,0.0,[],inf,0.0,None,None
+140,"Shreveport city, Louisiana",43643,22,70000,Shreveport city,Louisiana,"Shreveport city, Louisiana",32.4903195,-93.7019392,0.0,[],inf,0.0,None,None
+141,"Portland city, Maine",69046,23,60545,Portland city,Maine,"Portland city, Maine",43.659240350000005,-70.25735922170654,0.0,[],inf,0.0,None,None
+142,"Baltimore city, Maryland",55198,24,4000,Baltimore city,Maryland,"Baltimore city, Maryland",39.3120962,-76.62377410911603,0.0,[],inf,0.0,None,None
+143,"Dundalk CDP, Maryland",50648,24,23975,Dundalk CDP,Maryland,"Dundalk CDP, Maryland",39.274777,-76.500758,3.0,"[[-76.475413, 39.2602845001635], [-76.4778533, 39.307283300170255], [-76.45372079999999, 39.32102670017222]]",2.7124687576272155,6.544481565712753,"[-76.475413, 39.2602845001635]","[-76.45372079999999, 39.32102670017222]"
+144,"Fall River city, Massachusetts",46789,25,23000,Fall River city,Massachusetts,"Fall River city, Massachusetts",42.567154,-71.299784,0.0,[],inf,0.0,None,None
+145,"Lawrence city, Massachusetts",60632,25,34550,Lawrence city,Massachusetts,"Lawrence city, Massachusetts",42.708218,-71.15997110250137,2.0,"[[-71.20101417285005, 42.744670952321925], [-71.20700889673002, 42.75373152213179]]",5.260187981147221,6.353977575792834,"[-71.20101417285005, 42.744670952321925]","[-71.20700889673002, 42.75373152213179]"
+146,"Lowell city, Massachusetts",72349,25,37000,Lowell city,Massachusetts,"Lowell city, Massachusetts",42.6253826,-71.3199172,0.0,[],inf,0.0,None,None
+147,"Lynn city, Massachusetts",62374,25,37490,Lynn city,Massachusetts,"Lynn city, Massachusetts",42.4648113,-70.9512465,0.0,[],inf,0.0,None,None
+148,"New Bedford city, Massachusetts",53024,25,45000,New Bedford city,Massachusetts,"New Bedford city, Massachusetts",41.173209,-73.190759,0.0,[],inf,0.0,None,None
+149,"Springfield city, Massachusetts",44286,25,67000,Springfield city,Massachusetts,"Springfield city, Massachusetts",42.101428,-72.5899948,1.0,"[[-72.52828091111247, 42.08055067665473]]",5.596543610989061,5.596543610989061,"[-72.52828091111247, 42.08055067665473]","[-72.52828091111247, 42.08055067665473]"
+150,"Worcester city, Massachusetts",61935,25,82000,Worcester city,Massachusetts,"Worcester city, Massachusetts",42.2625633,-71.801867,0.0,[],inf,0.0,None,None
+151,"Dearborn city, Michigan",58467,26,21000,Dearborn city,Michigan,"Dearborn city, Michigan",42.3277545,-83.1567449,0.0,[],inf,0.0,None,None
+152,"Detroit city, Michigan",36453,26,22000,Detroit city,Michigan,"Detroit city, Michigan",42.3315509,-83.0466403,0.0,[],inf,0.0,None,None
+153,"Flint city, Michigan",33036,26,29000,Flint city,Michigan,"Flint city, Michigan",43.0228767,-83.69808941025136,1.0,"[[-83.7715712, 42.986304100536216]]",7.227873166003103,7.227873166003103,"[-83.7715712, 42.986304100536216]","[-83.7715712, 42.986304100536216]"
+154,"Grand Rapids city, Michigan",65660,26,34000,Grand Rapids city,Michigan,"Grand Rapids city, Michigan",42.347972,-86.298277,0.0,[],inf,0.0,None,None
+155,"Kalamazoo city, Michigan",43509,26,42160,Kalamazoo city,Michigan,"Kalamazoo city, Michigan",42.274924,-85.587168,1.0,"[[-85.6863573, 42.29658850050625]]",8.507673780851203,8.507673780851203,"[-85.6863573, 42.29658850050625]","[-85.6863573, 42.29658850050625]"
+156,"Lansing city, Michigan",48962,26,46000,Lansing city,Michigan,"Lansing city, Michigan",42.7340573,-84.553437,1.0,"[[-84.63779118831971, 42.74042424278911]]",6.9254667281434505,6.9254667281434505,"[-84.63779118831971, 42.74042424278911]","[-84.63779118831971, 42.74042424278911]"
+157,"Southfield city, Michigan",65316,26,74900,Southfield city,Michigan,"Southfield city, Michigan",42.4737,-83.267776,2.0,"[[-83.29942532582069, 42.442857255676955], [-83.18153574190477, 42.51368002171712]]",4.301522795710547,8.352222079089637,"[-83.29942532582069, 42.442857255676955]","[-83.18153574190477, 42.51368002171712]"
+158,"Warren city, Michigan",60285,26,84000,Warren city,Michigan,"Warren city, Michigan",42.3386095,-83.36414410993372,0.0,[],inf,0.0,None,None
+159,"Westland city, Michigan",56630,26,86000,Westland city,Michigan,"Westland city, Michigan",42.3285635,-83.40034995940799,0.0,[],inf,0.0,None,None
+160,"Wyoming city, Michigan",64499,26,88940,Wyoming city,Michigan,"Wyoming city, Michigan",37.5098323,-81.9284529,0.0,[],inf,0.0,None,None
+161,"Duluth city, Minnesota",59583,27,17000,Duluth city,Minnesota,"Duluth city, Minnesota",46.7385538,-92.1802244,1.0,"[[-92.10275798226158, 46.72818878702003]]",6.015344483554428,6.015344483554428,"[-92.10275798226158, 46.72818878702003]","[-92.10275798226158, 46.72818878702003]"
+162,"Minneapolis city, Minnesota",74473,27,43000,Minneapolis city,Minnesota,"Minneapolis city, Minnesota",44.9773133,-93.26506828427073,2.0,"[[-93.36810548798884, 44.97079168480546], [-93.3831831, 44.94975240047297]]",8.137517445213499,9.785176126874958,"[-93.36810548798884, 44.97079168480546]","[-93.3831831, 44.94975240047297]"
+163,"St. Cloud city, Minnesota",55803,27,56896,St. Cloud city,Minnesota,"St. Cloud city, Minnesota",43.514796,-96.362993,0.0,[],inf,0.0,None,None
+164,"St. Paul city, Minnesota",67725,27,58000,St. Paul city,Minnesota,"St. Paul city, Minnesota",44.9454337,-93.0946042745516,0.0,[],inf,0.0,None,None
+165,"Gulfport city, Mississippi",43047,28,29700,Gulfport city,Mississippi,"Gulfport city, Mississippi",30.3704094,-89.0807088,0.0,[],inf,0.0,None,None
+166,"Jackson city, Mississippi",40631,28,36000,Jackson city,Mississippi,"Jackson city, Mississippi",29.949524,-90.073612,0.0,[],inf,0.0,None,None
+167,"Columbia city, Missouri",58067,29,15670,Columbia city,Missouri,"Columbia city, Missouri",41.156928,-85.4884616,0.0,[],inf,0.0,None,None
+168,"Independence city, Missouri",53082,29,35000,Independence city,Missouri,"Independence city, Missouri",39.0924792,-94.4137923,1.0,"[[-94.4473412, 39.04816970013288]]",5.715191722408518,5.715191722408518,"[-94.4473412, 39.04816970013288]","[-94.4473412, 39.04816970013288]"
+169,"Kansas City city, Missouri",62175,29,38000,Kansas City city,Missouri,"Kansas City city, Missouri",39.0858055,-94.5840781,1.0,"[[-94.57816189031371, 39.14278301083588]]",6.35613757626867,6.35613757626867,"[-94.57816189031371, 39.14278301083588]","[-94.57816189031371, 39.14278301083588]"
+170,"St. Joseph city, Missouri",53012,29,64550,St. Joseph city,Missouri,"St. Joseph city, Missouri",29.5459184,-95.5029482,0.0,[],inf,0.0,None,None
+171,"St. Louis city, Missouri",52847,29,65000,St. Louis city,Missouri,"St. Louis city, Missouri",38.6280278,-90.1910154,0.0,[],inf,0.0,None,None
+172,"Springfield city, Missouri",45400,29,70000,Springfield city,Missouri,"Springfield city, Missouri",37.2179252,-93.2906129,3.0,"[[-93.27526255845983, 37.235237745115384], [-93.29398877900493, 37.18249192648103], [-93.3096061, 37.182004199871365]]",2.3564893969625413,4.334027576734773,"[-93.27526255845983, 37.235237745115384]","[-93.3096061, 37.182004199871365]"
+173,"Missoula city, Montana",59590,30,50200,Missoula city,Montana,"Missoula city, Montana",46.8339432,-114.0189071,3.0,"[[-114.02048799999999, 46.84861640019184], [-114.0812863, 46.82129980019722], [-114.03554639999999, 46.900246900181514]]",1.6360101841460586,7.480367847532628,"[-114.02048799999999, 46.84861640019184]","[-114.03554639999999, 46.900246900181514]"
+174,"Lincoln city, Nebraska",62391,31,28000,Lincoln city,Nebraska,"Lincoln city, Nebraska",40.7928265,-96.67596777719668,1.0,"[[-96.6935950562245, 40.811192560600574]]",2.524289927557904,2.524289927557904,"[-96.6935950562245, 40.811192560600574]","[-96.6935950562245, 40.811192560600574]"
+175,"Omaha city, Nebraska",67450,31,37000,Omaha city,Nebraska,"Omaha city, Nebraska",41.28272725,-95.9509501267383,0.0,[],inf,0.0,None,None
+176,"Las Vegas city, Nevada",68905,32,40000,Las Vegas city,Nevada,"Las Vegas city, Nevada",36.2194186,-115.3273239,0.0,[],inf,0.0,None,None
+177,"Paradise CDP, Nevada",55578,32,54600,Paradise CDP,Nevada,"Paradise CDP, Nevada",36.092329,-115.123309,3.0,"[[-115.111349, 36.10036339974565], [-115.1988509, 36.127561399748444], [-115.11786410000002, 36.00539569973608]]",1.3974536556171484,9.678928396543482,"[-115.111349, 36.10036339974565]","[-115.11786410000002, 36.00539569973608]"
+178,"Reno city, Nevada",72103,32,60600,Reno city,Nevada,"Reno city, Nevada",39.5261629,-119.8126529,2.0,"[[-119.764858, 39.543373600203935], [-119.76475609999999, 39.54345880020394]]",4.523544353509146,4.535470875238493,"[-119.764858, 39.543373600203935]","[-119.76475609999999, 39.54345880020394]"
+179,"Spring Valley CDP, Nevada",66959,32,68585,Spring Valley CDP,Nevada,"Spring Valley CDP, Nevada",36.099661,-115.261921,1.0,"[[-115.1988509, 36.127561399748444]]",6.45931908562135,6.45931908562135,"[-115.1988509, 36.127561399748444]","[-115.1988509, 36.127561399748444]"
+180,"Sunrise Manor CDP, Nevada",58130,32,71400,Sunrise Manor CDP,Nevada,"Sunrise Manor CDP, Nevada",36.169438,-115.031539,0.0,[],inf,0.0,None,None
+181,"Camden city, New Jersey",37075,34,10000,Camden city,New Jersey,"Camden city, New Jersey",39.94483995,-75.11996184462943,0.0,[],inf,0.0,None,None
+182,"East Orange city, New Jersey",43527,34,19390,East Orange city,New Jersey,"East Orange city, New Jersey",40.7532204,-74.2399736,0.0,[],inf,0.0,None,None
+183,"Elizabeth city, New Jersey",64113,34,21000,Elizabeth city,New Jersey,"Elizabeth city, New Jersey",40.6729122,-74.2211187,0.0,[],inf,0.0,None,None
+184,"Lakewood CDP, New Jersey",59460,34,38580,Lakewood CDP,New Jersey,"Lakewood CDP, New Jersey",40.093316,-74.211049,0.0,[],inf,0.0,None,None
+185,"Newark city, New Jersey",49688,34,51000,Newark city,New Jersey,"Newark city, New Jersey",40.7317764,-74.17360430516698,0.0,[],inf,0.0,None,None
+186,"Passaic city, New Jersey",51551,34,56550,Passaic city,New Jersey,"Passaic city, New Jersey",40.8607784,-74.1234093,2.0,"[[-74.17210705, 40.91048425038202], [-74.08410229600024, 40.924477568881805]]",6.878029106283639,7.815733585029565,"[-74.17210705, 40.91048425038202]","[-74.08410229600024, 40.924477568881805]"
+187,"Paterson city, New Jersey",47373,34,57000,Paterson city,New Jersey,"Paterson city, New Jersey",40.9170394,-74.17197468312253,2.0,"[[-74.17210705, 40.91048425038202], [-74.08410229600024, 40.924477568881805]]",0.7289842403616797,7.429280607214248,"[-74.17210705, 40.91048425038202]","[-74.08410229600024, 40.924477568881805]"
+188,"Trenton city, New Jersey",52508,34,74000,Trenton city,New Jersey,"Trenton city, New Jersey",40.23680765,-74.78991167849014,0.0,[],inf,0.0,None,None
+189,"Union City city, New Jersey",58020,34,74630,Union City city,New Jersey,"Union City city, New Jersey",40.77764565,-74.02305767630668,5.0,"[[-73.9883714, 40.759505000364406], [-73.9907294, 40.74762450036298], [-74.00349603979771, 40.72013267267088], [-73.98833710000001, 40.72261940036], [-73.99765779999998, 40.71930530035959]]",3.549859978704882,6.830908087930918,"[-73.9883714, 40.759505000364406]","[-73.99765779999998, 40.71930530035959]"
+190,"Albuquerque city, New Mexico",64757,35,2000,Albuquerque city,New Mexico,"Albuquerque city, New Mexico",35.10207035,-106.6518553136938,3.0,"[[-106.5946177, 35.078477499657076], [-106.6802083, 35.156523699662635], [-106.6640514, 35.183861599664645]]",5.831211925318641,9.162130299795583,"[-106.5946177, 35.078477499657076]","[-106.6640514, 35.183861599664645]"
+191,"Las Cruces city, New Mexico",50372,35,39380,Las Cruces city,New Mexico,"Las Cruces city, New Mexico",32.40031845,-106.69139630112088,0.0,[],inf,0.0,None,None
+192,"Santa Fe city, New Mexico",68793,35,70500,Santa Fe city,New Mexico,"Santa Fe city, New Mexico",36.456664,-103.185849,0.0,[],inf,0.0,None,None
+193,"Albany city, New York",51386,36,1000,Albany city,New York,"Albany city, New York",42.6511674,-73.754968,0.0,[],inf,0.0,None,None
+194,"Buffalo city, New York",48904,36,11000,Buffalo city,New York,"Buffalo city, New York",43.408777,-74.871618,0.0,[],inf,0.0,None,None
+195,"Cheektowaga CDP, New York",59167,36,15000,Cheektowaga CDP,New York,"Cheektowaga CDP, New York",42.90765,-78.76396613904299,0.0,[],inf,0.0,None,None
+196,"Mount Vernon city, New York",68075,36,49121,Mount Vernon city,New York,"Mount Vernon city, New York",40.9118753,-73.821074,0.0,[],inf,0.0,None,None
+197,"Rochester city, New York",43631,36,63000,Rochester city,New York,"Rochester city, New York",43.157285,-77.615214,1.0,"[[-77.6425503, 43.22225720054067]]",7.55685279624373,7.55685279624373,"[-77.6425503, 43.22225720054067]","[-77.6425503, 43.22225720054067]"
+198,"Schenectady city, New York",55465,36,65508,Schenectady city,New York,"Schenectady city, New York",42.8142432,-73.9395687,0.0,[],inf,0.0,None,None
+199,"Syracuse city, New York",45179,36,73000,Syracuse city,New York,"Syracuse city, New York",43.0481221,-76.1474244,1.0,"[[-76.13521119999999, 43.05227750053776]]",1.0946948155952265,1.0946948155952265,"[-76.13521119999999, 43.05227750053776]","[-76.13521119999999, 43.05227750053776]"
+200,"Yonkers city, New York",67456,36,84000,Yonkers city,New York,"Yonkers city, New York",40.9312099,-73.8987469,0.0,[],inf,0.0,None,None
+201,"Asheville city, North Carolina",64548,37,2140,Asheville city,North Carolina,"Asheville city, North Carolina",35.595451800000006,-82.54838658109644,0.0,[],inf,0.0,None,None
+202,"Charlotte city, North Carolina",74401,37,12000,Charlotte city,North Carolina,"Charlotte city, North Carolina",35.2272086,-80.8430827,0.0,[],inf,0.0,None,None
+203,"Fayetteville city, North Carolina",56685,37,22920,Fayetteville city,North Carolina,"Fayetteville city, North Carolina",35.053880500000005,-78.88360508105738,0.0,[],inf,0.0,None,None
+204,"Gastonia city, North Carolina",58745,37,25580,Gastonia city,North Carolina,"Gastonia city, North Carolina",35.262424100000004,-81.18435280170641,0.0,[],inf,0.0,None,None
+205,"Greensboro city, North Carolina",55120,37,28000,Greensboro city,North Carolina,"Greensboro city, North Carolina",36.0712114,-79.7926487,2.0,"[[-79.88228479080715, 36.070356007030874], [-79.88224710000001, 36.0704127997426]]",8.053390962386615,8.0568533069919,"[-79.88224710000001, 36.0704127997426]","[-79.88228479080715, 36.070356007030874]"
+206,"Greenville city, North Carolina",50120,37,28080,Greenville city,North Carolina,"Greenville city, North Carolina",35.2455293,-80.8420414,0.0,[],inf,0.0,None,None
+207,"High Point city, North Carolina",63930,37,31400,High Point city,North Carolina,"High Point city, North Carolina",35.226943,-80.846475,0.0,[],inf,0.0,None,None
+208,"Jacksonville city, North Carolina",50930,37,34200,Jacksonville city,North Carolina,"Jacksonville city, North Carolina",34.7486693,-77.3659286,2.0,"[[-77.38716057596206, 34.770464520934496], [-77.45165468384594, 34.71845047280295]]",3.1041029659295316,8.523990759420787,"[-77.38716057596206, 34.770464520934496]","[-77.45165468384594, 34.71845047280295]"
+209,"Wilmington city, North Carolina",63835,37,74440,Wilmington city,North Carolina,"Wilmington city, North Carolina",34.2370979,-77.9459748,0.0,[],inf,0.0,None,None
+210,"Winston-Salem city, North Carolina",54195,37,75000,Winston-Salem city,North Carolina,"Winston-Salem city, North Carolina",36.0952678,-80.2430185059474,0.0,[],inf,0.0,None,None
+211,"Bismarck city, North Dakota",74247,38,7200,Bismarck city,North Dakota,"Bismarck city, North Dakota",46.812803,-100.768383,0.0,[],inf,0.0,None,None
+212,"Fargo city, North Dakota",59698,38,25700,Fargo city,North Dakota,"Fargo city, North Dakota",46.88733855,-96.86717058002488,1.0,"[[-96.8375736200889, 46.887651630120736]]",2.249469498809389,2.249469498809389,"[-96.8375736200889, 46.887651630120736]","[-96.8375736200889, 46.887651630120736]"
+213,"Akron city, Ohio",45534,39,1000,Akron city,Ohio,"Akron city, Ohio",41.10737515,-81.52948547647514,0.0,[],inf,0.0,None,None
+214,"Canton city, Ohio",40711,39,12000,Canton city,Ohio,"Canton city, Ohio",40.7715977,-81.38577599411765,0.0,[],inf,0.0,None,None
+215,"Cincinnati city, Ohio",48130,39,15000,Cincinnati city,Ohio,"Cincinnati city, Ohio",39.10413605,-84.51968566953926,1.0,"[[-84.49067899999999, 39.08854350013873]]",3.045003169952916,3.045003169952916,"[-84.49067899999999, 39.08854350013873]","[-84.49067899999999, 39.08854350013873]"
+216,"Cleveland city, Ohio",37351,39,16000,Cleveland city,Ohio,"Cleveland city, Ohio",41.4934882,-81.7081179,0.0,[],inf,0.0,None,None
+217,"Columbus city, Ohio",61727,39,18000,Columbus city,Ohio,"Columbus city, Ohio",41.2586576,-91.3749379,0.0,[],inf,0.0,None,None
+218,"Dayton city, Ohio",43780,39,21000,Dayton city,Ohio,"Dayton city, Ohio",39.75955985,-84.19401335698002,0.0,[],inf,0.0,None,None
+219,"Lorain city, Ohio",46592,39,44856,Lorain city,Ohio,"Lorain city, Ohio",41.4685329,-82.1792667,0.0,[],inf,0.0,None,None
+220,"Parma city, Ohio",65105,39,61000,Parma city,Ohio,"Parma city, Ohio",41.3873112,-81.6949489,2.0,"[[-81.71007079999998, 41.40216260043445], [-81.6230833, 41.40556700043479]]",2.0780393769374075,6.328912741400767,"[-81.71007079999998, 41.40216260043445]","[-81.6230833, 41.40556700043479]"
+221,"Toledo city, Ohio",47365,39,77000,Toledo city,Ohio,"Toledo city, Ohio",41.65820945,-83.52075350061591,2.0,"[[-83.49681041058895, 41.62396307676927], [-83.49706252290471, 41.62293304449264]]",4.296472407655537,4.388875366274894,"[-83.49681041058895, 41.62396307676927]","[-83.49706252290471, 41.62293304449264]"
+222,"Lawton city, Oklahoma",50969,40,41850,Lawton city,Oklahoma,"Lawton city, Oklahoma",34.6059248,-98.40089730407186,0.0,[],inf,0.0,None,None
+223,"Norman city, Oklahoma",61030,40,52500,Norman city,Oklahoma,"Norman city, Oklahoma",35.2454472,-97.4612207365441,0.0,[],inf,0.0,None,None
+224,"Oklahoma City city, Oklahoma",63713,40,55000,Oklahoma City city,Oklahoma,"Oklahoma City city, Oklahoma",35.4729886,-97.5170536,1.0,"[[-97.56530224999996, 35.538879099692885]]",8.529633693417265,8.529633693417265,"[-97.56530224999996, 35.538879099692885]","[-97.56530224999996, 35.538879099692885]"
+225,"Tulsa city, Oklahoma",54040,40,75000,Tulsa city,Oklahoma,"Tulsa city, Oklahoma",36.1627012,-95.96992815442714,1.0,"[[-95.92956989490507, 36.16030880906003]]",3.6328751523718856,3.6328751523718856,"[-95.92956989490507, 36.16030880906003]","[-95.92956989490507, 36.16030880906003]"
+226,"Eugene city, Oregon",61288,41,23850,Eugene city,Oregon,"Eugene city, Oregon",44.0989093,-123.129393,3.0,"[[-123.12900879999998, 44.10062800052898], [-123.14763070000001, 44.04887140053097], [-123.03483194845937, 44.0450789055731]]",0.19355760606358546,9.638367339936277,"[-123.12900879999998, 44.10062800052898]","[-123.03483194845937, 44.0450789055731]"
+227,"Gresham city, Oregon",71006,41,31250,Gresham city,Oregon,"Gresham city, Oregon",45.5039821,-122.4315119,1.0,"[[-122.48492956717641, 45.5194115665496]]",4.5021035762716,4.5021035762716,"[-122.48492956717641, 45.5194115665496]","[-122.48492956717641, 45.5194115665496]"
+228,"Medford city, Oregon",67303,41,47000,Medford city,Oregon,"Medford city, Oregon",42.32257715,-122.87594265,2.0,"[[-122.85864289999999, 42.3897883005117], [-122.8551292, 42.390842200511756]]",7.607528797585156,7.781002595461222,"[-122.85864289999999, 42.3897883005117]","[-122.8551292, 42.390842200511756]"
+229,"Salem city, Oregon",70220,41,64900,Salem city,Oregon,"Salem city, Oregon",43.854178,-120.526709,0.0,[],inf,0.0,None,None
+230,"Allentown city, Pennsylvania",55949,42,2000,Allentown city,Pennsylvania,"Allentown city, Pennsylvania",40.6040356,-75.4795782,3.0,"[[-75.49136019102589, 40.53450506171219], [-75.49551560000002, 40.53320250033685], [-75.3720337, 40.62235630034786]]",7.79522858393286,9.30365205566752,"[-75.49136019102589, 40.53450506171219]","[-75.3720337, 40.62235630034786]"
+231,"Bethlehem city, Pennsylvania",61786,42,6088,Bethlehem city,Pennsylvania,"Bethlehem city, Pennsylvania",40.6258352,-75.3741697,1.0,"[[-75.3720337, 40.62235630034786]]",0.42677842875498256,0.42677842875498256,"[-75.3720337, 40.62235630034786]","[-75.3720337, 40.62235630034786]"
+232,"Erie city, Pennsylvania",43839,42,24000,Erie city,Pennsylvania,"Erie city, Pennsylvania",41.1615717,-80.0861231,2.0,"[[-80.00864388215552, 41.13152124196148], [-80.10388869999998, 41.240140700418074]]",7.297525910861233,8.862007179752817,"[-80.00864388215552, 41.13152124196148]","[-80.10388869999998, 41.240140700418074]"
+233,"Philadelphia city, Pennsylvania",56517,42,60000,Philadelphia city,Pennsylvania,"Philadelphia city, Pennsylvania",39.9525541,-75.15202163851058,1.0,"[[-75.2325561, 40.00618470026814]]",9.091205853049848,9.091205853049848,"[-75.2325561, 40.00618470026814]","[-75.2325561, 40.00618470026814]"
+234,"Pittsburgh city, Pennsylvania",63380,42,61000,Pittsburgh city,Pennsylvania,"Pittsburgh city, Pennsylvania",40.438092,-79.99724819199265,1.0,"[[-80.0326436, 40.51945090033513]]",9.529177788573968,9.529177788573968,"[-80.0326436, 40.51945090033513]","[-80.0326436, 40.51945090033513]"
+235,"Reading city, Pennsylvania",43496,42,63624,Reading city,Pennsylvania,"Reading city, Pennsylvania",40.3371195,-75.92146829883839,0.0,[],inf,0.0,None,None
+236,"Scranton city, Pennsylvania",48279,42,69000,Scranton city,Pennsylvania,"Scranton city, Pennsylvania",41.40991525,-75.66094368776098,0.0,[],inf,0.0,None,None
+237,"Pawtucket city, Rhode Island",63173,44,54640,Pawtucket city,Rhode Island,"Pawtucket city, Rhode Island",41.8789566,-71.38211678847459,0.0,[],inf,0.0,None,None
+238,"Providence city, Rhode Island",64184,44,59000,Providence city,Rhode Island,"Providence city, Rhode Island",41.8240345,-71.41290469687814,2.0,"[[-71.44074819999999, 41.76661660046775], [-71.42523031022796, 41.74741064403086]]",6.78900985441087,8.581252230239906,"[-71.44074819999999, 41.76661660046775]","[-71.42523031022796, 41.74741064403086]"
+239,"Columbia city, South Carolina",56175,45,16000,Columbia city,South Carolina,"Columbia city, South Carolina",41.156928,-85.4884616,0.0,[],inf,0.0,None,None
+240,"Greenville city, South Carolina",67340,45,30850,Greenville city,South Carolina,"Greenville city, South Carolina",31.8295972,-86.6177517,0.0,[],inf,0.0,None,None
+241,"North Charleston city, South Carolina",62091,45,50875,North Charleston city,South Carolina,"North Charleston city, South Carolina",32.8767053,-80.0119329,1.0,"[[-79.99521119999999, 32.817009999588926]]",6.819144623975303,6.819144623975303,"[-79.99521119999999, 32.817009999588926]","[-79.99521119999999, 32.817009999588926]"
+242,"Rock Hill city, South Carolina",62589,45,61405,Rock Hill city,South Carolina,"Rock Hill city, South Carolina",41.05228,-82.89352,0.0,[],inf,0.0,None,None
+243,"Rapid City city, South Dakota",59397,46,52980,Rapid City city,South Dakota,"Rapid City city, South Dakota",44.0806041,-103.228023,3.0,"[[-103.2291033, 44.08127640052972], [-103.23833199999999, 44.08159960052972], [-103.14069729999999, 44.102046000528915]]",0.1141701190777906,7.370439980928835,"[-103.2291033, 44.08127640052972]","[-103.14069729999999, 44.102046000528915]"
+244,"Sioux Falls city, South Dakota",71246,46,59020,Sioux Falls city,South Dakota,"Sioux Falls city, South Dakota",43.549367,-96.72750115181896,0.0,[],inf,0.0,None,None
+245,"Chattanooga city, Tennessee",64340,47,14000,Chattanooga city,Tennessee,"Chattanooga city, Tennessee",35.02017385,-85.36995957881587,1.0,"[[-85.3120714435624, 35.09045138105757]]",9.42502040917292,9.42502040917292,"[-85.3120714435624, 35.09045138105757]","[-85.3120714435624, 35.09045138105757]"
+246,"Clarksville city, Tennessee",63723,47,15160,Clarksville city,Tennessee,"Clarksville city, Tennessee",36.52770715,-87.36083125740561,3.0,"[[-87.31282530000001, 36.51329169979026], [-87.41463890000001, 36.590769999799114], [-87.42135026626431, 36.59771157170538]]",4.57955511934721,9.476699255520979,"[-87.31282530000001, 36.51329169979026]","[-87.42135026626431, 36.59771157170538]"
+247,"Jackson city, Tennessee",50466,47,37640,Jackson city,Tennessee,"Jackson city, Tennessee",36.3188155,-82.3608515,0.0,[],inf,0.0,None,None
+248,"Johnson City city, Tennessee",55228,47,38320,Johnson City city,Tennessee,"Johnson City city, Tennessee",36.3187469,-82.34069268045303,0.0,[],inf,0.0,None,None
+249,"Knoxville city, Tennessee",52826,47,40000,Knoxville city,Tennessee,"Knoxville city, Tennessee",35.9652356,-83.9247491,0.0,[],inf,0.0,None,None
+250,"Memphis city, Tennessee",50622,47,48000,Memphis city,Tennessee,"Memphis city, Tennessee",35.1498448,-90.0463128,0.0,[],inf,0.0,None,None
+251,"Murfreesboro city, Tennessee",70160,47,51560,Murfreesboro city,Tennessee,"Murfreesboro city, Tennessee",35.8770663,-86.3806216,1.0,"[[-86.42124956755248, 35.833245645146796]]",6.0950314530598195,6.0950314530598195,"[-86.42124956755248, 35.833245645146796]","[-86.42124956755248, 35.833245645146796]"
+252,"Nashville-Davidson metropolitan government (balance), Tennessee",71767,47,52006,Nashville-Davidson metropolitan government (balance),Tennessee,"Nashville-Davidson metropolitan government (balance), Tennessee",36.16246585,-86.80015743260867,0.0,[],inf,0.0,None,None
+253,"Abilene city, Texas",61694,48,1000,Abilene city,Texas,"Abilene city, Texas",32.4540342,-99.73057572168342,0.0,[],inf,0.0,None,None
+254,"Amarillo city, Texas",62260,48,3000,Amarillo city,Texas,"Amarillo city, Texas",35.2068783,-101.83105621144595,4.0,"[[-101.883378, 35.162729499663094], [-101.9297865, 35.18411559966465], [-101.89447023570858, 35.136469390329054], [-101.89476049999999, 35.13627899966117]]",6.834415065278689,9.754745931568264,"[-101.883378, 35.162729499663094]","[-101.89476049999999, 35.13627899966117]"
+255,"Arlington city, Texas",70433,48,4000,Arlington city,Texas,"Arlington city, Texas",32.69218405,-97.1129428701784,0.0,[],inf,0.0,None,None
+256,"Baytown city, Texas",60787,48,6128,Baytown city,Texas,"Baytown city, Texas",29.7279,-94.996,0.0,[],inf,0.0,None,None
+257,"Beaumont city, Texas",57944,48,7000,Beaumont city,Texas,"Beaumont city, Texas",30.08184205,-94.09441313901668,0.0,[],inf,0.0,None,None
+258,"Brownsville city, Texas",46912,48,10768,Brownsville city,Texas,"Brownsville city, Texas",25.9024203,-97.49921489856638,0.0,[],inf,0.0,None,None
+259,"Bryan city, Texas",59771,48,10912,Bryan city,Texas,"Bryan city, Texas",30.6844614,-96.3653572405078,0.0,[],inf,0.0,None,None
+260,"College Station city, Texas",51228,48,15976,College Station city,Texas,"College Station city, Texas",30.60378845,-96.30718509734864,0.0,[],inf,0.0,None,None
+261,"Conroe city, Texas",65728,48,16432,Conroe city,Texas,"Conroe city, Texas",35.469264,-97.515679,1.0,"[[-97.56530224999996, 35.538879099692885]]",8.949761820790686,8.949761820790686,"[-97.56530224999996, 35.538879099692885]","[-97.56530224999996, 35.538879099692885]"
+262,"Corpus Christi city, Texas",60958,48,17000,Corpus Christi city,Texas,"Corpus Christi city, Texas",26.3828429,-98.8180338,0.0,[],inf,0.0,None,None
+263,"Dallas city, Texas",65400,48,19000,Dallas city,Texas,"Dallas city, Texas",32.77627145,-96.79694174895133,0.0,[],inf,0.0,None,None
+264,"Denton city, Texas",71711,48,19972,Denton city,Texas,"Denton city, Texas",33.17668985,-97.09114256886568,0.0,[],inf,0.0,None,None
+265,"Edinburg city, Texas",50964,48,22660,Edinburg city,Texas,"Edinburg city, Texas",26.3028679,-98.1665667,0.0,[],inf,0.0,None,None
+266,"El Paso city, Texas",52645,48,24000,El Paso city,Texas,"El Paso city, Texas",31.80971545,-106.25310970533516,0.0,[],inf,0.0,None,None
+267,"Fort Worth city, Texas",71527,48,27000,Fort Worth city,Texas,"Fort Worth city, Texas",32.8123503,-97.5022439,0.0,[],inf,0.0,None,None
+268,"Garland city, Texas",71191,48,29000,Garland city,Texas,"Garland city, Texas",32.91299415,-96.63716175,2.0,"[[-96.6638289605157, 32.86138100589707], [-96.68432, 32.84362829958867]]",6.256024624986823,8.881790226565423,"[-96.6638289605157, 32.86138100589707]","[-96.68432, 32.84362829958867]"
+269,"Grand Prairie city, Texas",72271,48,30464,Grand Prairie city,Texas,"Grand Prairie city, Texas",35.248343,-101.795508,0.0,[],inf,0.0,None,None
+270,"Harlingen city, Texas",50166,48,32372,Harlingen city,Texas,"Harlingen city, Texas",26.1653137,-97.7206597,0.0,[],inf,0.0,None,None
+271,"Houston city, Texas",60426,48,35000,Houston city,Texas,"Houston city, Texas",29.784753,-95.361416,1.0,"[[-95.31812069999998, 29.727055499764838]]",7.656933315844481,7.656933315844481,"[-95.31812069999998, 29.727055499764838]","[-95.31812069999998, 29.727055499764838]"
+272,"Killeen city, Texas",54529,48,39148,Killeen city,Texas,"Killeen city, Texas",31.0857733,-97.6790018,2.0,"[[-97.7444638, 31.11313099965375], [-97.76343489999998, 31.113141699653752]]",6.935581210919315,8.595868319506106,"[-97.7444638, 31.11313099965375]","[-97.76343489999998, 31.113141699653752]"
+273,"Laredo city, Texas",59751,48,41464,Laredo city,Texas,"Laredo city, Texas",27.49441175,-99.41014368477764,0.0,[],inf,0.0,None,None
+274,"Longview city, Texas",65897,48,43888,Longview city,Texas,"Longview city, Texas",32.4828634,-94.80290845981072,0.0,[],inf,0.0,None,None
+275,"Lubbock city, Texas",56910,48,45000,Lubbock city,Texas,"Lubbock city, Texas",33.56415655,-101.80892782832652,3.0,"[[-101.86703420587017, 33.56298583949716], [-101.87430475759636, 33.56367209688799], [-101.87974845417526, 33.56302897479174]]",5.385461794610811,6.563132130490408,"[-101.86703420587017, 33.56298583949716]","[-101.87974845417526, 33.56302897479174]"
+276,"McAllen city, Texas",55898,48,45384,McAllen city,Texas,"McAllen city, Texas",26.1970595,-98.23497429084291,1.0,"[[-98.2056343, 26.20128100014362]]",2.96468622299907,2.96468622299907,"[-98.2056343, 26.20128100014362]","[-98.2056343, 26.20128100014362]"
+277,"Mesquite city, Texas",68134,48,47892,Mesquite city,Texas,"Mesquite city, Texas",32.713490750000005,-96.5475451056721,0.0,[],inf,0.0,None,None
+278,"Mission city, Texas",53859,48,48768,Mission city,Texas,"Mission city, Texas",26.23741475,-98.33623618980188,0.0,[],inf,0.0,None,None
+279,"Odessa city, Texas",63385,48,53388,Odessa city,Texas,"Odessa city, Texas",31.8313073,-102.3479312,0.0,[],inf,0.0,None,None
+280,"Pasadena city, Texas",57078,48,56000,Pasadena city,Texas,"Pasadena city, Texas",29.6916727,-95.1961981,0.0,[],inf,0.0,None,None
+281,"Pharr city, Texas",48631,48,57200,Pharr city,Texas,"Pharr city, Texas",35.469264,-97.515679,1.0,"[[-97.56530224999996, 35.538879099692885]]",8.949761820790686,8.949761820790686,"[-97.56530224999996, 35.538879099692885]","[-97.56530224999996, 35.538879099692885]"
+282,"San Angelo city, Texas",57625,48,64472,San Angelo city,Texas,"San Angelo city, Texas",31.46502805,-100.43989522903024,0.0,[],inf,0.0,None,None
+283,"San Antonio city, Texas",58829,48,65000,San Antonio city,Texas,"San Antonio city, Texas",28.6670745,-99.8227428,0.0,[],inf,0.0,None,None
+284,"San Marcos city, Texas",52040,48,65600,San Marcos city,Texas,"San Marcos city, Texas",35.469264,-97.515679,1.0,"[[-97.56530224999996, 35.538879099692885]]",8.949761820790686,8.949761820790686,"[-97.56530224999996, 35.538879099692885]","[-97.56530224999996, 35.538879099692885]"
+285,"Temple city, Texas",63219,48,72176,Temple city,Texas,"Temple city, Texas",31.06490715,-97.44246855763228,0.0,[],inf,0.0,None,None
+286,"Tyler city, Texas",60811,48,74144,Tyler city,Texas,"Tyler city, Texas",32.343259700000004,-95.3211525,1.0,"[[-95.26711779999998, 32.335435699597824]]",5.150460733230979,5.150460733230979,"[-95.26711779999998, 32.335435699597824]","[-95.26711779999998, 32.335435699597824]"
+287,"Victoria city, Texas",66060,48,75428,Victoria city,Texas,"Victoria city, Texas",28.7857874,-97.01006672512338,0.0,[],inf,0.0,None,None
+288,"Waco city, Texas",54248,48,76000,Waco city,Texas,"Waco city, Texas",31.55877615,-97.12958691055424,0.0,[],inf,0.0,None,None
+289,"Wichita Falls city, Texas",56091,48,79000,Wichita Falls city,Texas,"Wichita Falls city, Texas",28.983277,-98.022848,0.0,[],inf,0.0,None,None
+290,"Ogden city, Utah",67102,49,55980,Ogden city,Utah,"Ogden city, Utah",41.2332015,-111.96326261802258,0.0,[],inf,0.0,None,None
+291,"Provo city, Utah",59290,49,62470,Provo city,Utah,"Provo city, Utah",40.2323366,-111.65955435192308,0.0,[],inf,0.0,None,None
+292,"St. George city, Utah",70386,49,65330,St. George city,Utah,"St. George city, Utah",40.233322,-111.661962,0.0,[],inf,0.0,None,None
+293,"Hampton city, Virginia",64924,51,35000,Hampton city,Virginia,"Hampton city, Virginia",37.03393,-76.319456,0.0,[],inf,0.0,None,None
+294,"Lynchburg city, Virginia",49076,51,47672,Lynchburg city,Virginia,"Lynchburg city, Virginia",37.4136907,-79.14438465,3.0,"[[-79.11955509999999, 37.440805299905215], [-79.20776473773093, 37.39979984902848], [-79.22532749999999, 37.354589399893804]]",3.7279207951385267,9.71253358377269,"[-79.11955509999999, 37.440805299905215]","[-79.22532749999999, 37.354589399893804]"
+295,"Newport News city, Virginia",64102,51,56000,Newport News city,Virginia,"Newport News city, Virginia",36.9775016,-76.42977,2.0,"[[-76.4569275, 37.02776949985178], [-76.5262196, 36.93364949984007]]",6.087594067715307,9.860213866014584,"[-76.4569275, 37.02776949985178]","[-76.5262196, 36.93364949984007]"
+296,"Norfolk city, Virginia",61090,51,57000,Norfolk city,Virginia,"Norfolk city, Virginia",14.0146616,-88.5743855,0.0,[],inf,0.0,None,None
+297,"Portsmouth city, Virginia",54611,51,64000,Portsmouth city,Virginia,"Portsmouth city, Virginia",36.8313802,-76.37006108562697,1.0,"[[-76.46712799999999, 36.861041599831175]]",9.245647603187287,9.245647603187287,"[-76.46712799999999, 36.861041599831175]","[-76.46712799999999, 36.861041599831175]"
+298,"Richmond city, Virginia",58988,51,67000,Richmond city,Virginia,"Richmond city, Virginia",37.5423406,-77.43987569293232,0.0,[],inf,0.0,None,None
+299,"Roanoke city, Virginia",49570,51,68000,Roanoke city,Virginia,"Roanoke city, Virginia",14.0146616,-88.5743855,0.0,[],inf,0.0,None,None
+300,"Bellingham city, Washington",64748,53,5280,Bellingham city,Washington,"Bellingham city, Washington",48.7497455,-122.47860906492464,0.0,[],inf,0.0,None,None
+301,"Kennewick city, Washington",73800,53,35275,Kennewick city,Washington,"Kennewick city, Washington",46.20308815,-119.12074073804882,0.0,[],inf,0.0,None,None
+302,"Spokane city, Washington",62287,53,67000,Spokane city,Washington,"Spokane city, Washington",47.66109545,-117.41386960428308,4.0,"[[-117.41149850175802, 47.68252418144055], [-117.36422359999997, 47.671229700014734], [-117.35999003612861, 47.66942244601798], [-117.3241651, 47.661961200016876]]",2.3893712286245474,6.718729890613826,"[-117.41149850175802, 47.68252418144055]","[-117.3241651, 47.661961200016876]"
+303,"Spokane Valley city, Washington",66484,53,67167,Spokane Valley city,Washington,"Spokane Valley city, Washington",47.6565518,-117.2676963,3.0,"[[-117.3241651, 47.661961200016876], [-117.35999003612861, 47.66942244601798], [-117.36422359999997, 47.671229700014734]]",4.271736668830796,7.410637848075978,"[-117.3241651, 47.661961200016876]","[-117.36422359999997, 47.671229700014734]"
+304,"Yakima city, Washington",56821,53,80010,Yakima city,Washington,"Yakima city, Washington",46.6187554,-120.57863712645138,1.0,"[[-120.52978122545436, 46.643974956259086]]",4.66694355077847,4.66694355077847,"[-120.52978122545436, 46.643974956259086]","[-120.52978122545436, 46.643974956259086]"
+305,"Eau Claire city, Wisconsin",57289,55,22300,Eau Claire city,Wisconsin,"Eau Claire city, Wisconsin",44.8689683,-91.4855007489738,0.0,[],inf,0.0,None,None
+306,"Green Bay city, Wisconsin",55177,55,31000,Green Bay city,Wisconsin,"Green Bay city, Wisconsin",44.585849,-92.455522,0.0,[],inf,0.0,None,None
+307,"Janesville city, Wisconsin",66497,55,37825,Janesville city,Wisconsin,"Janesville city, Wisconsin",42.68213705,-89.02680143360749,0.0,[],inf,0.0,None,None
+308,"Kenosha city, Wisconsin",64105,55,39225,Kenosha city,Wisconsin,"Kenosha city, Wisconsin",42.6007333,-87.91290357488717,0.0,[],inf,0.0,None,None
+309,"Madison city, Wisconsin",73647,55,48000,Madison city,Wisconsin,"Madison city, Wisconsin",43.10844885,-89.3123641,0.0,[],inf,0.0,None,None
+310,"Milwaukee city, Wisconsin",49270,55,53000,Milwaukee city,Wisconsin,"Milwaukee city, Wisconsin",43.0349931,-87.922497,0.0,[],inf,0.0,None,None
+311,"Oshkosh city, Wisconsin",58134,55,60500,Oshkosh city,Wisconsin,"Oshkosh city, Wisconsin",44.0202041,-88.54131575105701,0.0,[],inf,0.0,None,None
+312,"Racine city, Wisconsin",59499,55,66000,Racine city,Wisconsin,"Racine city, Wisconsin",42.72581095,-87.78997996189348,0.0,[],inf,0.0,None,None
+313,"Cheyenne city, Wyoming",70597,56,13900,Cheyenne city,Wyoming,"Cheyenne city, Wyoming",41.11818665,-104.76940269717916,2.0,"[[-104.79350899999999, 41.129840000406396], [-104.78012710033968, 41.160470234777556]]",2.3992074404899326,4.786724280467752,"[-104.79350899999999, 41.129840000406396]","[-104.78012710033968, 41.160470234777556]"
+314,"Bayamón zona urbana, Puerto Rico",28425,72,6593,Bayamón zona urbana,Puerto Rico,"Bayamón zona urbana, Puerto Rico",18.37929,-66.16352,1.0,"[[-66.1864101, 18.408926500269295]]",4.085724416285599,4.085724416285599,"[-66.1864101, 18.408926500269295]","[-66.1864101, 18.408926500269295]"
+315,"Caguas zona urbana, Puerto Rico",22060,72,10334,Caguas zona urbana,Puerto Rico,"Caguas zona urbana, Puerto Rico",18.33881,-67.25163,0.0,[],inf,0.0,None,None
+316,"Carolina zona urbana, Puerto Rico",36646,72,14290,Carolina zona urbana,Puerto Rico,"Carolina zona urbana, Puerto Rico",18.40767,-65.98102,2.0,"[[-65.91480095515452, 18.376157378655126], [-66.06525819999999, 18.369150400265987]]",7.816524856264873,9.866744187584073,"[-65.91480095515452, 18.376157378655126]","[-66.06525819999999, 18.369150400265987]"
+317,"Guaynabo zona urbana, Puerto Rico",48081,72,32522,Guaynabo zona urbana,Puerto Rico,"Guaynabo zona urbana, Puerto Rico",18.38034,-67.18839,0.0,[],inf,0.0,None,None
+318,"Ponce zona urbana, Puerto Rico",16795,72,63820,Ponce zona urbana,Puerto Rico,"Ponce zona urbana, Puerto Rico",18.33881,-67.25163,0.0,[],inf,0.0,None,None
+319,"San Juan zona urbana, Puerto Rico",25928,72,76770,San Juan zona urbana,Puerto Rico,"San Juan zona urbana, Puerto Rico",18.33881,-67.25163,0.0,[],inf,0.0,None,None
