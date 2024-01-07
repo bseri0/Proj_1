@@ -1,1 +1,5 @@
-# Proj_1
+The goal of this project was to investigate potential trends between cities categorized as having high median income versus low median income. This comparison was conducted by analyzing counts of various establishments, including health food stores, gun stores, alcohol stores, and parks. To gather city data, we utilized the Census API to randomly select a set of US cities along with their median incomes, which were then divided into two datasets based on whether the median income was higher or lower than the national average.
+
+Our approach involved filtering cities with median incomes above the national average into the high dataset, and vice versa for cities with median incomes below the national average. Subsequently, we implemented a code where we iteratively looped through the list of cities. Dynamic API calls to the Geoapify repository were made for each city and category. The counts of places within the specified range of each city were tallied and incorporated into the dataframe.
+
+Finally, this compiled data was used to generate scatter plots, aiming to identify any discernible trends or patterns in the relationship between median income and the prevalence of various types of establishments in different cities.
