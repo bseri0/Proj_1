@@ -1,0 +1,99 @@
+NAME,High_med_inc,state,place,City_x,State,City_y,Latitude,Longitude,commercial.weapons Count,activity.sport_club Count,commercial.smoking Count,commercial.food_and_drink.health_food Count
+"Gilbert town, Arizona",111393,4,27400,Gilbert town,Arizona,"Gilbert town, Arizona",33.3527632,-111.789037,17.0,7.0,19.0,0.0
+"Queen Creek town, Arizona",129605,4,58150,Queen Creek town,Arizona,"Queen Creek town, Arizona",33.2669244,-111.64431265627806,1.0,1.0,0.0,0.0
+"Alameda city, California",131116,6,562,Alameda city,California,"Alameda city, California",37.7664611,-122.24349585403432,0.0,5.0,10.0,4.0
+"Brentwood city, California",132610,6,8142,Brentwood city,California,"Brentwood city, California",34.0521403,-118.4740699,0.0,4.0,40.0,1.0
+"Carlsbad city, California",146596,6,11194,Carlsbad city,California,"Carlsbad city, California",33.1647597,-117.3403158,0.0,1.0,1.0,1.0
+"Castro Valley CDP, California",133285,6,11964,Castro Valley CDP,California,"Castro Valley CDP, California",37.70371,-122.074774,0.0,0.0,1.0,0.0
+"Daly City city, California",109227,6,17918,Daly City city,California,"Daly City city, California",37.6904826,-122.47267,0.0,2.0,11.0,0.0
+"Dublin city, California",186892,6,20018,Dublin city,California,"Dublin city, California",37.7041487,-121.9175203,0.0,0.0,3.0,0.0
+"Eastvale city, California",144364,6,21230,Eastvale city,California,"Eastvale city, California",33.976061900000005,-117.55253213041188,0.0,0.0,1.0,0.0
+"Elk Grove city, California",106572,6,22020,Elk Grove city,California,"Elk Grove city, California",33.748864,-116.984832,0.0,0.0,0.0,0.0
+"Folsom city, California",129045,6,24638,Folsom city,California,"Folsom city, California",38.676774,-121.152638,0.0,0.0,0.0,0.0
+"Fremont city, California",162336,6,26000,Fremont city,California,"Fremont city, California",37.51377,-121.944821,0.0,0.0,1.0,0.0
+"Huntington Beach city, California",111122,6,36000,Huntington Beach city,California,"Huntington Beach city, California",33.67703,-116.196782,0.0,0.0,0.0,0.0
+"Irvine city, California",123003,6,36770,Irvine city,California,"Irvine city, California",33.6705849,-117.7324939,0.0,0.0,4.0,1.0
+"Lake Forest city, California",128033,6,39496,Lake Forest city,California,"Lake Forest city, California",39.1525796,-120.1460738,0.0,0.0,0.0,0.0
+"Lakewood city, California",109309,6,39892,Lakewood city,California,"Lakewood city, California",33.846539,-118.112278,1.0,2.0,8.0,2.0
+"Livermore city, California",145919,6,41992,Livermore city,California,"Livermore city, California",37.67523795,-121.755954866449,0.0,0.0,4.0,0.0
+"Milpitas city, California",169818,6,47766,Milpitas city,California,"Milpitas city, California",37.4235297,-121.9253759,0.0,2.0,4.0,0.0
+"Mission Viejo city, California",126469,6,48256,Mission Viejo city,California,"Mission Viejo city, California",34.131786,-116.079212,0.0,0.0,0.0,0.0
+"Mountain View city, California",165448,6,49670,Mountain View city,California,"Mountain View city, California",37.6981086,-122.4558458,0.0,2.0,16.0,2.0
+"Murrieta city, California",106709,6,50076,Murrieta city,California,"Murrieta city, California",33.560037699999995,-117.2104220130407,1.0,0.0,6.0,0.0
+"Newport Beach city, California",127353,6,51182,Newport Beach city,California,"Newport Beach city, California",33.676312,-116.19429,0.0,0.0,0.0,0.0
+"Palo Alto city, California",179707,6,55282,Palo Alto city,California,"Palo Alto city, California",37.904037,-122.527867,0.0,0.0,1.0,0.0
+"Pleasanton city, California",183969,6,57792,Pleasanton city,California,"Pleasanton city, California",37.669437,-121.885889,0.0,0.0,2.0,0.0
+"Rancho Cucamonga city, California",108345,6,59451,Rancho Cucamonga city,California,"Rancho Cucamonga city, California",34.102291300000005,-117.54795804853929,0.0,0.0,2.0,0.0
+"Redondo Beach city, California",140786,6,60018,Redondo Beach city,California,"Redondo Beach city, California",33.686949,-116.190992,0.0,0.0,0.0,0.0
+"Redwood City city, California",137512,6,60102,Redwood City city,California,"Redwood City city, California",37.4863239,-122.232523,0.0,1.0,6.0,0.0
+"Rocklin city, California",119436,6,62364,Rocklin city,California,"Rocklin city, California",38.8093779,-121.21381736752176,1.0,0.0,1.0,0.0
+"San Francisco city, California",136692,6,67000,San Francisco city,California,"San Francisco city, California",37.7987456,-122.46458892410745,0.0,5.0,72.0,3.0
+"San Jose city, California",133835,6,68000,San Jose city,California,"San Jose city, California",34.825117,-114.598742,0.0,0.0,1.0,0.0
+"San Mateo city, California",159275,6,68252,San Mateo city,California,"San Mateo city, California",37.7082421,-122.4590837,0.0,2.0,24.0,2.0
+"San Ramon city, California",192291,6,68378,San Ramon city,California,"San Ramon city, California",38.1225006,-122.6041442,0.0,0.0,1.0,0.0
+"Santa Clara city, California",158614,6,69084,Santa Clara city,California,"Santa Clara city, California",37.356651,-121.961118,3.0,0.0,11.0,2.0
+"Santa Clarita city, California",111236,6,69088,Santa Clarita city,California,"Santa Clarita city, California",34.4126598,-118.5537781159743,0.0,0.0,0.0,0.0
+"Santa Monica city, California",110030,6,70000,Santa Monica city,California,"Santa Monica city, California",34.0277713,-118.4527348,3.0,5.0,51.0,1.0
+"Simi Valley city, California",113992,6,72016,Simi Valley city,California,"Simi Valley city, California",33.857356,-117.963082,0.0,0.0,5.0,1.0
+"Sunnyvale city, California",169781,6,77000,Sunnyvale city,California,"Sunnyvale city, California",37.428385,-122.02527581691044,2.0,2.0,1.0,0.0
+"Temecula city, California",113168,6,78120,Temecula city,California,"Temecula city, California",33.50315,-117.124007,0.0,0.0,3.0,0.0
+"Thousand Oaks city, California",124811,6,78582,Thousand Oaks city,California,"Thousand Oaks city, California",35.121707,-120.592513,0.0,0.0,0.0,0.0
+"Torrance city, California",108406,6,80000,Torrance city,California,"Torrance city, California",33.832402,-118.341001,1.0,2.0,18.0,0.0
+"Tracy city, California",113083,6,80238,Tracy city,California,"Tracy city, California",37.7385335,-121.4199815,0.0,0.0,1.0,0.0
+"Union City city, California",148460,6,81204,Union City city,California,"Union City city, California",34.529078,-117.298461,0.0,1.0,1.0,0.0
+"Yorba Linda city, California",151534,6,86832,Yorba Linda city,California,"Yorba Linda city, California",39.126561,-121.538446,0.0,0.0,1.0,0.0
+"Arvada city, Colorado",110100,8,3455,Arvada city,Colorado,"Arvada city, Colorado",39.8027778,-105.0880556,0.0,0.0,15.0,0.0
+"Broomfield city, Colorado",115833,8,9280,Broomfield city,Colorado,"Broomfield city, Colorado",39.9403995,-105.05208,0.0,0.0,4.0,0.0
+"Castle Rock town, Colorado",142927,8,12415,Castle Rock town,Colorado,"Castle Rock town, Colorado",38.693064,-104.678651,0.0,0.0,0.0,0.0
+"Centennial city, Colorado",126224,8,12815,Centennial city,Colorado,"Centennial city, Colorado",39.59572805,-104.835924583367,1.0,0.0,9.0,1.0
+"Highlands Ranch CDP, Colorado",152038,8,36410,Highlands Ranch CDP,Colorado,"Highlands Ranch CDP, Colorado",39.541102,-104.969335,0.0,0.0,0.0,0.0
+"Norwalk city, Connecticut",107140,9,55990,Norwalk city,Connecticut,"Norwalk city, Connecticut",41.1132796,-73.40668194611808,0.0,0.0,0.0,0.0
+"Weston city, Florida",130462,12,76582,Weston city,Florida,"Weston city, Florida",26.0915488,-80.3802093,0.0,0.0,0.0,0.0
+"Alpharetta city, Georgia",129946,13,1696,Alpharetta city,Georgia,"Alpharetta city, Georgia",34.07463485,-84.2922705072829,0.0,0.0,3.0,1.0
+"Johns Creek city, Georgia",149145,13,42425,Johns Creek city,Georgia,"Johns Creek city, Georgia",34.0605222,-84.1691163,0.0,0.0,0.0,0.0
+"Roswell city, Georgia",130088,13,67284,Roswell city,Georgia,"Roswell city, Georgia",34.022464400000004,-84.3601763665493,0.0,0.0,2.0,0.0
+"Arlington Heights village, Illinois",113970,17,2154,Arlington Heights village,Illinois,"Arlington Heights village, Illinois",39.09307,-90.397658,0.0,0.0,0.0,0.0
+"Naperville city, Illinois",140831,17,51622,Naperville city,Illinois,"Naperville city, Illinois",41.762684,-88.190457,2.0,7.0,12.0,0.0
+"Carmel city, Indiana",130332,18,10342,Carmel city,Indiana,"Carmel city, Indiana",32.6922393,35.0482785,0.0,0.0,0.0,0.0
+"Fishers city, Indiana",125159,18,23278,Fishers city,Indiana,"Fishers city, Indiana",39.95864445,-86.01712777157263,0.0,0.0,1.0,0.0
+"Bethesda CDP, Maryland",158720,24,7125,Bethesda CDP,Maryland,"Bethesda CDP, Maryland",38.989441,-77.118791,0.0,1.0,4.0,0.0
+"Columbia CDP, Maryland",120675,24,19125,Columbia CDP,Maryland,"Columbia CDP, Maryland",39.199038,-76.841517,0.0,0.0,4.0,0.0
+"Ellicott City CDP, Maryland",165588,24,26000,Ellicott City CDP,Maryland,"Ellicott City CDP, Maryland",39.275859,-76.835556,0.0,0.0,8.0,0.0
+"Germantown CDP, Maryland",108426,24,32025,Germantown CDP,Maryland,"Germantown CDP, Maryland",39.17130815,-77.26557848822242,0.0,0.0,1.0,0.0
+"Waldorf CDP, Maryland",107462,24,81175,Waldorf CDP,Maryland,"Waldorf CDP, Maryland",38.613537,-76.924754,0.0,0.0,0.0,0.0
+"Cambridge city, Massachusetts",109358,25,11000,Cambridge city,Massachusetts,"Cambridge city, Massachusetts",39.8129285,-85.1708971,0.0,0.0,0.0,0.0
+"Medford city, Massachusetts",113253,25,39835,Medford city,Massachusetts,"Medford city, Massachusetts",42.418171,-71.106438,0.0,5.0,22.0,2.0
+"Newton city, Massachusetts",163074,25,45560,Newton city,Massachusetts,"Newton city, Massachusetts",42.34631400000001,-71.23692209511606,0.0,2.0,4.0,0.0
+"Somerville city, Massachusetts",124110,25,62535,Somerville city,Massachusetts,"Somerville city, Massachusetts",42.3879326,-71.0835948,0.0,12.0,38.0,5.0
+"Rochester Hills city, Michigan",107137,26,69035,Rochester Hills city,Michigan,"Rochester Hills city, Michigan",42.651789,-83.165294,0.0,0.0,0.0,0.0
+"Troy city, Michigan",109444,26,80700,Troy city,Michigan,"Troy city, Michigan",42.56346735,-83.16243343349659,2.0,0.0,1.0,0.0
+"Lakeville city, Minnesota",124452,27,35180,Lakeville city,Minnesota,"Lakeville city, Minnesota",44.65686185,-93.24348455543982,1.0,0.0,2.0,0.0
+"Maple Grove city, Minnesota",111829,27,40166,Maple Grove city,Minnesota,"Maple Grove city, Minnesota",45.14634,-94.684122,0.0,0.0,0.0,0.0
+"Plymouth city, Minnesota",106858,27,51730,Plymouth city,Minnesota,"Plymouth city, Minnesota",45.019,-93.4742,0.0,0.0,0.0,0.0
+"Woodbury city, Minnesota",117201,27,71428,Woodbury city,Minnesota,"Woodbury city, Minnesota",44.9447042,-92.9031873,0.0,0.0,0.0,0.0
+"Apex town, North Carolina",126583,37,1520,Apex town,North Carolina,"Apex town, North Carolina",35.73388715,-78.84656522378867,1.0,0.0,4.0,1.0
+"Cary town, North Carolina",125414,37,10740,Cary town,North Carolina,"Cary town, North Carolina",35.75142715,-78.76755491660421,0.0,0.0,3.0,1.0
+"Mount Pleasant town, South Carolina",114237,45,48535,Mount Pleasant town,South Carolina,"Mount Pleasant town, South Carolina",34.702662,-82.798992,0.0,0.0,1.0,0.0
+"Franklin city, Tennessee",108354,47,27740,Franklin city,Tennessee,"Franklin city, Tennessee",35.9279699,-86.87224166678752,0.0,0.0,0.0,0.0
+"Allen city, Texas",121127,48,1924,Allen city,Texas,"Allen city, Texas",32.3164356,-96.1321904,0.0,0.0,0.0,0.0
+"Atascocita CDP, Texas",107633,48,4462,Atascocita CDP,Texas,"Atascocita CDP, Texas",29.968815,-95.202145,0.0,0.0,2.0,0.0
+"Cedar Park city, Texas",114735,48,13552,Cedar Park city,Texas,"Cedar Park city, Texas",35.902872,-100.384603,0.0,0.0,0.0,0.0
+"Flower Mound town, Texas",144901,48,26232,Flower Mound town,Texas,"Flower Mound town, Texas",33.036481499999994,-97.07113777937062,1.0,0.0,4.0,0.0
+"Frisco city, Texas",145914,48,27684,Frisco city,Texas,"Frisco city, Texas",33.144803350000004,-96.74196769055372,0.0,0.0,2.0,0.0
+"Leander city, Texas",138111,48,42016,Leander city,Texas,"Leander city, Texas",30.58022115,-97.84126746018076,2.0,0.0,0.0,0.0
+"Mansfield city, Texas",119508,48,46452,Mansfield city,Texas,"Mansfield city, Texas",32.5680169,-97.12258257018888,0.0,0.0,0.0,0.0
+"Pflugerville city, Texas",111956,48,57176,Pflugerville city,Texas,"Pflugerville city, Texas",30.44088975,-97.6201335,0.0,1.0,1.0,0.0
+"Rowlett city, Texas",106355,48,63572,Rowlett city,Texas,"Rowlett city, Texas",35.469264,-97.515679,0.0,0.0,2.0,0.0
+"Sugar Land city, Texas",132766,48,70808,Sugar Land city,Texas,"Sugar Land city, Texas",29.5966629,-95.6224945420328,0.0,0.0,0.0,0.0
+"The Woodlands CDP, Texas",137335,48,72656,The Woodlands CDP,Texas,"The Woodlands CDP, Texas",30.15799,-95.48938,0.0,2.0,1.0,1.0
+"Lehi city, Utah",123842,49,44320,Lehi city,Utah,"Lehi city, Utah",40.3898843,-111.84786867118956,1.0,0.0,2.0,0.0
+"South Jordan city, Utah",118560,49,70850,South Jordan city,Utah,"South Jordan city, Utah",40.6740609,-111.9819364,0.0,0.0,7.0,2.0
+"Alexandria city, Virginia",111955,51,1000,Alexandria city,Virginia,"Alexandria city, Virginia",14.0146616,-88.5743855,0.0,0.0,0.0,0.0
+"Arlington CDP, Virginia",132380,51,3000,Arlington CDP,Virginia,"Arlington CDP, Virginia",38.864458,-77.099638,1.0,5.0,9.0,0.0
+"Centreville CDP, Virginia",131444,51,14440,Centreville CDP,Virginia,"Centreville CDP, Virginia",38.830024,-77.435746,0.0,0.0,1.0,1.0
+"Bellevue city, Washington",153779,53,5210,Bellevue city,Washington,"Bellevue city, Washington",47.61493035,-122.19573727505184,2.0,0.0,6.0,0.0
+"Kirkland city, Washington",130620,53,35940,Kirkland city,Washington,"Kirkland city, Washington",47.6762128,-122.1912163,2.0,2.0,13.0,2.0
+"Redmond city, Washington",152851,53,57535,Redmond city,Washington,"Redmond city, Washington",47.6576285,-122.089065,2.0,0.0,6.0,0.0
+"Sammamish city, Washington",223849,53,61115,Sammamish city,Washington,"Sammamish city, Washington",47.6017554,-122.0416844,0.0,0.0,2.0,0.0
+"Seattle city, Washington",115409,53,63000,Seattle city,Washington,"Seattle city, Washington",47.6177084,-122.3444624,0.0,2.0,53.0,0.0
+"South Hill CDP, Washington",109848,53,65922,South Hill CDP,Washington,"South Hill CDP, Washington",47.120551,-122.283781,0.0,0.0,4.0,0.0
