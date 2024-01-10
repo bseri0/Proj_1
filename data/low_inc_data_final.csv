@@ -1,0 +1,97 @@
+NAME,Low_med_inc,state,place,City_x,State,City_y,Latitude,Longitude,commercial.weapons Count,activity.sport_club Count,commercial.smoking Count,commercial.food_and_drink.health_food Count
+"Birmingham city, Alabama",39326,1,7000,Birmingham city,Alabama,"Birmingham city, Alabama",33.59985265,-86.63221556960227,0.0,1.0,1.0,1.0
+"Mobile city, Alabama",50051,1,50000,Mobile city,Alabama,"Mobile city, Alabama",30.6893619,-88.0518965,0.0,0.0,0.0,0.0
+"Tuscaloosa city, Alabama",49005,1,77256,Tuscaloosa city,Alabama,"Tuscaloosa city, Alabama",33.1757082,-87.5331056,0.0,0.0,1.0,0.0
+"Tucson city, Arizona",51281,4,77000,Tucson city,Arizona,"Tucson city, Arizona",32.222622,-110.97477386698353,0.0,0.0,1.0,0.0
+"Fayetteville city, Arkansas",52991,5,23290,Fayetteville city,Arkansas,"Fayetteville city, Arkansas",36.0616665,-94.1611389636298,0.0,0.0,4.0,1.0
+"Fort Smith city, Arkansas",47669,5,24550,Fort Smith city,Arkansas,"Fort Smith city, Arkansas",35.384996349999994,-94.42530488055677,1.0,0.0,1.0,0.0
+"Pueblo city, Colorado",51697,8,62000,Pueblo city,Colorado,"Pueblo city, Colorado",38.2655776,-104.61104395291898,0.0,0.0,5.0,0.0
+"Bridgeport city, Connecticut",50311,9,8000,Bridgeport city,Connecticut,"Bridgeport city, Connecticut",41.1803914,-73.19308230332848,0.0,0.0,9.0,0.0
+"Hartford city, Connecticut",41529,9,37000,Hartford city,Connecticut,"Hartford city, Connecticut",41.76255395,-72.67346070409121,0.0,0.0,5.0,1.0
+"New Britain city, Connecticut",50209,9,50370,New Britain city,Connecticut,"New Britain city, Connecticut",41.173209,-73.190759,0.0,0.0,9.0,0.0
+"Waterbury city, Connecticut",51572,9,80000,Waterbury city,Connecticut,"Waterbury city, Connecticut",41.5540552,-73.0436914,1.0,0.0,1.0,0.0
+"Wilmington city, Delaware",52768,10,77580,Wilmington city,Delaware,"Wilmington city, Delaware",39.7405865,-75.5591002,0.0,0.0,4.0,0.0
+"Daytona Beach city, Florida",51881,12,16525,Daytona Beach city,Florida,"Daytona Beach city, Florida",29.2069366,-81.0198923,2.0,2.0,5.0,2.0
+"Gainesville city, Florida",42453,12,25175,Gainesville city,Florida,"Gainesville city, Florida",29.631326,-82.339833,1.0,2.0,4.0,0.0
+"Hialeah city, Florida",52674,12,30000,Hialeah city,Florida,"Hialeah city, Florida",25.8911468,-80.31994594372972,0.0,0.0,0.0,0.0
+"Kissimmee city, Florida",44445,12,36950,Kissimmee city,Florida,"Kissimmee city, Florida",28.543089,-81.378698,0.0,0.0,2.0,0.0
+"Lauderhill city, Florida",44755,12,39550,Lauderhill city,Florida,"Lauderhill city, Florida",26.1527778,-80.2225,0.0,3.0,0.0,0.0
+"Ocala city, Florida",44756,12,50750,Ocala city,Florida,"Ocala city, Florida",29.1850626,-82.13421457600373,0.0,0.0,0.0,1.0
+"Pine Hills CDP, Florida",43452,12,56825,Pine Hills CDP,Florida,"Pine Hills CDP, Florida",28.581907,-81.469155,0.0,0.0,0.0,0.0
+"Albany city, Georgia",39422,13,1052,Albany city,Georgia,"Albany city, Georgia",31.580711,-84.17833,0.0,0.0,0.0,0.0
+"Athens-Clarke County unified government (balance), Georgia",46523,13,3440,Athens-Clarke County unified government (balance),Georgia,"Athens-Clarke County unified government (balance), Georgia",33.95759,-83.358855,0.0,0.0,7.0,1.0
+"Augusta-Richmond County consolidated government (balance), Georgia",49838,13,4204,Augusta-Richmond County consolidated government (balance),Georgia,"Augusta-Richmond County consolidated government (balance), Georgia",33.4693345,-81.988562,1.0,1.0,0.0,0.0
+"Macon-Bibb County, Georgia",47625,13,49008,Macon-Bibb County,Georgia,"Macon-Bibb County, Georgia",32.8406946,-83.6324022,0.0,0.0,0.0,0.0
+"Savannah city, Georgia",53258,13,69000,Savannah city,Georgia,"Savannah city, Georgia",32.0818302,-81.0906924,1.0,0.0,1.0,0.0
+"Decatur city, Illinois",49714,17,18823,Decatur city,Illinois,"Decatur city, Illinois",40.265028,-89.191575,0.0,0.0,0.0,0.0
+"Bloomington city, Indiana",47360,18,5860,Bloomington city,Indiana,"Bloomington city, Indiana",39.12296945,-86.53201577420967,0.0,0.0,4.0,0.0
+"Evansville city, Indiana",48127,18,22000,Evansville city,Indiana,"Evansville city, Indiana",40.440862,-80.001797,0.0,2.0,11.0,0.0
+"Gary city, Indiana",36153,18,27000,Gary city,Indiana,"Gary city, Indiana",32.030637,-94.37784943280631,0.0,0.0,0.0,0.0
+"Lafayette city, Indiana",51439,18,40788,Lafayette city,Indiana,"Lafayette city, Indiana",40.4179044,-86.89097104586222,0.0,2.0,1.0,3.0
+"Muncie city, Indiana",40968,18,51876,Muncie city,Indiana,"Muncie city, Indiana",40.19564235,-85.38703095861145,1.0,0.0,8.0,0.0
+"South Bend city, Indiana",51610,18,71000,South Bend city,Indiana,"South Bend city, Indiana",41.666181050000006,-86.26545739994202,0.0,0.0,7.0,1.0
+"Ames city, Iowa",52565,19,1855,Ames city,Iowa,"Ames city, Iowa",42.0263603,-93.61798566847555,1.0,0.0,6.0,1.0
+"Waterloo city, Iowa",52888,19,82425,Waterloo city,Iowa,"Waterloo city, Iowa",42.4989181,-92.3321273,0.0,0.0,0.0,0.0
+"Topeka city, Kansas",50709,20,71000,Topeka city,Kansas,"Topeka city, Kansas",39.08320255,-95.8795183923203,0.0,0.0,0.0,0.0
+"Bowling Green city, Kentucky",45812,21,8902,Bowling Green city,Kentucky,"Bowling Green city, Kentucky",37.409955,-86.484523,1.0,0.0,0.0,0.0
+"Baton Rouge city, Louisiana",50304,22,5000,Baton Rouge city,Louisiana,"Baton Rouge city, Louisiana",30.445671,-91.1114748,1.0,1.0,0.0,0.0
+"Lafayette city, Louisiana",50504,22,40735,Lafayette city,Louisiana,"Lafayette city, Louisiana",30.2204787,-92.0245651,0.0,0.0,0.0,0.0
+"New Orleans city, Louisiana",52322,22,55000,New Orleans city,Louisiana,"New Orleans city, Louisiana",29.9461665,-90.0784417,0.0,0.0,9.0,0.0
+"Shreveport city, Louisiana",43643,22,70000,Shreveport city,Louisiana,"Shreveport city, Louisiana",32.4903195,-93.7019392,0.0,0.0,1.0,0.0
+"Dundalk CDP, Maryland",50648,24,23975,Dundalk CDP,Maryland,"Dundalk CDP, Maryland",39.274777,-76.500758,3.0,3.0,14.0,1.0
+"Fall River city, Massachusetts",46789,25,23000,Fall River city,Massachusetts,"Fall River city, Massachusetts",42.567154,-71.299784,0.0,1.0,0.0,0.0
+"New Bedford city, Massachusetts",53024,25,45000,New Bedford city,Massachusetts,"New Bedford city, Massachusetts",41.173209,-73.190759,0.0,0.0,9.0,0.0
+"Springfield city, Massachusetts",44286,25,67000,Springfield city,Massachusetts,"Springfield city, Massachusetts",42.101428,-72.5899948,1.0,0.0,1.0,0.0
+"Detroit city, Michigan",36453,26,22000,Detroit city,Michigan,"Detroit city, Michigan",42.3315509,-83.0466403,0.0,2.0,11.0,1.0
+"Flint city, Michigan",33036,26,29000,Flint city,Michigan,"Flint city, Michigan",43.0228767,-83.69808941025136,0.0,0.0,0.0,0.0
+"Kalamazoo city, Michigan",43509,26,42160,Kalamazoo city,Michigan,"Kalamazoo city, Michigan",42.274924,-85.587168,0.0,0.0,12.0,1.0
+"Lansing city, Michigan",48962,26,46000,Lansing city,Michigan,"Lansing city, Michigan",42.7340573,-84.553437,0.0,1.0,10.0,0.0
+"Gulfport city, Mississippi",43047,28,29700,Gulfport city,Mississippi,"Gulfport city, Mississippi",30.3704094,-89.0807088,0.0,0.0,0.0,0.0
+"Jackson city, Mississippi",40631,28,36000,Jackson city,Mississippi,"Jackson city, Mississippi",29.949524,-90.073612,0.0,0.0,9.0,0.0
+"Independence city, Missouri",53082,29,35000,Independence city,Missouri,"Independence city, Missouri",39.0924792,-94.4137923,1.0,0.0,0.0,0.0
+"St. Joseph city, Missouri",53012,29,64550,St. Joseph city,Missouri,"St. Joseph city, Missouri",29.5459184,-95.5029482,0.0,0.0,0.0,0.0
+"St. Louis city, Missouri",52847,29,65000,St. Louis city,Missouri,"St. Louis city, Missouri",38.6280278,-90.1910154,0.0,0.0,4.0,1.0
+"Springfield city, Missouri",45400,29,70000,Springfield city,Missouri,"Springfield city, Missouri",37.2179252,-93.2906129,3.0,0.0,2.0,0.0
+"Camden city, New Jersey",37075,34,10000,Camden city,New Jersey,"Camden city, New Jersey",39.94483995,-75.11996184462943,0.0,13.0,2.0,0.0
+"East Orange city, New Jersey",43527,34,19390,East Orange city,New Jersey,"East Orange city, New Jersey",40.7532204,-74.2399736,0.0,0.0,0.0,1.0
+"Newark city, New Jersey",49688,34,51000,Newark city,New Jersey,"Newark city, New Jersey",40.7317764,-74.17360430516698,0.0,0.0,0.0,1.0
+"Passaic city, New Jersey",51551,34,56550,Passaic city,New Jersey,"Passaic city, New Jersey",40.8607784,-74.1234093,0.0,1.0,1.0,0.0
+"Paterson city, New Jersey",47373,34,57000,Paterson city,New Jersey,"Paterson city, New Jersey",40.9170394,-74.17197468312253,1.0,0.0,1.0,1.0
+"Trenton city, New Jersey",52508,34,74000,Trenton city,New Jersey,"Trenton city, New Jersey",40.23680765,-74.78991167849014,0.0,2.0,3.0,2.0
+"Las Cruces city, New Mexico",50372,35,39380,Las Cruces city,New Mexico,"Las Cruces city, New Mexico",32.40031845,-106.69139630112088,0.0,0.0,0.0,0.0
+"Albany city, New York",51386,36,1000,Albany city,New York,"Albany city, New York",42.6511674,-73.754968,0.0,0.0,9.0,1.0
+"Buffalo city, New York",48904,36,11000,Buffalo city,New York,"Buffalo city, New York",43.408777,-74.871618,0.0,0.0,0.0,0.0
+"Rochester city, New York",43631,36,63000,Rochester city,New York,"Rochester city, New York",43.157285,-77.615214,0.0,0.0,0.0,0.0
+"Syracuse city, New York",45179,36,73000,Syracuse city,New York,"Syracuse city, New York",43.0481221,-76.1474244,1.0,0.0,3.0,0.0
+"Greenville city, North Carolina",50120,37,28080,Greenville city,North Carolina,"Greenville city, North Carolina",35.2455293,-80.8420414,0.0,0.0,3.0,0.0
+"Jacksonville city, North Carolina",50930,37,34200,Jacksonville city,North Carolina,"Jacksonville city, North Carolina",34.7486693,-77.3659286,1.0,0.0,6.0,0.0
+"Akron city, Ohio",45534,39,1000,Akron city,Ohio,"Akron city, Ohio",41.10737515,-81.52948547647514,0.0,0.0,9.0,0.0
+"Canton city, Ohio",40711,39,12000,Canton city,Ohio,"Canton city, Ohio",40.7715977,-81.38577599411765,0.0,0.0,2.0,0.0
+"Cincinnati city, Ohio",48130,39,15000,Cincinnati city,Ohio,"Cincinnati city, Ohio",39.10413605,-84.51968566953926,1.0,1.0,11.0,1.0
+"Cleveland city, Ohio",37351,39,16000,Cleveland city,Ohio,"Cleveland city, Ohio",41.4934882,-81.7081179,0.0,1.0,3.0,1.0
+"Dayton city, Ohio",43780,39,21000,Dayton city,Ohio,"Dayton city, Ohio",39.75955985,-84.19401335698002,0.0,4.0,3.0,0.0
+"Lorain city, Ohio",46592,39,44856,Lorain city,Ohio,"Lorain city, Ohio",41.4685329,-82.1792667,0.0,0.0,3.0,1.0
+"Toledo city, Ohio",47365,39,77000,Toledo city,Ohio,"Toledo city, Ohio",41.65820945,-83.52075350061591,2.0,1.0,0.0,0.0
+"Lawton city, Oklahoma",50969,40,41850,Lawton city,Oklahoma,"Lawton city, Oklahoma",34.6059248,-98.40089730407186,0.0,0.0,2.0,0.0
+"Erie city, Pennsylvania",43839,42,24000,Erie city,Pennsylvania,"Erie city, Pennsylvania",41.1615717,-80.0861231,0.0,0.0,1.0,0.0
+"Reading city, Pennsylvania",43496,42,63624,Reading city,Pennsylvania,"Reading city, Pennsylvania",40.3371195,-75.92146829883839,0.0,2.0,0.0,1.0
+"Scranton city, Pennsylvania",48279,42,69000,Scranton city,Pennsylvania,"Scranton city, Pennsylvania",41.40991525,-75.66094368776098,0.0,0.0,5.0,0.0
+"Jackson city, Tennessee",50466,47,37640,Jackson city,Tennessee,"Jackson city, Tennessee",36.3188155,-82.3608515,0.0,0.0,0.0,0.0
+"Knoxville city, Tennessee",52826,47,40000,Knoxville city,Tennessee,"Knoxville city, Tennessee",35.9652356,-83.9247491,0.0,0.0,0.0,1.0
+"Memphis city, Tennessee",50622,47,48000,Memphis city,Tennessee,"Memphis city, Tennessee",35.1498448,-90.0463128,0.0,0.0,2.0,1.0
+"Brownsville city, Texas",46912,48,10768,Brownsville city,Texas,"Brownsville city, Texas",25.9024203,-97.49921489856638,0.0,0.0,0.0,0.0
+"College Station city, Texas",51228,48,15976,College Station city,Texas,"College Station city, Texas",30.60378845,-96.30718509734864,0.0,0.0,2.0,0.0
+"Edinburg city, Texas",50964,48,22660,Edinburg city,Texas,"Edinburg city, Texas",26.3028679,-98.1665667,0.0,0.0,1.0,0.0
+"El Paso city, Texas",52645,48,24000,El Paso city,Texas,"El Paso city, Texas",31.80971545,-106.25310970533516,0.0,0.0,1.0,1.0
+"Harlingen city, Texas",50166,48,32372,Harlingen city,Texas,"Harlingen city, Texas",26.1653137,-97.7206597,0.0,0.0,0.0,0.0
+"Pharr city, Texas",48631,48,57200,Pharr city,Texas,"Pharr city, Texas",35.469264,-97.515679,0.0,0.0,2.0,0.0
+"San Marcos city, Texas",52040,48,65600,San Marcos city,Texas,"San Marcos city, Texas",35.469264,-97.515679,0.0,0.0,2.0,0.0
+"Lynchburg city, Virginia",49076,51,47672,Lynchburg city,Virginia,"Lynchburg city, Virginia",37.4136907,-79.14438465,2.0,1.0,6.0,0.0
+"Roanoke city, Virginia",49570,51,68000,Roanoke city,Virginia,"Roanoke city, Virginia",14.0146616,-88.5743855,0.0,0.0,0.0,0.0
+"Milwaukee city, Wisconsin",49270,55,53000,Milwaukee city,Wisconsin,"Milwaukee city, Wisconsin",43.0349931,-87.922497,0.0,11.0,13.0,0.0
+"Bayamón zona urbana, Puerto Rico",28425,72,6593,Bayamón zona urbana,Puerto Rico,"Bayamón zona urbana, Puerto Rico",18.37929,-66.16352,1.0,0.0,4.0,1.0
+"Caguas zona urbana, Puerto Rico",22060,72,10334,Caguas zona urbana,Puerto Rico,"Caguas zona urbana, Puerto Rico",18.33881,-67.25163,0.0,0.0,4.0,1.0
+"Carolina zona urbana, Puerto Rico",36646,72,14290,Carolina zona urbana,Puerto Rico,"Carolina zona urbana, Puerto Rico",18.40767,-65.98102,0.0,1.0,3.0,1.0
+"Guaynabo zona urbana, Puerto Rico",48081,72,32522,Guaynabo zona urbana,Puerto Rico,"Guaynabo zona urbana, Puerto Rico",18.38034,-67.18839,0.0,0.0,0.0,0.0
+"Ponce zona urbana, Puerto Rico",16795,72,63820,Ponce zona urbana,Puerto Rico,"Ponce zona urbana, Puerto Rico",18.33881,-67.25163,0.0,0.0,4.0,1.0
+"San Juan zona urbana, Puerto Rico",25928,72,76770,San Juan zona urbana,Puerto Rico,"San Juan zona urbana, Puerto Rico",18.33881,-67.25163,0.0,0.0,4.0,1.0
